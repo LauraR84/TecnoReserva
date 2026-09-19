@@ -1,0 +1,1414 @@
+reserva_id,recurso_id,nombre_recurso,tipo_recurso,usuario_id,rol_usuario,fecha_reserva,hora_inicio,hora_fin,duracion_horas,estado_reserva,dias_atraso_devolucion
+RES00001,R014,Notebook 14,Notebook,U0056,Estudiante,2026-04-01,14:00,15:00,1,Completada,2.0
+RES00002,R037,Tablet 9,Tablet,U0052,Estudiante,2026-04-01,18:00,20:00,2,Completada,0.0
+RES00003,R024,Pantalla interactiva 1,Pantalla interactiva,U0064,Estudiante,2026-04-01,17:00,21:00,4,Cancelada,0.0
+RES00004,R029,Tablet 1,Tablet,U0078,Estudiante,2026-04-01,16:00,17:00,1,Completada,4.0
+RES00005,R008,Notebook 8,Notebook,U0084,Estudiante,2026-04-01,14:00,16:00,2,Completada,0.0
+RES00006,R006,Notebook 6,Notebook,U0055,Estudiante,2026-04-01,09:00,10:00,1,Completada,0.0
+RES00007,R018,Proyector 3,Proyector,U0068,Estudiante,2026-04-01,17:00,18:00,1,Completada,0.0
+RES00008,R019,Proyector 4,Proyector,U0017,Docente,2026-04-01,10:00,12:00,2,Completada,0.0
+RES00009,R012,Notebook 12,Notebook,U0008,Docente,2026-04-01,15:00,16:00,1,Cancelada,0.0
+RES00010,R007,Notebook 7,Notebook,U0086,Administrativo,2026-04-01,16:00,19:00,3,Completada,0.0
+RES00011,R013,Notebook 13,Notebook,U0067,Estudiante,2026-04-01,10:00,11:00,1,Completada,3.0
+RES00012,R019,Proyector 4,Proyector,U0077,Estudiante,2026-04-01,17:00,19:00,2,Completada,0.0
+RES00013,R018,Proyector 3,Proyector,U0002,Docente,2026-04-01,17:00,19:00,2,Completada,0.0
+RES00014,R035,Tablet 7,Tablet,U0085,Estudiante,2026-04-02,12:00,13:00,1,Completada,0.0
+RES00015,R013,Notebook 13,Notebook,U0042,Estudiante,2026-04-02,13:00,14:00,1,Completada,0.0
+RES00016,R017,Proyector 2,Proyector,U0018,Docente,2026-04-02,19:00,21:00,2,Completada,0.0
+RES00017,R021,Proyector 6,Proyector,U0074,Estudiante,2026-04-02,11:00,13:00,2,Completada,0.0
+RES00018,R002,Notebook 2,Notebook,U0028,Estudiante,2026-04-02,11:00,12:00,1,Completada,0.0
+RES00019,R013,Notebook 13,Notebook,U0016,Docente,2026-04-02,10:00,12:00,2,Completada,0.0
+RES00020,R004,Notebook 4,Notebook,U0029,Estudiante,2026-04-02,19:00,21:00,2,Completada,0.0
+RES00021,R006,Notebook 6,Notebook,U0093,Administrativo,2026-04-02,09:00,10:00,1,Completada,0.0
+RES00022,R012,Notebook 12,Notebook,U0014,Docente,2026-04-02,19:00,20:00,1,No-show,0.0
+RES00023,R021,Proyector 6,Proyector,U0028,Estudiante,2026-04-03,09:00,10:00,1,Completada,0.0
+RES00024,R033,Tablet 5,Tablet,U0086,Administrativo,2026-04-03,13:00,16:00,3,Completada,0.0
+RES00025,R036,Tablet 8,Tablet,U0061,Estudiante,2026-04-03,18:00,20:00,2,Completada,0.0
+RES00026,R029,Tablet 1,Tablet,U0080,Estudiante,2026-04-03,15:00,16:00,1,Completada,0.0
+RES00027,R034,Tablet 6,Tablet,U0032,Estudiante,2026-04-03,09:00,10:00,1,Completada,0.0
+RES00028,R039,Parlante portátil 1,Parlante portátil,U0045,Estudiante,2026-04-03,10:00,11:00,1,Cancelada,0.0
+RES00029,R015,Notebook 15,Notebook,U0087,Administrativo,2026-04-03,15:00,17:00,2,Completada,0.0
+RES00030,R032,Tablet 4,Tablet,U0075,Estudiante,2026-04-03,11:00,15:00,4,Completada,0.0
+RES00031,R021,Proyector 6,Proyector,U0036,Estudiante,2026-04-03,08:00,09:00,1,Completada,0.0
+RES00032,R036,Tablet 8,Tablet,U0064,Estudiante,2026-04-03,13:00,15:00,2,Completada,0.0
+RES00033,R024,Pantalla interactiva 1,Pantalla interactiva,U0075,Estudiante,2026-04-03,19:00,20:00,1,Completada,0.0
+RES00034,R004,Notebook 4,Notebook,U0048,Estudiante,2026-04-05,14:00,16:00,2,Completada,0.0
+RES00035,R004,Notebook 4,Notebook,U0051,Estudiante,2026-04-06,09:00,11:00,2,Completada,0.0
+RES00036,R004,Notebook 4,Notebook,U0015,Docente,2026-04-06,13:00,14:00,1,No-show,0.0
+RES00037,R020,Proyector 5,Proyector,U0037,Estudiante,2026-04-06,17:00,18:00,1,Completada,0.0
+RES00038,R030,Tablet 2,Tablet,U0049,Estudiante,2026-04-06,19:00,20:00,1,Completada,0.0
+RES00039,R038,Tablet 10,Tablet,U0049,Estudiante,2026-04-06,19:00,22:00,4,Cancelada,0.0
+RES00040,R002,Notebook 2,Notebook,U0060,Estudiante,2026-04-06,09:00,12:00,3,Cancelada,0.0
+RES00041,R039,Parlante portátil 1,Parlante portátil,U0073,Estudiante,2026-04-06,16:00,18:00,2,Completada,0.0
+RES00042,R017,Proyector 2,Proyector,U0060,Estudiante,2026-04-07,18:00,19:00,1,Completada,0.0
+RES00043,R003,Notebook 3,Notebook,U0059,Estudiante,2026-04-07,09:00,10:00,1,Completada,0.0
+RES00044,R007,Notebook 7,Notebook,U0071,Estudiante,2026-04-07,11:00,13:00,2,Completada,4.0
+RES00045,R042,Parlante portátil 4,Parlante portátil,U0064,Estudiante,2026-04-07,10:00,11:00,1,Completada,0.0
+RES00046,R017,Proyector 2,Proyector,U0037,Estudiante,2026-04-07,10:00,12:00,2,Completada,0.0
+RES00047,R018,Proyector 3,Proyector,U0048,Estudiante,2026-04-07,13:00,16:00,3,Completada,0.0
+RES00048,R034,Tablet 6,Tablet,U0069,Estudiante,2026-04-07,10:00,11:00,1,Completada,0.0
+RES00049,R001,Notebook 1,Notebook,U0080,Estudiante,2026-04-07,08:00,09:00,1,Completada,0.0
+RES00050,R003,Notebook 3,Notebook,U0083,Estudiante,2026-04-08,12:00,13:00,1,No-show,0.0
+RES00051,R004,Notebook 4,Notebook,U0092,Administrativo,2026-04-08,09:00,13:00,4,Completada,0.0
+RES00052,R009,Notebook 9,Notebook,U0040,Estudiante,2026-04-08,15:00,18:00,3,Completada,0.0
+RES00053,R008,Notebook 8,Notebook,U0034,Estudiante,2026-04-08,11:00,14:00,3,Completada,0.0
+RES00054,R002,Notebook 2,Notebook,U0052,Estudiante,2026-04-08,17:00,19:00,2,Cancelada,0.0
+RES00055,R022,Proyector 7,Proyector,U0087,Administrativo,2026-04-08,17:00,18:00,1,Completada,0.0
+RES00056,R028,Pantalla interactiva 5,Pantalla interactiva,U0057,Estudiante,2026-04-08,15:00,17:00,2,Cancelada,0.0
+RES00057,R010,Notebook 10,Notebook,U0049,Estudiante,2026-04-09,13:00,14:00,1,Cancelada,0.0
+RES00058,R001,Notebook 1,Notebook,U0080,Estudiante,2026-04-09,15:00,16:00,1,Completada,0.0
+RES00059,R035,Tablet 7,Tablet,U0082,Estudiante,2026-04-09,15:00,16:00,1,Completada,0.0
+RES00060,R026,Pantalla interactiva 3,Pantalla interactiva,U0025,Docente,2026-04-09,09:00,10:00,1,Completada,0.0
+RES00061,R007,Notebook 7,Notebook,U0059,Estudiante,2026-04-09,17:00,19:00,2,Completada,0.0
+RES00062,R015,Notebook 15,Notebook,U0051,Estudiante,2026-04-09,08:00,09:00,1,Completada,0.0
+RES00063,R019,Proyector 4,Proyector,U0052,Estudiante,2026-04-10,11:00,12:00,1,Completada,0.0
+RES00064,R010,Notebook 10,Notebook,U0059,Estudiante,2026-04-10,08:00,11:00,3,Completada,0.0
+RES00065,R007,Notebook 7,Notebook,U0092,Administrativo,2026-04-10,16:00,19:00,3,Cancelada,0.0
+RES00066,R003,Notebook 3,Notebook,U0065,Estudiante,2026-04-10,09:00,13:00,4,Completada,0.0
+RES00067,R018,Proyector 3,Proyector,U0046,Estudiante,2026-04-10,15:00,18:00,3,Completada,0.0
+RES00068,R028,Pantalla interactiva 5,Pantalla interactiva,U0085,Estudiante,2026-04-10,15:00,17:00,2,Cancelada,0.0
+RES00069,R031,Tablet 3,Tablet,U0028,Estudiante,2026-04-13,13:00,15:00,2,Completada,0.0
+RES00070,R010,Notebook 10,Notebook,U0060,Estudiante,2026-04-13,12:00,16:00,4,Completada,0.0
+RES00071,R016,Proyector 1,Proyector,U0066,Estudiante,2026-04-13,13:00,16:00,3,Completada,0.0
+RES00072,R038,Tablet 10,Tablet,U0052,Estudiante,2026-04-13,14:00,16:00,2,Completada,0.0
+RES00073,R026,Pantalla interactiva 3,Pantalla interactiva,U0087,Administrativo,2026-04-13,10:00,11:00,1,Completada,0.0
+RES00074,R001,Notebook 1,Notebook,U0040,Estudiante,2026-04-13,16:00,17:00,1,Completada,0.0
+RES00075,R013,Notebook 13,Notebook,U0013,Docente,2026-04-13,15:00,16:00,1,No-show,0.0
+RES00076,R009,Notebook 9,Notebook,U0055,Estudiante,2026-04-13,16:00,17:00,1,No-show,0.0
+RES00077,R029,Tablet 1,Tablet,U0039,Estudiante,2026-04-14,16:00,19:00,3,Completada,0.0
+RES00078,R021,Proyector 6,Proyector,U0014,Docente,2026-04-14,14:00,16:00,2,No-show,0.0
+RES00079,R005,Notebook 5,Notebook,U0005,Docente,2026-04-14,18:00,19:00,1,Completada,0.0
+RES00080,R022,Proyector 7,Proyector,U0017,Docente,2026-04-14,09:00,10:00,1,Completada,0.0
+RES00081,R019,Proyector 4,Proyector,U0002,Docente,2026-04-14,16:00,19:00,3,Completada,0.0
+RES00082,R038,Tablet 10,Tablet,U0028,Estudiante,2026-04-14,12:00,13:00,1,Completada,0.0
+RES00083,R012,Notebook 12,Notebook,U0008,Docente,2026-04-14,19:00,22:00,4,Completada,0.0
+RES00084,R005,Notebook 5,Notebook,U0038,Estudiante,2026-04-14,09:00,11:00,2,Completada,0.0
+RES00085,R034,Tablet 6,Tablet,U0075,Estudiante,2026-04-14,12:00,14:00,2,Completada,0.0
+RES00086,R008,Notebook 8,Notebook,U0012,Docente,2026-04-14,17:00,19:00,2,No-show,0.0
+RES00087,R002,Notebook 2,Notebook,U0049,Estudiante,2026-04-14,13:00,16:00,3,Completada,0.0
+RES00088,R001,Notebook 1,Notebook,U0044,Estudiante,2026-04-14,09:00,11:00,2,Completada,1.0
+RES00089,R037,Tablet 9,Tablet,U0003,Docente,2026-04-15,13:00,17:00,4,Completada,0.0
+RES00090,R005,Notebook 5,Notebook,U0017,Docente,2026-04-15,15:00,18:00,3,Completada,
+RES00091,R036,Tablet 8,Tablet,U0025,Docente,2026-04-15,09:00,10:00,1,Completada,0.0
+RES00092,R028,Pantalla interactiva 5,Pantalla interactiva,U0010,Docente,2026-04-15,08:00,10:00,2,Completada,4.0
+RES00093,R038,Tablet 10,Tablet,U0090,Administrativo,2026-04-15,09:00,11:00,2,Completada,0.0
+RES00094,R027,Pantalla interactiva 4,Pantalla interactiva,U0088,Administrativo,2026-04-15,08:00,11:00,3,Completada,0.0
+RES00095,R018,Proyector 3,Proyector,U0081,Estudiante,2026-04-15,19:00,22:00,3,Completada,0.0
+RES00096,R036,Tablet 8,Tablet,U0005,Docente,2026-04-15,19:00,20:00,1,Completada,0.0
+RES00097,R028,Pantalla interactiva 5,Pantalla interactiva,U0053,Estudiante,2026-04-15,16:00,18:00,2,Completada,0.0
+RES00098,R003,Notebook 3,Notebook,U0082,Estudiante,2026-04-15,14:00,15:00,1,Completada,0.0
+RES00099,R019,Proyector 4,Proyector,U0021,Docente,2026-04-15,08:00,10:00,2,No-show,0.0
+RES00100,R010,Notebook 10,Notebook,U0078,Estudiante,2026-04-15,11:00,13:00,2,Completada,0.0
+RES00101,R018,Proyector 3,Proyector,U0082,Estudiante,2026-04-16,12:00,14:00,2,Completada,0.0
+RES00102,R031,Tablet 3,Tablet,U0086,Administrativo,2026-04-16,19:00,21:00,2,Completada,0.0
+RES00103,R011,Notebook 11,Notebook,U0085,Estudiante,2026-04-16,14:00,16:00,2,Completada,0.0
+RES00104,R039,Parlante portátil 1,Parlante portátil,U0005,Docente,2026-04-16,11:00,15:00,4,Completada,0.0
+RES00105,R036,Tablet 8,Tablet,U0019,Docente,2026-04-16,16:00,18:00,2,Completada,0.0
+RES00106,R008,Notebook 8,Notebook,U0032,Estudiante,2026-04-17,12:00,13:00,1,Completada,0.0
+RES00107,R042,Parlante portátil 4,Parlante portátil,U0006,Docente,2026-04-17,09:00,11:00,2,Completada,0.0
+RES00108,R008,Notebook 8,Notebook,U0029,Estudiante,2026-04-17,10:00,12:00,2,Completada,0.0
+RES00109,R014,Notebook 14,Notebook,U0008,Docente,2026-04-17,10:00,12:00,2,Completada,0.0
+RES00110,R017,Proyector 2,Proyector,U0053,Estudiante,2026-04-17,17:00,18:00,1,Completada,0.0
+RES00111,R017,Proyector 2,Proyector,U0068,Estudiante,2026-04-17,14:00,18:00,4,Completada,0.0
+RES00112,R014,Notebook 14,Notebook,U0055,Estudiante,2026-04-17,18:00,21:00,3,Completada,0.0
+RES00113,R028,Pantalla interactiva 5,Pantalla interactiva,U0012,Docente,2026-04-17,12:00,13:00,1,Completada,0.0
+RES00114,R004,Notebook 4,Notebook,U0010,Docente,2026-04-17,13:00,14:00,1,Completada,0.0
+RES00115,R035,Tablet 7,Tablet,U0081,Estudiante,2026-04-20,14:00,18:00,4,No-show,0.0
+RES00116,R023,Proyector 8,Proyector,U0036,Estudiante,2026-04-20,12:00,15:00,3,Completada,0.0
+RES00117,R037,Tablet 9,Tablet,U0079,Estudiante,2026-04-20,09:00,10:00,1,Completada,3.0
+RES00118,R035,Tablet 7,Tablet,U0068,Estudiante,2026-04-20,16:00,18:00,2,Completada,0.0
+RES00119,R007,Notebook 7,Notebook,U0091,Administrativo,2026-04-20,10:00,13:00,3,No-show,0.0
+RES00120,R012,Notebook 12,Notebook,U0007,Docente,2026-04-20,19:00,22:00,3,No-show,0.0
+RES00121,R021,Proyector 6,Proyector,U0009,Docente,2026-04-20,14:00,15:00,1,Completada,0.0
+RES00122,R016,Proyector 1,Proyector,U0024,Docente,2026-04-21,15:00,16:00,1,Completada,0.0
+RES00123,R006,Notebook 6,Notebook,U0007,Docente,2026-04-21,10:00,12:00,2,Completada,0.0
+RES00124,R028,Pantalla interactiva 5,Pantalla interactiva,U0067,Estudiante,2026-04-21,18:00,20:00,2,Completada,0.0
+RES00125,R005,Notebook 5,Notebook,U0076,Estudiante,2026-04-21,18:00,21:00,3,Completada,0.0
+RES00126,R012,Notebook 12,Notebook,U0045,,2026-04-21,16:00,17:00,1,Cancelada,0.0
+RES00127,R019,Proyector 4,Proyector,U0035,Estudiante,2026-04-21,14:00,16:00,2,Completada,0.0
+RES00128,R006,Notebook 6,Notebook,U0059,Estudiante,2026-04-21,12:00,16:00,4,Completada,0.0
+RES00129,R014,Notebook 14,Notebook,U0044,Estudiante,2026-04-22,14:00,16:00,2,Completada,0.0
+RES00130,R032,Tablet 4,Tablet,U0082,Estudiante,2026-04-22,19:00,21:00,2,Completada,0.0
+RES00131,R017,Proyector 2,Proyector,U0039,Estudiante,2026-04-22,19:00,20:00,1,Completada,0.0
+RES00132,R002,Notebook 2,Notebook,U0089,Administrativo,2026-04-22,16:00,17:00,1,Completada,2.0
+RES00133,R005,Notebook 5,Notebook,U0041,Estudiante,2026-04-22,12:00,14:00,2,Completada,0.0
+RES00134,R043,Parlante portátil 5,Parlante portátil,U0028,Estudiante,2026-04-22,11:00,13:00,2,Completada,0.0
+RES00135,R003,Notebook 3,Notebook,U0030,Estudiante,2026-04-22,15:00,17:00,2,No-show,0.0
+RES00136,R024,Pantalla interactiva 1,Pantalla interactiva,U0003,Docente,2026-04-22,18:00,21:00,3,Cancelada,0.0
+RES00137,R037,Tablet 9,Tablet,U0003,Docente,2026-04-22,08:00,10:00,2,Completada,0.0
+RES00138,R011,Notebook 11,Notebook,U0068,Estudiante,2026-04-22,09:00,11:00,2,No-show,0.0
+RES00139,R009,Notebook 9,Notebook,U0022,Docente,2026-04-22,09:00,10:00,1,Completada,0.0
+RES00140,R007,Notebook 7,Notebook,U0005,Docente,2026-04-22,19:00,20:00,1,Completada,3.0
+RES00141,R024,Pantalla interactiva 1,Pantalla interactiva,U0055,Estudiante,2026-04-23,17:00,18:00,1,Completada,0.0
+RES00142,R007,Notebook 7,Notebook,U0074,Estudiante,2026-04-23,11:00,14:00,3,Completada,0.0
+RES00143,R001,Notebook 1,Notebook,U0020,Docente,2026-04-23,19:00,20:00,1,Completada,0.0
+RES00144,R023,Proyector 8,Proyector,U0054,Estudiante,2026-04-23,17:00,20:00,3,Cancelada,0.0
+RES00145,R018,Proyector 3,Proyector,U0026,Estudiante,2026-04-23,16:00,18:00,2,Completada,4.0
+RES00146,R012,Notebook 12,Notebook,U0087,Administrativo,2026-04-23,10:00,12:00,2,Cancelada,0.0
+RES00147,R015,Notebook 15,Notebook,U0088,Administrativo,2026-04-23,13:00,15:00,2,Completada,1.0
+RES00148,R002,Notebook 2,Notebook,U0025,Docente,2026-04-23,17:00,20:00,3,Completada,0.0
+RES00149,R014,Notebook 14,Notebook,U0035,Estudiante,2026-04-23,12:00,15:00,3,Completada,0.0
+RES00150,R007,Notebook 7,Notebook,U0036,Estudiante,2026-04-23,18:00,20:00,2,Completada,0.0
+RES00151,R039,Parlante portátil 1,Parlante portátil,U0009,Docente,2026-04-23,11:00,14:00,3,Completada,0.0
+RES00152,R004,Notebook 4,Notebook,U0046,Estudiante,2026-04-23,16:00,18:00,2,Completada,0.0
+RES00153,R028,Pantalla interactiva 5,Pantalla interactiva,U0005,Docente,2026-04-23,12:00,13:00,1,Completada,0.0
+RES00154,R006,Notebook 6,Notebook,U0063,Estudiante,2026-04-24,08:00,12:00,4,Completada,0.0
+RES00155,R026,Pantalla interactiva 3,Pantalla interactiva,U0031,Estudiante,2026-04-24,12:00,13:00,1,Completada,0.0
+RES00156,R026,Pantalla interactiva 3,Pantalla interactiva,U0084,Estudiante,2026-04-24,14:00,16:00,2,Completada,0.0
+RES00157,R001,Notebook 1,Notebook,U0040,Estudiante,2026-04-24,08:00,09:00,1,No-show,0.0
+RES00158,R023,Proyector 8,Proyector,U0025,Docente,2026-04-24,19:00,21:00,2,Completada,0.0
+RES00159,R013,Notebook 13,Notebook,U0028,Estudiante,2026-04-24,17:00,18:00,1,Completada,0.0
+RES00160,R010,Notebook 10,Notebook,U0011,Docente,2026-04-24,11:00,13:00,2,Completada,0.0
+RES00161,R004,Notebook 4,Notebook,U0015,,2026-04-24,14:00,15:00,1,Completada,0.0
+RES00162,R015,Notebook 15,Notebook,U0041,Estudiante,2026-04-24,10:00,13:00,3,Completada,0.0
+RES00163,R008,Notebook 8,Notebook,U0063,,2026-04-24,09:00,12:00,3,Completada,0.0
+RES00164,R011,Notebook 11,Notebook,U0022,Docente,2026-04-24,18:00,22:00,4,Completada,0.0
+RES00165,R014,Notebook 14,Notebook,U0087,Administrativo,2026-04-24,13:00,17:00,4,Completada,0.0
+RES00166,R016,Proyector 1,Proyector,U0003,Docente,2026-04-24,10:00,11:00,1,Completada,0.0
+RES00167,R018,Proyector 3,Proyector,U0051,Estudiante,2026-04-24,14:00,16:00,2,Completada,4.0
+RES00168,R011,Notebook 11,Notebook,U0054,Estudiante,2026-04-24,19:00,20:00,1,Completada,0.0
+RES00169,R007,Notebook 7,Notebook,U0010,Docente,2026-04-24,14:00,16:00,2,Completada,0.0
+RES00170,R039,Parlante portátil 1,Parlante portátil,U0076,Estudiante,2026-04-24,08:00,09:00,1,Completada,0.0
+RES00171,R010,Notebook 10,Notebook,U0036,Estudiante,2026-04-27,13:00,14:00,1,Completada,0.0
+RES00172,R031,Tablet 3,Tablet,U0066,Estudiante,2026-04-27,12:00,15:00,3,Completada,0.0
+RES00173,R004,Notebook 4,Notebook,U0051,Estudiante,2026-04-27,11:00,12:00,1,Completada,0.0
+RES00174,R039,Parlante portátil 1,Parlante portátil,U0079,Estudiante,2026-04-27,13:00,16:00,3,Completada,0.0
+RES00175,R012,Notebook 12,Notebook,U0064,Estudiante,2026-04-27,15:00,17:00,2,Completada,0.0
+RES00176,R032,Tablet 4,Tablet,U0065,Estudiante,2026-04-27,10:00,11:00,1,No-show,0.0
+RES00177,R022,Proyector 7,Proyector,U0072,Estudiante,2026-04-27,13:00,15:00,2,Completada,0.0
+RES00178,R015,Notebook 15,Notebook,U0086,Administrativo,2026-04-27,08:00,09:00,1,Completada,0.0
+RES00179,R016,Proyector 1,Proyector,U0080,Estudiante,2026-04-27,09:00,10:00,1,Completada,0.0
+RES00180,R014,Notebook 14,Notebook,U0049,Estudiante,2026-04-27,08:00,10:00,2,Completada,0.0
+RES00181,R041,Parlante portátil 3,Parlante portátil,U0036,Estudiante,2026-04-27,10:00,13:00,3,Completada,0.0
+RES00182,R010,Notebook 10,Notebook,U0065,Estudiante,2026-04-28,15:00,18:00,3,Cancelada,0.0
+RES00183,R034,Tablet 6,Tablet,U0025,Docente,2026-04-28,11:00,15:00,4,Completada,0.0
+RES00184,R034,Tablet 6,Tablet,U0060,Estudiante,2026-04-28,11:00,15:00,4,Completada,0.0
+RES00185,R004,Notebook 4,Notebook,U0088,Administrativo,2026-04-28,09:00,12:00,3,Completada,0.0
+RES00186,R031,Tablet 3,Tablet,U0056,,2026-04-28,11:00,12:00,1,Completada,4.0
+RES00187,R016,Proyector 1,Proyector,U0019,Docente,2026-04-28,08:00,09:00,1,Completada,0.0
+RES00188,R035,Tablet 7,Tablet,U0085,Estudiante,2026-04-28,15:00,17:00,2,Completada,0.0
+RES00189,R012,Notebook 12,Notebook,U0019,Docente,2026-04-28,16:00,19:00,3,Completada,0.0
+RES00190,R003,Notebook 3,Notebook,U0058,Estudiante,2026-04-28,17:00,19:00,2,Completada,0.0
+RES00191,R034,Tablet 6,Tablet,U0061,Estudiante,2026-04-28,09:00,13:00,4,Completada,3.0
+RES00192,R004,Notebook 4,Notebook,U0076,Estudiante,2026-04-28,19:00,21:00,2,Completada,0.0
+RES00193,R010,Notebook 10,Notebook,U0016,Docente,2026-04-28,09:00,11:00,2,Completada,0.0
+RES00194,R011,Notebook 11,Notebook,U0014,Docente,2026-04-28,18:00,19:00,1,Completada,0.0
+RES00195,R012,Notebook 12,Notebook,U0038,Estudiante,2026-04-28,12:00,15:00,3,Completada,0.0
+RES00196,R007,Notebook 7,Notebook,U0016,Docente,2026-04-28,15:00,16:00,1,Cancelada,0.0
+RES00197,R012,Notebook 12,Notebook,U0005,Docente,2026-04-28,18:00,20:00,2,Completada,0.0
+RES00198,R012,Notebook 12,Notebook,U0027,Estudiante,2026-04-29,11:00,13:00,2,Completada,0.0
+RES00199,R016,Proyector 1,Proyector,U0041,Estudiante,2026-04-29,09:00,11:00,2,Completada,0.0
+RES00200,R029,Tablet 1,Tablet,U0087,Administrativo,2026-04-29,13:00,15:00,2,Completada,0.0
+RES00201,R031,Tablet 3,Tablet,U0003,Docente,2026-04-29,17:00,18:00,1,Completada,0.0
+RES00202,R004,Notebook 4,Notebook,U0074,Estudiante,2026-04-29,18:00,22:00,4,Completada,0.0
+RES00203,R010,Notebook 10,Notebook,U0015,Docente,2026-04-29,19:00,22:00,4,Completada,0.0
+RES00204,R002,Notebook 2,Notebook,U0021,Docente,2026-04-29,18:00,20:00,2,Cancelada,0.0
+RES00205,R039,Parlante portátil 1,Parlante portátil,U0004,Docente,2026-04-29,15:00,17:00,2,Completada,0.0
+RES00206,R029,Tablet 1,Tablet,U0047,Estudiante,2026-04-29,12:00,15:00,3,Completada,0.0
+RES00207,R019,Proyector 4,Proyector,U0073,Estudiante,2026-04-29,17:00,20:00,3,Completada,0.0
+RES00208,R021,Proyector 6,Proyector,U0072,Estudiante,2026-04-29,18:00,19:00,1,Completada,1.0
+RES00209,R038,Tablet 10,Tablet,U0081,Estudiante,2026-04-29,19:00,20:00,1,Completada,0.0
+RES00210,R032,Tablet 4,Tablet,U0090,Administrativo,2026-04-29,15:00,16:00,1,Completada,0.0
+RES00211,R009,Notebook 9,Notebook,U0004,Docente,2026-04-29,12:00,13:00,1,Completada,0.0
+RES00212,R017,Proyector 2,Proyector,U0014,Docente,2026-04-29,14:00,15:00,1,Completada,0.0
+RES00213,R035,Tablet 7,Tablet,U0029,Estudiante,2026-04-29,13:00,14:00,1,Completada,0.0
+RES00214,R008,Notebook 8,Notebook,U0011,Docente,2026-04-30,13:00,16:00,3,Completada,0.0
+RES00215,R017,Proyector 2,Proyector,U0036,Estudiante,2026-04-30,17:00,18:00,1,Completada,0.0
+RES00216,R038,Tablet 10,Tablet,U0034,Estudiante,2026-04-30,13:00,14:00,1,Completada,0.0
+RES00217,R005,Notebook 5,Notebook,U0048,Estudiante,2026-04-30,11:00,13:00,2,Completada,0.0
+RES00218,R024,Pantalla interactiva 1,Pantalla interactiva,U0089,Administrativo,2026-04-30,10:00,11:00,1,Completada,0.0
+RES00219,R008,Notebook 8,Notebook,U0087,Administrativo,2026-04-30,11:00,15:00,4,No-show,0.0
+RES00220,R034,Tablet 6,Tablet,U0004,Docente,2026-04-30,15:00,19:00,4,Completada,0.0
+RES00221,R036,Tablet 8,Tablet,U0090,Administrativo,2026-04-30,19:00,20:00,1,Completada,0.0
+RES00222,R019,Proyector 4,Proyector,U0009,Docente,2026-04-30,17:00,19:00,2,Completada,0.0
+RES00223,R009,Notebook 9,Notebook,U0014,Docente,2026-04-30,18:00,19:00,1,Completada,0.0
+RES00224,R006,Notebook 6,Notebook,U0030,Estudiante,2026-04-30,12:00,14:00,2,Completada,0.0
+RES00225,R006,Notebook 6,Notebook,U0042,Estudiante,2026-05-01,15:00,16:00,1,Completada,0.0
+RES00226,R026,Pantalla interactiva 3,Pantalla interactiva,U0018,Docente,2026-05-01,10:00,12:00,2,Cancelada,0.0
+RES00227,R034,Tablet 6,Tablet,U0093,Administrativo,2026-05-01,10:00,13:00,3,Completada,0.0
+RES00228,R009,Notebook 9,Notebook,U0073,Estudiante,2026-05-01,16:00,17:00,1,Completada,0.0
+RES00229,R018,Proyector 3,Proyector,U0086,Administrativo,2026-05-01,10:00,13:00,3,Completada,0.0
+RES00230,R024,Pantalla interactiva 1,Pantalla interactiva,U0079,Estudiante,2026-05-01,11:00,13:00,2,Completada,0.0
+RES00231,R028,Pantalla interactiva 5,Pantalla interactiva,U0038,Estudiante,2026-05-01,13:00,14:00,1,Completada,0.0
+RES00232,R033,Tablet 5,Tablet,U0091,Administrativo,2026-05-01,09:00,13:00,4,Completada,0.0
+RES00233,R022,Proyector 7,Proyector,U0079,Estudiante,2026-05-01,13:00,14:00,1,Completada,2.0
+RES00234,R034,Tablet 6,Tablet,U0092,Administrativo,2026-05-02,09:00,11:00,2,Completada,0.0
+RES00235,R009,Notebook 9,Notebook,U0023,Docente,2026-05-04,08:00,10:00,2,Completada,0.0
+RES00236,R015,Notebook 15,Notebook,U0019,Docente,2026-05-04,17:00,18:00,1,Cancelada,0.0
+RES00237,R033,Tablet 5,Tablet,U0064,Estudiante,2026-05-04,14:00,16:00,2,Completada,0.0
+RES00238,R005,Notebook 5,Notebook,U0076,Estudiante,2026-05-04,13:00,14:00,1,Completada,0.0
+RES00239,R017,Proyector 2,Proyector,U0012,,2026-05-04,17:00,18:00,1,Completada,0.0
+RES00240,R003,Notebook 3,Notebook,U0007,Docente,2026-05-04,09:00,13:00,4,Completada,0.0
+RES00241,R009,Notebook 9,Notebook,U0086,Administrativo,2026-05-04,16:00,18:00,2,Completada,0.0
+RES00242,R004,Notebook 4,Notebook,U0045,Estudiante,2026-05-04,13:00,17:00,4,Completada,0.0
+RES00243,R042,Parlante portátil 4,Parlante portátil,U0076,Estudiante,2026-05-04,09:00,12:00,3,Completada,0.0
+RES00244,R006,Notebook 6,Notebook,U0030,Estudiante,2026-05-05,16:00,17:00,1,Completada,0.0
+RES00245,R020,Proyector 5,Proyector,U0046,Estudiante,2026-05-05,11:00,13:00,2,Completada,3.0
+RES00246,R012,Notebook 12,Notebook,U0005,Docente,2026-05-05,18:00,19:00,1,Completada,0.0
+RES00247,R015,Notebook 15,Notebook,U0011,Docente,2026-05-05,11:00,12:00,1,Completada,0.0
+RES00248,R027,Pantalla interactiva 4,Pantalla interactiva,U0025,Docente,2026-05-05,18:00,19:00,1,Completada,0.0
+RES00249,R008,Notebook 8,Notebook,U0039,Estudiante,2026-05-05,11:00,15:00,4,Completada,0.0
+RES00250,R006,Notebook 6,Notebook,U0086,Administrativo,2026-05-05,14:00,18:00,4,Completada,0.0
+RES00251,R009,Notebook 9,Notebook,U0018,Docente,2026-05-05,16:00,18:00,2,Completada,0.0
+RES00252,R025,Pantalla interactiva 2,Pantalla interactiva,U0017,Docente,2026-05-05,14:00,16:00,2,Completada,0.0
+RES00253,R002,Notebook 2,Notebook,U0067,Estudiante,2026-05-05,12:00,15:00,3,Completada,0.0
+RES00254,R031,Tablet 3,Tablet,U0065,Estudiante,2026-05-05,10:00,13:00,3,Completada,0.0
+RES00255,R030,Tablet 2,Tablet,U0048,Estudiante,2026-05-05,19:00,21:00,2,Completada,0.0
+RES00256,R012,Notebook 12,Notebook,U0037,Estudiante,2026-05-05,17:00,21:00,4,Cancelada,0.0
+RES00257,R004,Notebook 4,Notebook,U0039,Estudiante,2026-05-05,10:00,13:00,3,No-show,0.0
+RES00258,R025,Pantalla interactiva 2,Pantalla interactiva,U0067,Estudiante,2026-05-05,08:00,11:00,3,Completada,0.0
+RES00259,R033,Tablet 5,Tablet,U0039,Estudiante,2026-05-05,16:00,18:00,2,Completada,0.0
+RES00260,R031,Tablet 3,Tablet,U0065,Estudiante,2026-05-05,15:00,16:00,1,Completada,0.0
+RES00261,R001,Notebook 1,Notebook,U0083,Estudiante,2026-05-06,11:00,14:00,3,Cancelada,0.0
+RES00262,R034,Tablet 6,Tablet,U0033,Estudiante,2026-05-06,10:00,13:00,3,Completada,0.0
+RES00263,R032,Tablet 4,Tablet,U0077,Estudiante,2026-05-06,09:00,13:00,4,Completada,0.0
+RES00264,R015,Notebook 15,Notebook,U0064,Estudiante,2026-05-06,08:00,10:00,2,No-show,0.0
+RES00265,R007,Notebook 7,Notebook,U0089,Administrativo,2026-05-06,13:00,17:00,4,Completada,0.0
+RES00266,R013,Notebook 13,Notebook,U0066,Estudiante,2026-05-07,08:00,12:00,4,Completada,0.0
+RES00267,R028,Pantalla interactiva 5,Pantalla interactiva,U0002,Docente,2026-05-07,19:00,21:00,2,No-show,0.0
+RES00268,R027,Pantalla interactiva 4,Pantalla interactiva,U0025,Docente,2026-05-07,11:00,13:00,2,Completada,2.0
+RES00269,R005,Notebook 5,Notebook,U0020,Docente,2026-05-07,12:00,13:00,1,Completada,0.0
+RES00270,R002,Notebook 2,Notebook,U0010,Docente,2026-05-07,16:00,19:00,3,Completada,0.0
+RES00271,R015,Notebook 15,Notebook,U0056,Estudiante,2026-05-07,10:00,13:00,3,Completada,0.0
+RES00272,R006,Notebook 6,Notebook,U0038,Estudiante,2026-05-07,16:00,17:00,1,Cancelada,0.0
+RES00273,R012,Notebook 12,Notebook,U0011,Docente,2026-05-07,18:00,19:00,1,Completada,1.0
+RES00274,R004,Notebook 4,Notebook,U0042,Estudiante,2026-05-07,14:00,15:00,1,Completada,0.0
+RES00275,R033,Tablet 5,Tablet,U0014,Docente,2026-05-07,08:00,09:00,1,Completada,0.0
+RES00276,R017,Proyector 2,Proyector,U0023,Docente,2026-05-07,12:00,13:00,1,Cancelada,0.0
+RES00277,R013,Notebook 13,Notebook,U0075,Estudiante,2026-05-08,10:00,11:00,1,Completada,0.0
+RES00278,R009,Notebook 9,Notebook,U0052,Estudiante,2026-05-08,19:00,20:00,1,Completada,0.0
+RES00279,R005,Notebook 5,Notebook,U0062,Estudiante,2026-05-08,09:00,12:00,3,Completada,0.0
+RES00280,R012,Notebook 12,Notebook,U0071,Estudiante,2026-05-08,18:00,20:00,2,Completada,0.0
+RES00281,R002,Notebook 2,Notebook,U0034,Estudiante,2026-05-08,09:00,12:00,3,No-show,0.0
+RES00282,R009,Notebook 9,Notebook,U0065,Estudiante,2026-05-08,19:00,20:00,1,Completada,0.0
+RES00283,R003,Notebook 3,Notebook,U0042,Estudiante,2026-05-08,18:00,19:00,40,Completada,0.0
+RES00284,R010,Notebook 10,Notebook,U0031,Estudiante,2026-05-08,16:00,19:00,3,Completada,3.0
+RES00285,R040,Parlante portátil 2,Parlante portátil,U0066,Estudiante,2026-05-08,14:00,16:00,2,Completada,0.0
+RES00286,R018,Proyector 3,Proyector,U0093,Administrativo,2026-05-08,08:00,09:00,1,Completada,0.0
+RES00287,R003,Notebook 3,Notebook,U0029,Estudiante,2026-05-08,12:00,13:00,1,Completada,0.0
+RES00288,R005,Notebook 5,Notebook,U0081,Estudiante,2026-05-11,14:00,15:00,1,Cancelada,0.0
+RES00289,R007,Notebook 7,Notebook,U0090,Administrativo,2026-05-11,17:00,18:00,1,Cancelada,0.0
+RES00290,R009,Notebook 9,Notebook,U0090,Administrativo,2026-05-12,15:00,16:00,1,Completada,0.0
+RES00291,R038,Tablet 10,Tablet,U0001,Docente,2026-05-12,14:00,15:00,1,Cancelada,0.0
+RES00292,R001,Notebook 1,Notebook,U0010,Docente,2026-05-12,10:00,11:00,1,Completada,3.0
+RES00293,R005,Notebook 5,Notebook,U0031,Estudiante,2026-05-12,12:00,13:00,1,Completada,0.0
+RES00294,R012,Notebook 12,Notebook,U0011,Docente,2026-05-12,17:00,21:00,4,Completada,0.0
+RES00295,R002,Notebook 2,Notebook,U0089,Administrativo,2026-05-12,18:00,19:00,1,Completada,0.0
+RES00296,R016,Proyector 1,Proyector,U0008,Docente,2026-05-12,10:00,13:00,3,Completada,0.0
+RES00297,R031,Tablet 3,Tablet,U0045,Estudiante,2026-05-12,18:00,22:00,4,Completada,0.0
+RES00298,R019,Proyector 4,Proyector,U0043,Estudiante,2026-05-13,15:00,16:00,1,Completada,0.0
+RES00299,R021,Proyector 6,Proyector,U0015,Docente,2026-05-13,11:00,13:00,2,Completada,0.0
+RES00300,R012,Notebook 12,Notebook,U0035,Estudiante,2026-05-13,13:00,15:00,2,Cancelada,0.0
+RES00301,R017,Proyector 2,Proyector,U0054,Estudiante,2026-05-13,13:00,17:00,4,Completada,0.0
+RES00302,R007,Notebook 7,Notebook,U0075,Estudiante,2026-05-13,11:00,13:00,2,Completada,0.0
+RES00303,R031,Tablet 3,Tablet,U0066,Estudiante,2026-05-13,13:00,15:00,2,Completada,0.0
+RES00304,R024,Pantalla interactiva 1,Pantalla interactiva,U0026,Estudiante,2026-05-13,08:00,09:00,1,Completada,0.0
+RES00305,R038,Tablet 10,Tablet,U0062,Estudiante,2026-05-13,12:00,13:00,1,Completada,0.0
+RES00306,R036,Tablet 8,Tablet,U0050,Estudiante,2026-05-13,17:00,18:00,1,Cancelada,0.0
+RES00307,R028,Pantalla interactiva 5,Pantalla interactiva,U0084,Estudiante,2026-05-13,17:00,21:00,4,Completada,0.0
+RES00308,R005,Notebook 5,Notebook,U0081,Estudiante,2026-05-13,19:00,22:00,4,Completada,0.0
+RES00309,R009,Notebook 9,Notebook,U0088,Administrativo,2026-05-13,08:00,10:00,2,Completada,4.0
+RES00310,R025,Pantalla interactiva 2,Pantalla interactiva,U0084,Estudiante,2026-05-14,16:00,19:00,3,Completada,0.0
+RES00311,R016,Proyector 1,Proyector,U0011,Docente,2026-05-14,19:00,21:00,2,Completada,0.0
+RES00312,R028,Pantalla interactiva 5,Pantalla interactiva,U0077,Estudiante,2026-05-14,12:00,15:00,3,Completada,0.0
+RES00313,R029,Tablet 1,Tablet,U0024,Docente,2026-05-14,10:00,14:00,4,Cancelada,0.0
+RES00314,R008,Notebook 8,Notebook,U0017,Docente,2026-05-14,19:00,20:00,1,Completada,0.0
+RES00315,R007,Notebook 7,Notebook,U0057,Estudiante,2026-05-14,14:00,15:00,1,Completada,0.0
+RES00316,R019,Proyector 4,Proyector,U0053,Estudiante,2026-05-15,12:00,14:00,2,Completada,0.0
+RES00317,R016,Proyector 1,Proyector,U0023,Docente,2026-05-15,14:00,16:00,2,Completada,0.0
+RES00318,R025,Pantalla interactiva 2,Pantalla interactiva,U0024,Docente,2026-05-15,09:00,10:00,1,Completada,0.0
+RES00319,R004,Notebook 4,Notebook,U0028,Estudiante,2026-05-15,19:00,20:00,1,Completada,0.0
+RES00320,R001,Notebook 1,Notebook,U0057,Estudiante,2026-05-15,10:00,11:00,1,No-show,0.0
+RES00321,R020,Proyector 5,Proyector,U0055,Estudiante,2026-05-15,10:00,13:00,3,No-show,0.0
+RES00322,R010,Notebook 10,Notebook,U0063,Estudiante,2026-05-15,12:00,13:00,1,Completada,0.0
+RES00323,R015,Notebook 15,Notebook,U0066,Estudiante,2026-05-15,18:00,19:00,1,Completada,3.0
+RES00324,R003,Notebook 3,Notebook,U0029,Estudiante,2026-05-15,10:00,14:00,4,No-show,0.0
+RES00325,R013,Notebook 13,Notebook,U0044,Estudiante,2026-05-15,14:00,15:00,1,Completada,0.0
+RES00326,R011,Notebook 11,Notebook,U0028,Estudiante,2026-05-15,14:00,15:00,1,No-show,0.0
+RES00327,R023,Proyector 8,Proyector,U0024,Docente,2026-05-15,18:00,21:00,3,Completada,1.0
+RES00328,R015,Notebook 15,Notebook,U0023,Docente,2026-05-18,18:00,22:00,4,Completada,0.0
+RES00329,R032,Tablet 4,Tablet,U0004,Docente,2026-05-18,09:00,12:00,3,No-show,0.0
+RES00330,R001,Notebook 1,Notebook,U0078,Estudiante,2026-05-18,16:00,19:00,3,No-show,0.0
+RES00331,R007,Notebook 7,Notebook,U0022,Docente,2026-05-18,15:00,18:00,3,Completada,0.0
+RES00332,R009,Notebook 9,Notebook,U0020,Docente,2026-05-18,09:00,12:00,3,No-show,0.0
+RES00333,R005,Notebook 5,Notebook,U0036,Estudiante,2026-05-18,13:00,15:00,2,Completada,0.0
+RES00334,R018,Proyector 3,Proyector,U0083,Estudiante,2026-05-18,16:00,17:00,1,Completada,0.0
+RES00335,R004,Notebook 4,Notebook,U0029,Estudiante,2026-05-18,16:00,19:00,3,Completada,0.0
+RES00336,R022,Proyector 7,Proyector,U0033,Estudiante,2026-05-19,08:00,12:00,4,No-show,0.0
+RES00337,R015,Notebook 15,Notebook,U0090,Administrativo,2026-05-19,08:00,09:00,1,Completada,1.0
+RES00338,R012,Notebook 12,Notebook,U0071,,2026-05-19,09:00,11:00,2,Cancelada,0.0
+RES00339,R023,Proyector 8,Proyector,U0081,Estudiante,2026-05-19,10:00,12:00,2,Completada,0.0
+RES00340,R025,Pantalla interactiva 2,Pantalla interactiva,U0074,Estudiante,2026-05-19,14:00,16:00,2,Cancelada,0.0
+RES00341,R012,Notebook 12,Notebook,U0049,Estudiante,2026-05-19,17:00,21:00,4,Completada,0.0
+RES00342,R006,Notebook 6,Notebook,U0028,Estudiante,2026-05-20,17:00,18:00,1,No-show,0.0
+RES00343,R034,Tablet 6,Tablet,U0068,Estudiante,2026-05-20,16:00,17:00,1,Completada,0.0
+RES00344,R037,Tablet 9,Tablet,U0011,Docente,2026-05-20,14:00,16:00,2,Completada,0.0
+RES00345,R011,Notebook 11,Notebook,U0058,Estudiante,2026-05-20,14:00,16:00,2,Completada,0.0
+RES00346,R006,Notebook 6,Notebook,U0091,Administrativo,2026-05-20,19:00,21:00,2,Completada,0.0
+RES00347,R009,Notebook 9,Notebook,U0044,Estudiante,2026-05-20,08:00,09:00,30,No-show,0.0
+RES00348,R044,Parlante portátil 6,Parlante portátil,U0067,Estudiante,2026-05-20,08:00,11:00,3,Completada,2.0
+RES00349,R019,Proyector 4,Proyector,U0019,Docente,2026-05-20,17:00,19:00,2,Completada,0.0
+RES00350,R026,Pantalla interactiva 3,Pantalla interactiva,U0083,Estudiante,2026-05-20,17:00,19:00,2,Cancelada,0.0
+RES00351,R031,Tablet 3,Tablet,U0008,Docente,2026-05-20,17:00,18:00,1,Completada,0.0
+RES00352,R016,Proyector 1,Proyector,U0093,Administrativo,2026-05-20,15:00,19:00,4,Completada,0.0
+RES00353,R001,Notebook 1,Notebook,U0079,Estudiante,2026-05-21,14:00,18:00,4,Completada,0.0
+RES00354,R009,Notebook 9,Notebook,U0035,Estudiante,2026-05-21,09:00,10:00,1,Completada,0.0
+RES00355,R023,Proyector 8,Proyector,U0020,Docente,2026-05-21,16:00,18:00,2,Completada,0.0
+RES00356,R031,Tablet 3,Tablet,U0055,Estudiante,2026-05-21,17:00,19:00,2,Completada,0.0
+RES00357,R043,Parlante portátil 5,Parlante portátil,U0025,Docente,2026-05-21,10:00,11:00,1,Completada,0.0
+RES00358,R036,Tablet 8,Tablet,U0017,Docente,2026-05-21,11:00,12:00,1,Completada,0.0
+RES00359,R028,Pantalla interactiva 5,Pantalla interactiva,U0073,Estudiante,2026-05-21,14:00,17:00,3,Completada,0.0
+RES00360,R013,Notebook 13,Notebook,U0070,Estudiante,2026-05-21,16:00,17:00,1,Completada,0.0
+RES00361,R011,Notebook 11,Notebook,U0017,Docente,2026-05-21,10:00,11:00,1,Completada,0.0
+RES00362,R041,Parlante portátil 3,Parlante portátil,U0077,Estudiante,2026-05-21,13:00,14:00,1,Completada,0.0
+RES00363,R018,Proyector 3,Proyector,U0074,Estudiante,2026-05-21,08:00,09:00,1,Completada,0.0
+RES00364,R013,Notebook 13,Notebook,U0051,Estudiante,2026-05-22,13:00,16:00,3,No-show,0.0
+RES00365,R039,Parlante portátil 1,Parlante portátil,U0014,Docente,2026-05-22,13:00,16:00,3,Cancelada,0.0
+RES00366,R004,Notebook 4,Notebook,U0006,Docente,2026-05-22,15:00,18:00,3,Completada,0.0
+RES00367,R020,Proyector 5,Proyector,U0002,Docente,2026-05-22,16:00,18:00,2,Completada,0.0
+RES00368,R036,Tablet 8,Tablet,U0057,Estudiante,2026-05-22,08:00,10:00,2,Completada,0.0
+RES00369,R013,Notebook 13,Notebook,U0041,Estudiante,2026-05-22,19:00,20:00,1,Completada,0.0
+RES00370,R006,Notebook 6,Notebook,U0036,Estudiante,2026-05-22,09:00,13:00,4,Cancelada,0.0
+RES00371,R005,Notebook 5,Notebook,U0066,Estudiante,2026-05-22,09:00,10:00,1,Completada,0.0
+RES00372,R002,Notebook 2,Notebook,U0040,Estudiante,2026-05-22,18:00,20:00,2,No-show,0.0
+RES00373,R012,Notebook 12,Notebook,U0066,Estudiante,2026-05-22,13:00,15:00,2,Completada,0.0
+RES00374,R028,Pantalla interactiva 5,Pantalla interactiva,U0024,Docente,2026-05-22,12:00,13:00,1,Completada,0.0
+RES00375,R037,Tablet 9,Tablet,U0077,Estudiante,2026-05-22,17:00,20:00,3,Completada,0.0
+RES00376,R023,Proyector 8,Proyector,U0023,Docente,2026-05-22,12:00,13:00,1,Completada,0.0
+RES00377,R023,Proyector 8,Proyector,U0048,Estudiante,2026-05-22,19:00,20:00,1,Completada,0.0
+RES00378,R020,Proyector 5,Proyector,U0035,Estudiante,2026-05-25,18:00,19:00,1,Completada,0.0
+RES00379,R023,Proyector 8,Proyector,U0040,Estudiante,2026-05-25,17:00,20:00,3,Completada,0.0
+RES00380,R014,Notebook 14,Notebook,U0069,Estudiante,2026-05-25,17:00,18:00,1,Completada,0.0
+RES00381,R016,Proyector 1,Proyector,U0088,Administrativo,2026-05-25,12:00,13:00,1,Completada,0.0
+RES00382,R002,Notebook 2,Notebook,U0080,Estudiante,2026-05-25,19:00,22:00,3,Completada,0.0
+RES00383,R026,Pantalla interactiva 3,Pantalla interactiva,U0005,Docente,2026-05-25,12:00,13:00,1,Completada,0.0
+RES00384,R023,Proyector 8,Proyector,U0047,Estudiante,2026-05-25,16:00,17:00,1,Completada,0.0
+RES00385,R018,Proyector 3,Proyector,U0090,Administrativo,2026-05-25,14:00,16:00,2,No-show,0.0
+RES00386,R034,Tablet 6,Tablet,U0081,Estudiante,2026-05-25,15:00,16:00,1,Completada,0.0
+RES00387,R007,Notebook 7,Notebook,U0070,Estudiante,2026-05-25,08:00,10:00,2,Completada,0.0
+RES00388,R035,Tablet 7,Tablet,U0029,Estudiante,2026-05-25,10:00,12:00,2,Completada,0.0
+RES00389,R023,Proyector 8,Proyector,U0034,Estudiante,2026-05-25,12:00,13:00,1,Completada,0.0
+RES00390,R033,Tablet 5,Tablet,U0068,Estudiante,2026-05-25,13:00,16:00,3,Completada,0.0
+RES00391,R002,Notebook 2,Notebook,U0053,Estudiante,2026-05-25,09:00,10:00,1,No-show,0.0
+RES00392,R030,Tablet 2,Tablet,U0064,Estudiante,2026-05-25,11:00,12:00,1,Completada,0.0
+RES00393,R043,Parlante portátil 5,Parlante portátil,U0032,Estudiante,2026-05-25,15:00,16:00,1,Completada,0.0
+RES00394,R023,Proyector 8,Proyector,U0045,Estudiante,2026-05-25,12:00,15:00,3,Completada,0.0
+RES00395,R018,Proyector 3,Proyector,U0030,Estudiante,2026-05-25,15:00,18:00,3,Completada,4.0
+RES00396,R019,Proyector 4,Proyector,U0088,Administrativo,2026-05-25,18:00,19:00,1,Completada,0.0
+RES00397,R004,Notebook 4,Notebook,U0030,Estudiante,2026-05-25,18:00,19:00,1,Completada,0.0
+RES00398,R044,Parlante portátil 6,Parlante portátil,U0093,Administrativo,2026-05-25,09:00,10:00,1,Cancelada,0.0
+RES00399,R011,Notebook 11,Notebook,U0034,Estudiante,2026-05-25,16:00,18:00,2,Completada,0.0
+RES00400,R007,Notebook 7,Notebook,U0080,Estudiante,2026-05-25,09:00,10:00,1,Completada,0.0
+RES00401,R001,Notebook 1,Notebook,U0041,Estudiante,2026-05-25,16:00,18:00,2,Completada,0.0
+RES00402,R006,Notebook 6,Notebook,U0002,Docente,2026-05-25,18:00,21:00,3,Cancelada,0.0
+RES00403,R001,Notebook 1,Notebook,U0083,Estudiante,2026-05-26,12:00,14:00,2,Completada,0.0
+RES00404,R025,Pantalla interactiva 2,Pantalla interactiva,U0036,Estudiante,2026-05-26,12:00,16:00,4,Completada,0.0
+RES00405,R035,Tablet 7,Tablet,U0083,Estudiante,2026-05-26,17:00,21:00,4,Completada,0.0
+RES00406,R007,Notebook 7,Notebook,U0045,Estudiante,2026-05-26,15:00,19:00,4,Completada,0.0
+RES00407,R004,Notebook 4,Notebook,U0004,Docente,2026-05-26,13:00,16:00,3,Completada,0.0
+RES00408,R020,Proyector 5,Proyector,U0070,Estudiante,2026-05-26,15:00,19:00,4,Cancelada,0.0
+RES00409,R005,Notebook 5,Notebook,U0044,Estudiante,2026-05-26,12:00,13:00,1,Completada,0.0
+RES00410,R033,Tablet 5,Tablet,U0056,Estudiante,2026-05-26,10:00,12:00,2,Cancelada,0.0
+RES00411,R018,Proyector 3,Proyector,U0015,Docente,2026-05-26,15:00,16:00,1,Completada,0.0
+RES00412,R009,Notebook 9,Notebook,U0061,Estudiante,2026-05-26,11:00,13:00,2,Completada,0.0
+RES00413,R021,Proyector 6,Proyector,U0075,Estudiante,2026-05-26,14:00,17:00,3,Completada,0.0
+RES00414,R035,Tablet 7,Tablet,U0088,Administrativo,2026-05-27,12:00,13:00,1,Cancelada,0.0
+RES00415,R002,Notebook 2,Notebook,U0062,Estudiante,2026-05-27,16:00,18:00,2,Cancelada,0.0
+RES00416,R032,Tablet 4,Tablet,U0055,Estudiante,2026-05-27,11:00,13:00,2,Completada,0.0
+RES00417,R040,Parlante portátil 2,Parlante portátil,U0008,Docente,2026-05-27,10:00,11:00,1,Completada,0.0
+RES00418,R004,Notebook 4,Notebook,U0006,Docente,2026-05-27,13:00,15:00,2,Completada,0.0
+RES00419,R016,Proyector 1,Proyector,U0062,Estudiante,2026-05-27,16:00,18:00,40,Completada,0.0
+RES00420,R003,Notebook 3,Notebook,U0031,Estudiante,2026-05-27,11:00,14:00,3,Completada,0.0
+RES00421,R010,Notebook 10,Notebook,U0091,Administrativo,2026-05-27,10:00,12:00,2,Completada,0.0
+RES00422,R001,Notebook 1,Notebook,U0016,Docente,2026-05-27,10:00,14:00,4,Completada,0.0
+RES00423,R002,Notebook 2,Notebook,U0029,Estudiante,2026-05-27,18:00,19:00,1,Completada,0.0
+RES00424,R001,Notebook 1,Notebook,U0077,Estudiante,2026-05-27,12:00,16:00,4,Completada,0.0
+RES00425,R022,Proyector 7,Proyector,U0049,Estudiante,2026-05-27,08:00,11:00,3,Completada,0.0
+RES00426,R002,Notebook 2,Notebook,U0065,Estudiante,2026-05-27,08:00,11:00,3,Completada,0.0
+RES00427,R008,Notebook 8,Notebook,U0081,Estudiante,2026-05-27,15:00,17:00,2,Completada,0.0
+RES00428,R004,Notebook 4,Notebook,U0078,Estudiante,2026-05-27,10:00,11:00,1,Completada,0.0
+RES00429,R030,Tablet 2,Tablet,U0029,Estudiante,2026-05-27,13:00,14:00,1,Completada,0.0
+RES00430,R020,Proyector 5,Proyector,U0021,Docente,2026-05-27,16:00,18:00,2,Cancelada,0.0
+RES00431,R013,Notebook 13,Notebook,U0092,Administrativo,2026-05-27,11:00,12:00,1,Completada,0.0
+RES00432,R028,Pantalla interactiva 5,Pantalla interactiva,U0028,Estudiante,2026-05-27,17:00,19:00,2,Cancelada,0.0
+RES00433,R043,Parlante portátil 5,Parlante portátil,U0088,Administrativo,2026-05-27,10:00,11:00,1,Completada,0.0
+RES00434,R017,Proyector 2,Proyector,U0011,Docente,2026-05-27,12:00,14:00,2,Completada,0.0
+RES00435,R018,Proyector 3,Proyector,U0042,Estudiante,2026-05-27,14:00,15:00,1,Completada,0.0
+RES00436,R010,Notebook 10,Notebook,U0001,Docente,2026-05-28,17:00,18:00,1,Completada,0.0
+RES00437,R024,Pantalla interactiva 1,Pantalla interactiva,U0034,Estudiante,2026-05-28,13:00,14:00,1,Completada,0.0
+RES00438,R016,Proyector 1,Proyector,U0051,Estudiante,2026-05-28,18:00,20:00,2,Completada,0.0
+RES00439,R029,Tablet 1,Tablet,U0052,Estudiante,2026-05-28,17:00,19:00,2,Completada,0.0
+RES00440,R015,Notebook 15,Notebook,U0008,Docente,2026-05-28,19:00,21:00,30,Completada,0.0
+RES00441,R005,Notebook 5,Notebook,U0085,Estudiante,2026-05-28,13:00,14:00,1,Completada,0.0
+RES00442,R034,Tablet 6,Tablet,U0005,Docente,2026-05-28,14:00,16:00,2,Completada,0.0
+RES00443,R003,Notebook 3,Notebook,U0070,Estudiante,2026-05-28,19:00,21:00,2,Completada,0.0
+RES00444,R009,Notebook 9,Notebook,U0006,Docente,2026-05-28,09:00,10:00,1,Completada,0.0
+RES00445,R011,Notebook 11,Notebook,U0063,Estudiante,2026-05-28,09:00,11:00,2,Completada,0.0
+RES00446,R039,Parlante portátil 1,Parlante portátil,U0029,Estudiante,2026-05-28,19:00,22:00,4,Completada,0.0
+RES00447,R004,Notebook 4,Notebook,U0011,Docente,2026-05-28,09:00,10:00,1,Completada,0.0
+RES00448,R035,Tablet 7,Tablet,U0068,Estudiante,2026-05-28,11:00,12:00,1,Cancelada,0.0
+RES00449,R039,Parlante portátil 1,Parlante portátil,U0006,Docente,2026-05-28,17:00,19:00,2,Completada,0.0
+RES00450,R018,Proyector 3,Proyector,U0078,Estudiante,2026-05-28,12:00,13:00,1,Completada,0.0
+RES00451,R013,Notebook 13,Notebook,U0004,Docente,2026-05-28,19:00,20:00,1,Completada,0.0
+RES00452,R025,Pantalla interactiva 2,Pantalla interactiva,U0081,Estudiante,2026-05-29,12:00,15:00,3,Completada,0.0
+RES00453,R027,Pantalla interactiva 4,Pantalla interactiva,U0017,Docente,2026-05-29,14:00,18:00,4,No-show,0.0
+RES00454,R013,Notebook 13,Notebook,U0053,Estudiante,2026-05-29,19:00,22:00,3,Completada,0.0
+RES00455,R032,Tablet 4,Tablet,U0001,Docente,2026-05-29,18:00,20:00,2,Completada,0.0
+RES00456,R005,Notebook 5,Notebook,U0015,Docente,2026-05-29,14:00,15:00,1,Completada,0.0
+RES00457,R001,Notebook 1,Notebook,U0076,Estudiante,2026-05-29,15:00,16:00,1,Completada,0.0
+RES00458,R003,Notebook 3,Notebook,U0038,Estudiante,2026-05-29,14:00,15:00,1,Completada,0.0
+RES00459,R028,Pantalla interactiva 5,Pantalla interactiva,U0078,Estudiante,2026-05-29,18:00,20:00,2,Completada,0.0
+RES00460,R035,Tablet 7,Tablet,U0089,Administrativo,2026-05-29,09:00,11:00,2,Completada,1.0
+RES00461,R025,Pantalla interactiva 2,Pantalla interactiva,U0019,Docente,2026-05-29,08:00,10:00,2,Completada,0.0
+RES00462,R011,Notebook 11,Notebook,U0002,Docente,2026-05-29,08:00,09:00,1,Completada,0.0
+RES00463,R025,Pantalla interactiva 2,Pantalla interactiva,U0051,Estudiante,2026-05-29,16:00,17:00,1,Completada,0.0
+RES00464,R023,Proyector 8,Proyector,U0033,Estudiante,2026-05-29,13:00,14:00,1,Completada,0.0
+RES00465,R007,Notebook 7,Notebook,U0034,Estudiante,2026-05-29,12:00,13:00,1,Completada,0.0
+RES00466,R019,Proyector 4,Proyector,U0028,Estudiante,2026-05-29,14:00,16:00,2,Completada,0.0
+RES00467,R037,Tablet 9,Tablet,U0069,Estudiante,2026-05-29,18:00,19:00,1,Completada,0.0
+RES00468,R031,Tablet 3,Tablet,U0006,Docente,2026-05-29,13:00,14:00,40,Completada,0.0
+RES00469,R028,Pantalla interactiva 5,Pantalla interactiva,U0053,Estudiante,2026-05-29,13:00,14:00,1,Completada,0.0
+RES00470,R034,Tablet 6,Tablet,U0011,Docente,2026-05-29,16:00,18:00,2,Completada,0.0
+RES00471,R037,Tablet 9,Tablet,U0055,Estudiante,2026-05-29,10:00,11:00,1,Completada,0.0
+RES00472,R012,Notebook 12,Notebook,U0017,Docente,2026-05-29,16:00,17:00,1,Completada,
+RES00473,R006,Notebook 6,Notebook,U0028,Estudiante,2026-05-29,14:00,15:00,1,Completada,0.0
+RES00474,R027,Pantalla interactiva 4,Pantalla interactiva,U0092,Administrativo,2026-05-30,13:00,17:00,4,Completada,0.0
+RES00475,R014,Notebook 14,Notebook,U0046,,2026-05-31,18:00,22:00,4,Cancelada,0.0
+RES00476,R013,Notebook 13,Notebook,U0011,Docente,2026-06-01,17:00,19:00,2,Cancelada,0.0
+RES00477,R029,Tablet 1,Tablet,U0033,Estudiante,2026-06-01,14:00,16:00,2,Completada,0.0
+RES00478,R023,Proyector 8,Proyector,U0064,Estudiante,2026-06-01,13:00,15:00,2,Completada,0.0
+RES00479,R022,Proyector 7,Proyector,U0017,Docente,2026-06-01,12:00,14:00,2,No-show,0.0
+RES00480,R010,Notebook 10,Notebook,U0076,Estudiante,2026-06-01,10:00,12:00,2,Completada,0.0
+RES00481,R002,Notebook 2,Notebook,U0091,Administrativo,2026-06-01,15:00,18:00,3,Completada,0.0
+RES00482,R011,Notebook 11,Notebook,U0079,Estudiante,2026-06-01,12:00,16:00,4,Completada,0.0
+RES00483,R002,Notebook 2,Notebook,U0089,Administrativo,2026-06-01,15:00,16:00,1,Completada,0.0
+RES00484,R014,Notebook 14,Notebook,U0054,Estudiante,2026-06-01,19:00,20:00,1,Completada,0.0
+RES00485,R019,Proyector 4,Proyector,U0032,Estudiante,2026-06-01,17:00,18:00,1,Completada,0.0
+RES00486,R038,Tablet 10,Tablet,U0028,Estudiante,2026-06-02,17:00,18:00,1,Completada,0.0
+RES00487,R006,Notebook 6,Notebook,U0053,Estudiante,2026-06-02,10:00,11:00,1,Completada,0.0
+RES00488,R008,Notebook 8,Notebook,U0008,Docente,2026-06-02,13:00,14:00,1,Completada,0.0
+RES00489,R029,Tablet 1,Tablet,U0058,Estudiante,2026-06-02,11:00,12:00,1,Completada,0.0
+RES00490,R019,Proyector 4,Proyector,U0084,Estudiante,2026-06-02,15:00,17:00,2,Completada,0.0
+RES00491,R016,Proyector 1,Proyector,U0079,Estudiante,2026-06-02,08:00,10:00,24,Completada,2.0
+RES00492,R004,Notebook 4,Notebook,U0092,Administrativo,2026-06-02,15:00,16:00,1,Completada,0.0
+RES00493,R038,Tablet 10,Tablet,U0038,Estudiante,2026-06-02,14:00,17:00,3,No-show,0.0
+RES00494,R002,Notebook 2,Notebook,U0030,Estudiante,2026-06-02,11:00,13:00,2,Completada,0.0
+RES00495,R011,Notebook 11,Notebook,U0019,Docente,2026-06-02,08:00,11:00,3,Completada,0.0
+RES00496,R009,Notebook 9,Notebook,U0006,Docente,2026-06-03,08:00,11:00,3,Completada,0.0
+RES00497,R026,Pantalla interactiva 3,Pantalla interactiva,U0059,Estudiante,2026-06-03,13:00,17:00,4,Completada,0.0
+RES00498,R029,Tablet 1,Tablet,U0004,Docente,2026-06-03,10:00,14:00,4,Completada,0.0
+RES00499,R016,Proyector 1,Proyector,U0052,Estudiante,2026-06-03,08:00,09:00,1,Completada,0.0
+RES00500,R020,Proyector 5,Proyector,U0093,Administrativo,2026-06-03,16:00,20:00,4,Completada,0.0
+RES00501,R030,Tablet 2,Tablet,U0075,Estudiante,2026-06-03,14:00,17:00,3,Completada,0.0
+RES00502,R043,Parlante portátil 5,Parlante portátil,U0065,Estudiante,2026-06-03,12:00,13:00,1,Completada,0.0
+RES00503,R032,Tablet 4,Tablet,U0029,Estudiante,2026-06-04,18:00,19:00,1,Completada,0.0
+RES00504,R032,Tablet 4,Tablet,U0036,Estudiante,2026-06-04,14:00,15:00,1,Completada,0.0
+RES00505,R019,Proyector 4,Proyector,U0016,Docente,2026-06-04,12:00,13:00,1,Cancelada,0.0
+RES00506,R014,Notebook 14,Notebook,U0078,Estudiante,2026-06-04,08:00,09:00,1,Cancelada,0.0
+RES00507,R027,Pantalla interactiva 4,Pantalla interactiva,U0024,Docente,2026-06-04,14:00,15:00,1,Completada,0.0
+RES00508,R019,Proyector 4,Proyector,U0013,Docente,2026-06-05,09:00,11:00,2,Completada,0.0
+RES00509,R030,Tablet 2,Tablet,U0028,Estudiante,2026-06-05,14:00,15:00,1,Cancelada,0.0
+RES00510,R008,Notebook 8,Notebook,U0059,Estudiante,2026-06-05,15:00,16:00,1,Completada,0.0
+RES00511,R019,Proyector 4,Proyector,U0077,Estudiante,2026-06-05,11:00,12:00,1,Completada,0.0
+RES00512,R004,Notebook 4,Notebook,U0028,Estudiante,2026-06-05,11:00,12:00,1,Completada,0.0
+RES00513,R011,Notebook 11,Notebook,U0063,Estudiante,2026-06-05,10:00,11:00,1,Completada,
+RES00514,R022,Proyector 7,Proyector,U0060,Estudiante,2026-06-05,10:00,13:00,3,No-show,0.0
+RES00515,R044,Parlante portátil 6,Parlante portátil,U0076,Estudiante,2026-06-05,12:00,14:00,2,Completada,0.0
+RES00516,R011,Notebook 11,Notebook,U0001,Docente,2026-06-05,19:00,22:00,3,Completada,0.0
+RES00517,R032,Tablet 4,Tablet,U0051,Estudiante,2026-06-05,13:00,14:00,1,Completada,0.0
+RES00518,R022,Proyector 7,Proyector,U0043,Estudiante,2026-06-05,18:00,19:00,1,Cancelada,0.0
+RES00519,R004,Notebook 4,Notebook,U0093,Administrativo,2026-06-07,11:00,12:00,1,Completada,0.0
+RES00520,R020,Proyector 5,Proyector,U0046,Estudiante,2026-06-07,15:00,17:00,2,Cancelada,0.0
+RES00521,R021,Proyector 6,Proyector,U0055,Estudiante,2026-06-08,19:00,20:00,1,Cancelada,0.0
+RES00522,R037,Tablet 9,Tablet,U0083,Estudiante,2026-06-08,12:00,13:00,1,Cancelada,0.0
+RES00523,R005,Notebook 5,Notebook,U0085,Estudiante,2026-06-08,19:00,20:00,1,Completada,0.0
+RES00524,R004,Notebook 4,Notebook,U0028,Estudiante,2026-06-08,13:00,14:00,1,Completada,0.0
+RES00525,R021,Proyector 6,Proyector,U0016,Docente,2026-06-08,17:00,19:00,2,Completada,0.0
+RES00526,R031,Tablet 3,Tablet,U0057,Estudiante,2026-06-09,12:00,14:00,2,Completada,2.0
+RES00527,R014,Notebook 14,Notebook,U0090,Administrativo,2026-06-09,15:00,18:00,3,Completada,0.0
+RES00528,R002,Notebook 2,Notebook,U0071,Estudiante,2026-06-09,11:00,13:00,2,Completada,0.0
+RES00529,R013,Notebook 13,Notebook,U0007,Docente,2026-06-09,11:00,14:00,3,Completada,0.0
+RES00530,R006,Notebook 6,Notebook,U0004,Docente,2026-06-09,09:00,11:00,2,Completada,0.0
+RES00531,R015,Notebook 15,Notebook,U0035,Estudiante,2026-06-09,15:00,16:00,1,No-show,0.0
+RES00532,R010,Notebook 10,Notebook,U0012,Docente,2026-06-09,17:00,20:00,3,Completada,0.0
+RES00533,R009,Notebook 9,Notebook,U0060,Estudiante,2026-06-09,13:00,14:00,1,Completada,0.0
+RES00534,R039,Parlante portátil 1,Parlante portátil,U0042,Estudiante,2026-06-09,15:00,16:00,1,Completada,0.0
+RES00535,R017,Proyector 2,Proyector,U0019,Docente,2026-06-09,19:00,20:00,1,Completada,0.0
+RES00536,R001,Notebook 1,Notebook,U0025,Docente,2026-06-09,18:00,20:00,2,Completada,2.0
+RES00537,R004,Notebook 4,Notebook,U0070,Estudiante,2026-06-09,09:00,10:00,1,Completada,0.0
+RES00538,R013,Notebook 13,Notebook,U0052,Estudiante,2026-06-10,15:00,16:00,1,Completada,0.0
+RES00539,R034,Tablet 6,Tablet,U0062,Estudiante,2026-06-10,10:00,11:00,1,Completada,0.0
+RES00540,R015,Notebook 15,Notebook,U0032,Estudiante,2026-06-10,10:00,11:00,1,Completada,0.0
+RES00541,R023,Proyector 8,Proyector,U0082,Estudiante,2026-06-10,08:00,10:00,2,No-show,0.0
+RES00542,R034,Tablet 6,Tablet,U0021,Docente,2026-06-10,12:00,14:00,2,Cancelada,0.0
+RES00543,R032,Tablet 4,Tablet,U0022,Docente,2026-06-10,18:00,19:00,1,Completada,0.0
+RES00544,R014,Notebook 14,Notebook,U0014,Docente,2026-06-10,17:00,21:00,4,Completada,0.0
+RES00545,R006,Notebook 6,Notebook,U0059,Estudiante,2026-06-10,13:00,14:00,1,Completada,0.0
+RES00546,R019,Proyector 4,Proyector,U0004,Docente,2026-06-11,14:00,15:00,1,Completada,0.0
+RES00547,R013,Notebook 13,Notebook,U0091,Administrativo,2026-06-11,16:00,19:00,3,Completada,0.0
+RES00548,R005,Notebook 5,Notebook,U0012,Docente,2026-06-11,09:00,10:00,1,No-show,0.0
+RES00549,R007,Notebook 7,Notebook,U0063,Estudiante,2026-06-11,09:00,11:00,2,Completada,0.0
+RES00550,R013,Notebook 13,Notebook,U0019,Docente,2026-06-11,16:00,17:00,1,Completada,4.0
+RES00551,R004,Notebook 4,Notebook,U0087,Administrativo,2026-06-11,08:00,10:00,2,No-show,0.0
+RES00552,R035,Tablet 7,Tablet,U0012,Docente,2026-06-11,11:00,13:00,2,Completada,0.0
+RES00553,R008,Notebook 8,Notebook,U0057,Estudiante,2026-06-11,17:00,18:00,1,Completada,0.0
+RES00554,R016,Proyector 1,Proyector,U0020,Docente,2026-06-11,11:00,14:00,3,No-show,0.0
+RES00555,R024,Pantalla interactiva 1,Pantalla interactiva,U0007,Docente,2026-06-11,15:00,16:00,1,Completada,0.0
+RES00556,R020,Proyector 5,Proyector,U0065,Estudiante,2026-06-11,17:00,18:00,1,Completada,0.0
+RES00557,R023,Proyector 8,Proyector,U0078,Estudiante,2026-06-11,12:00,14:00,2,Cancelada,0.0
+RES00558,R034,Tablet 6,Tablet,U0027,Estudiante,2026-06-11,18:00,19:00,1,Completada,0.0
+RES00559,R020,Proyector 5,Proyector,U0042,Estudiante,2026-06-12,08:00,09:00,1,Completada,0.0
+RES00560,R008,Notebook 8,Notebook,U0072,Estudiante,2026-06-12,17:00,19:00,2,Completada,0.0
+RES00561,R008,Notebook 8,Notebook,U0027,Estudiante,2026-06-12,12:00,13:00,1,Completada,0.0
+RES00562,R036,Tablet 8,Tablet,U0049,Estudiante,2026-06-12,08:00,09:00,1,Cancelada,0.0
+RES00563,R002,Notebook 2,Notebook,U0012,Docente,2026-06-12,16:00,19:00,3,Completada,4.0
+RES00564,R007,Notebook 7,Notebook,U0029,Estudiante,2026-06-12,08:00,11:00,3,Completada,0.0
+RES00565,R006,Notebook 6,Notebook,U0071,Estudiante,2026-06-12,17:00,20:00,3,Completada,0.0
+RES00566,R030,Tablet 2,Tablet,U0070,Estudiante,2026-06-12,13:00,17:00,4,Completada,0.0
+RES00567,R019,Proyector 4,Proyector,U0028,Estudiante,2026-06-12,19:00,21:00,2,Cancelada,0.0
+RES00568,R015,Notebook 15,Notebook,U0070,Estudiante,2026-06-15,08:00,09:00,1,Cancelada,0.0
+RES00569,R011,Notebook 11,Notebook,U0089,Administrativo,2026-06-15,10:00,11:00,1,Completada,0.0
+RES00570,R009,Notebook 9,Notebook,U0013,Docente,2026-06-15,15:00,16:00,1,Completada,1.0
+RES00571,R026,Pantalla interactiva 3,Pantalla interactiva,U0088,Administrativo,2026-06-15,08:00,11:00,3,No-show,0.0
+RES00572,R021,Proyector 6,Proyector,U0039,Estudiante,2026-06-15,11:00,13:00,2,Completada,0.0
+RES00573,R024,Pantalla interactiva 1,Pantalla interactiva,U0041,Estudiante,2026-06-15,08:00,11:00,3,Completada,2.0
+RES00574,R006,Notebook 6,Notebook,U0012,Docente,2026-06-15,15:00,19:00,4,Completada,0.0
+RES00575,R027,Pantalla interactiva 4,Pantalla interactiva,U0009,Docente,2026-06-15,14:00,16:00,24,Completada,0.0
+RES00576,R028,Pantalla interactiva 5,Pantalla interactiva,U0016,Docente,2026-06-16,09:00,10:00,1,Completada,4.0
+RES00577,R001,Notebook 1,Notebook,U0067,Estudiante,2026-06-16,19:00,20:00,1,Completada,0.0
+RES00578,R022,Proyector 7,Proyector,U0073,Estudiante,2026-06-16,18:00,22:00,4,Completada,1.0
+RES00579,R009,Notebook 9,Notebook,U0002,Docente,2026-06-16,08:00,10:00,2,Completada,0.0
+RES00580,R013,Notebook 13,Notebook,U0010,Docente,2026-06-16,16:00,18:00,2,Completada,0.0
+RES00581,R025,Pantalla interactiva 2,Pantalla interactiva,U0047,Estudiante,2026-06-16,19:00,22:00,4,Completada,0.0
+RES00582,R035,Tablet 7,Tablet,U0003,Docente,2026-06-16,16:00,17:00,1,Completada,0.0
+RES00583,R019,Proyector 4,Proyector,U0029,Estudiante,2026-06-16,13:00,14:00,1,Completada,0.0
+RES00584,R037,Tablet 9,Tablet,U0051,Estudiante,2026-06-16,09:00,11:00,2,Completada,0.0
+RES00585,R004,Notebook 4,Notebook,U0035,Estudiante,2026-06-16,18:00,20:00,40,Completada,0.0
+RES00586,R010,Notebook 10,Notebook,U0019,Docente,2026-06-16,14:00,16:00,2,Completada,0.0
+RES00587,R011,Notebook 11,Notebook,U0007,Docente,2026-06-16,19:00,21:00,2,Completada,0.0
+RES00588,R032,Tablet 4,Tablet,U0091,Administrativo,2026-06-16,14:00,16:00,2,Cancelada,0.0
+RES00589,R039,Parlante portátil 1,Parlante portátil,U0067,Estudiante,2026-06-17,11:00,12:00,1,Completada,0.0
+RES00590,R042,Parlante portátil 4,Parlante portátil,U0082,Estudiante,2026-06-17,12:00,13:00,1,No-show,0.0
+RES00591,R008,Notebook 8,Notebook,U0019,Docente,2026-06-17,12:00,13:00,1,Completada,0.0
+RES00592,R012,Notebook 12,Notebook,U0075,Estudiante,2026-06-17,14:00,17:00,3,Completada,0.0
+RES00593,R004,Notebook 4,Notebook,U0047,Estudiante,2026-06-17,17:00,18:00,1,Completada,0.0
+RES00594,R009,Notebook 9,Notebook,U0048,Estudiante,2026-06-17,17:00,18:00,1,Completada,0.0
+RES00595,R021,Proyector 6,Proyector,U0043,Estudiante,2026-06-17,19:00,21:00,2,Completada,0.0
+RES00596,R006,Notebook 6,Notebook,U0091,Administrativo,2026-06-17,18:00,21:00,3,Completada,3.0
+RES00597,R003,Notebook 3,Notebook,U0092,Administrativo,2026-06-17,16:00,20:00,4,Cancelada,0.0
+RES00598,R006,Notebook 6,Notebook,U0034,Estudiante,2026-06-17,16:00,17:00,1,No-show,0.0
+RES00599,R014,Notebook 14,Notebook,U0062,Estudiante,2026-06-17,11:00,15:00,4,Completada,0.0
+RES00600,R016,Proyector 1,Proyector,U0075,Estudiante,2026-06-17,18:00,19:00,1,Completada,0.0
+RES00601,R017,Proyector 2,Proyector,U0085,Estudiante,2026-06-18,13:00,14:00,1,Completada,0.0
+RES00602,R033,Tablet 5,Tablet,U0001,Docente,2026-06-18,13:00,17:00,4,Cancelada,0.0
+RES00603,R016,Proyector 1,Proyector,U0017,Docente,2026-06-18,09:00,12:00,3,Completada,0.0
+RES00604,R005,Notebook 5,Notebook,U0011,Docente,2026-06-18,15:00,17:00,2,Completada,0.0
+RES00605,R035,Tablet 7,Tablet,U0033,Estudiante,2026-06-18,15:00,17:00,2,Completada,0.0
+RES00606,R004,Notebook 4,Notebook,U0054,Estudiante,2026-06-18,11:00,13:00,2,Completada,0.0
+RES00607,R023,Proyector 8,Proyector,U0059,Estudiante,2026-06-18,08:00,09:00,1,Completada,0.0
+RES00608,R027,Pantalla interactiva 4,Pantalla interactiva,U0055,Estudiante,2026-06-19,10:00,12:00,2,Completada,0.0
+RES00609,R001,Notebook 1,Notebook,U0027,Estudiante,2026-06-19,11:00,13:00,2,Completada,0.0
+RES00610,R025,Pantalla interactiva 2,Pantalla interactiva,U0048,Estudiante,2026-06-19,16:00,17:00,1,Completada,0.0
+RES00611,R040,Parlante portátil 2,Parlante portátil,U0088,Administrativo,2026-06-19,15:00,17:00,2,No-show,0.0
+RES00612,R019,Proyector 4,Proyector,U0067,Estudiante,2026-06-19,12:00,14:00,2,Completada,0.0
+RES00613,R031,Tablet 3,Tablet,U0011,Docente,2026-06-19,08:00,10:00,2,Completada,0.0
+RES00614,R007,Notebook 7,Notebook,U0021,Docente,2026-06-19,17:00,18:00,1,Cancelada,0.0
+RES00615,R032,Tablet 4,Tablet,U0085,Estudiante,2026-06-19,18:00,19:00,1,Cancelada,0.0
+RES00616,R002,Notebook 2,Notebook,U0022,Docente,2026-06-19,12:00,13:00,1,Completada,0.0
+RES00617,R032,Tablet 4,Tablet,U0034,Estudiante,2026-06-19,08:00,09:00,1,Completada,0.0
+RES00618,R043,Parlante portátil 5,Parlante portátil,U0049,Estudiante,2026-06-19,09:00,12:00,3,Cancelada,0.0
+RES00619,R036,Tablet 8,Tablet,U0017,Docente,2026-06-22,12:00,13:00,1,Completada,0.0
+RES00620,R005,Notebook 5,Notebook,U0083,Estudiante,2026-06-22,14:00,15:00,1,Completada,0.0
+RES00621,R028,Pantalla interactiva 5,Pantalla interactiva,U0067,Estudiante,2026-06-22,19:00,22:00,3,Completada,0.0
+RES00622,R020,Proyector 5,Proyector,U0034,Estudiante,2026-06-22,13:00,14:00,1,Completada,0.0
+RES00623,R040,Parlante portátil 2,Parlante portátil,U0092,Administrativo,2026-06-22,15:00,18:00,3,Completada,0.0
+RES00624,R025,Pantalla interactiva 2,Pantalla interactiva,U0022,Docente,2026-06-22,11:00,12:00,1,Completada,0.0
+RES00625,R021,Proyector 6,Proyector,U0009,Docente,2026-06-22,17:00,20:00,3,Cancelada,0.0
+RES00626,R004,Notebook 4,Notebook,U0012,Docente,2026-06-22,18:00,21:00,3,No-show,0.0
+RES00627,R014,Notebook 14,Notebook,U0090,Administrativo,2026-06-22,18:00,19:00,1,No-show,0.0
+RES00628,R031,Tablet 3,Tablet,U0052,Estudiante,2026-06-22,18:00,19:00,1,Completada,0.0
+RES00629,R026,Pantalla interactiva 3,Pantalla interactiva,U0058,Estudiante,2026-06-22,14:00,15:00,1,Completada,0.0
+RES00630,R021,Proyector 6,Proyector,U0090,Administrativo,2026-06-22,15:00,18:00,3,Completada,0.0
+RES00631,R010,Notebook 10,Notebook,U0074,Estudiante,2026-06-23,13:00,14:00,1,Cancelada,0.0
+RES00632,R019,Proyector 4,Proyector,U0021,Docente,2026-06-23,12:00,14:00,2,Completada,0.0
+RES00633,R002,Notebook 2,Notebook,U0039,Estudiante,2026-06-23,10:00,13:00,3,Completada,0.0
+RES00634,R034,Tablet 6,Tablet,U0089,Administrativo,2026-06-23,12:00,15:00,3,Completada,0.0
+RES00635,R005,Notebook 5,Notebook,U0024,Docente,2026-06-23,16:00,20:00,4,Completada,0.0
+RES00636,R005,Notebook 5,Notebook,U0074,Estudiante,2026-06-23,12:00,14:00,2,Cancelada,0.0
+RES00637,R031,Tablet 3,Tablet,U0049,Estudiante,2026-06-23,16:00,17:00,1,Completada,0.0
+RES00638,R017,Proyector 2,Proyector,U0003,Docente,2026-06-23,17:00,20:00,3,Completada,0.0
+RES00639,R014,Notebook 14,Notebook,U0044,Estudiante,2026-06-23,10:00,11:00,1,Completada,0.0
+RES00640,R018,Proyector 3,Proyector,U0011,Docente,2026-06-23,12:00,13:00,1,Completada,0.0
+RES00641,R002,Notebook 2,Notebook,U0052,Estudiante,2026-06-23,18:00,20:00,2,Completada,0.0
+RES00642,R003,Notebook 3,Notebook,U0055,Estudiante,2026-06-23,13:00,15:00,2,Completada,0.0
+RES00643,R012,Notebook 12,Notebook,U0040,Estudiante,2026-06-23,13:00,16:00,3,Completada,0.0
+RES00644,R041,Parlante portátil 3,Parlante portátil,U0060,Estudiante,2026-06-23,15:00,18:00,3,Completada,0.0
+RES00645,R032,Tablet 4,Tablet,U0056,Estudiante,2026-06-24,17:00,18:00,1,Completada,0.0
+RES00646,R003,Notebook 3,Notebook,U0083,,2026-06-24,13:00,17:00,4,Completada,0.0
+RES00647,R027,Pantalla interactiva 4,Pantalla interactiva,U0090,Administrativo,2026-06-24,14:00,18:00,4,Cancelada,0.0
+RES00648,R023,Proyector 8,Proyector,U0071,Estudiante,2026-06-24,10:00,13:00,3,Completada,0.0
+RES00649,R016,Proyector 1,Proyector,U0025,Docente,2026-06-24,09:00,12:00,3,Completada,0.0
+RES00650,R033,Tablet 5,Tablet,U0084,Estudiante,2026-06-24,08:00,11:00,3,Completada,0.0
+RES00651,R043,Parlante portátil 5,Parlante portátil,U0083,Estudiante,2026-06-24,12:00,15:00,3,Completada,0.0
+RES00652,R038,Tablet 10,Tablet,U0091,Administrativo,2026-06-24,14:00,18:00,4,Completada,0.0
+RES00653,R035,Tablet 7,Tablet,U0040,Estudiante,2026-06-24,15:00,16:00,1,Cancelada,0.0
+RES00654,R007,Notebook 7,Notebook,U0023,Docente,2026-06-24,19:00,21:00,2,No-show,0.0
+RES00655,R007,Notebook 7,Notebook,U0048,Estudiante,2026-06-24,10:00,11:00,1,Completada,0.0
+RES00656,R002,Notebook 2,Notebook,U0081,Estudiante,2026-06-24,19:00,20:00,1,Completada,0.0
+RES00657,R041,Parlante portátil 3,Parlante portátil,U0068,Estudiante,2026-06-25,17:00,18:00,1,Completada,0.0
+RES00658,R017,Proyector 2,Proyector,U0074,Estudiante,2026-06-25,18:00,19:00,1,Completada,0.0
+RES00659,R004,Notebook 4,Notebook,U0025,Docente,2026-06-25,08:00,09:00,1,Completada,0.0
+RES00660,R001,Notebook 1,Notebook,U0051,Estudiante,2026-06-25,08:00,10:00,2,Completada,0.0
+RES00661,R010,Notebook 10,Notebook,U0093,Administrativo,2026-06-25,14:00,17:00,3,Completada,0.0
+RES00662,R012,Notebook 12,Notebook,U0048,Estudiante,2026-06-25,18:00,21:00,3,Completada,0.0
+RES00663,R007,Notebook 7,Notebook,U0070,Estudiante,2026-06-25,12:00,14:00,2,Completada,0.0
+RES00664,R029,Tablet 1,Tablet,U0050,Estudiante,2026-06-25,08:00,11:00,3,Completada,0.0
+RES00665,R015,Notebook 15,Notebook,U0093,Administrativo,2026-06-25,16:00,19:00,3,Cancelada,0.0
+RES00666,R002,Notebook 2,Notebook,U0011,Docente,2026-06-25,14:00,16:00,2,Completada,0.0
+RES00667,R021,Proyector 6,Proyector,U0001,Docente,2026-06-25,16:00,20:00,4,Completada,0.0
+RES00668,R003,Notebook 3,Notebook,U0058,Estudiante,2026-06-25,08:00,12:00,4,Completada,0.0
+RES00669,R044,Parlante portátil 6,Parlante portátil,U0004,Docente,2026-06-25,08:00,11:00,3,No-show,0.0
+RES00670,R004,Notebook 4,Notebook,U0081,Estudiante,2026-06-25,11:00,14:00,3,Cancelada,0.0
+RES00671,R026,Pantalla interactiva 3,Pantalla interactiva,U0060,Estudiante,2026-06-25,09:00,10:00,1,Completada,0.0
+RES00672,R033,Tablet 5,Tablet,U0089,Administrativo,2026-06-25,15:00,17:00,2,Completada,0.0
+RES00673,R021,Proyector 6,Proyector,U0046,Estudiante,2026-06-25,15:00,16:00,1,Completada,0.0
+RES00674,R040,Parlante portátil 2,Parlante portátil,U0078,Estudiante,2026-06-26,17:00,19:00,2,Completada,0.0
+RES00675,R002,Notebook 2,Notebook,U0085,Estudiante,2026-06-26,16:00,17:00,1,Cancelada,0.0
+RES00676,R019,Proyector 4,Proyector,U0032,Estudiante,2026-06-26,16:00,18:00,2,No-show,0.0
+RES00677,R018,Proyector 3,Proyector,U0047,Estudiante,2026-06-26,08:00,11:00,3,Completada,0.0
+RES00678,R030,Tablet 2,Tablet,U0033,Estudiante,2026-06-26,18:00,20:00,2,Completada,0.0
+RES00679,R006,Notebook 6,Notebook,U0081,Estudiante,2026-06-26,12:00,14:00,2,Completada,0.0
+RES00680,R009,Notebook 9,Notebook,U0075,Estudiante,2026-06-26,15:00,16:00,1,Completada,0.0
+RES00681,R013,Notebook 13,Notebook,U0016,Docente,2026-06-26,09:00,10:00,1,Completada,1.0
+RES00682,R022,Proyector 7,Proyector,U0062,Estudiante,2026-06-26,18:00,20:00,2,Completada,2.0
+RES00683,R022,Proyector 7,Proyector,U0033,Estudiante,2026-06-26,14:00,15:00,1,Completada,0.0
+RES00684,R018,Proyector 3,Proyector,U0009,Docente,2026-06-26,09:00,10:00,1,Completada,4.0
+RES00685,R033,Tablet 5,Tablet,U0006,Docente,2026-06-26,18:00,22:00,4,Completada,0.0
+RES00686,R017,Proyector 2,Proyector,U0067,Estudiante,2026-06-26,19:00,20:00,1,Completada,0.0
+RES00687,R004,Notebook 4,Notebook,U0059,Estudiante,2026-06-29,17:00,19:00,2,Completada,0.0
+RES00688,R027,Pantalla interactiva 4,Pantalla interactiva,U0042,Estudiante,2026-06-29,16:00,17:00,1,Completada,0.0
+RES00689,R017,Proyector 2,Proyector,U0015,Docente,2026-06-29,12:00,13:00,1,Completada,0.0
+RES00690,R018,Proyector 3,Proyector,U0089,Administrativo,2026-06-29,13:00,15:00,2,Completada,1.0
+RES00691,R006,Notebook 6,Notebook,U0082,Estudiante,2026-06-29,17:00,18:00,1,Completada,0.0
+RES00692,R038,Tablet 10,Tablet,U0015,Docente,2026-06-29,11:00,12:00,1,Completada,0.0
+RES00693,R016,Proyector 1,Proyector,U0061,Estudiante,2026-06-29,17:00,19:00,2,Completada,0.0
+RES00694,R018,Proyector 3,Proyector,U0028,Estudiante,2026-06-29,08:00,09:00,1,Completada,0.0
+RES00695,R033,Tablet 5,Tablet,U0019,Docente,2026-06-29,13:00,14:00,1,Completada,0.0
+RES00696,R034,Tablet 6,Tablet,U0029,Estudiante,2026-06-29,18:00,20:00,2,No-show,0.0
+RES00697,R005,Notebook 5,Notebook,U0010,Docente,2026-06-29,12:00,13:00,1,Completada,0.0
+RES00698,R007,Notebook 7,Notebook,U0030,Estudiante,2026-06-29,08:00,09:00,1,Completada,0.0
+RES00699,R009,Notebook 9,Notebook,U0002,Docente,2026-06-29,08:00,09:00,1,Completada,0.0
+RES00700,R034,Tablet 6,Tablet,U0059,Estudiante,2026-06-29,14:00,15:00,1,Completada,0.0
+RES00701,R027,Pantalla interactiva 4,Pantalla interactiva,U0042,Estudiante,2026-06-30,08:00,09:00,1,Completada,0.0
+RES00702,R002,Notebook 2,Notebook,U0047,Estudiante,2026-06-30,12:00,13:00,1,Completada,0.0
+RES00703,R031,Tablet 3,Tablet,U0012,Docente,2026-06-30,09:00,11:00,2,Completada,0.0
+RES00704,R001,Notebook 1,Notebook,U0065,Estudiante,2026-06-30,16:00,20:00,4,Completada,0.0
+RES00705,R025,Pantalla interactiva 2,Pantalla interactiva,U0012,Docente,2026-06-30,09:00,10:00,1,Completada,0.0
+RES00706,R023,Proyector 8,Proyector,U0024,Docente,2026-06-30,11:00,15:00,4,Completada,0.0
+RES00707,R002,Notebook 2,Notebook,U0002,Docente,2026-06-30,09:00,13:00,4,Completada,0.0
+RES00708,R025,Pantalla interactiva 2,Pantalla interactiva,U0078,Estudiante,2026-06-30,12:00,14:00,30,Completada,0.0
+RES00709,R005,Notebook 5,Notebook,U0027,Estudiante,2026-06-30,14:00,16:00,2,Completada,0.0
+RES00710,R005,Notebook 5,Notebook,U0017,Docente,2026-06-30,17:00,20:00,3,Completada,0.0
+RES00711,R017,Proyector 2,Proyector,U0067,Estudiante,2026-06-30,10:00,14:00,4,Completada,0.0
+RES00712,R034,Tablet 6,Tablet,U0002,Docente,2026-06-30,09:00,10:00,1,Completada,0.0
+RES00713,R033,Tablet 5,Tablet,U0033,Estudiante,2026-07-01,16:00,17:00,1,Completada,0.0
+RES00714,R021,Proyector 6,Proyector,U0085,Estudiante,2026-07-01,18:00,21:00,3,Completada,
+RES00715,R022,Proyector 7,Proyector,U0058,Estudiante,2026-07-01,10:00,11:00,1,Completada,0.0
+RES00716,R026,Pantalla interactiva 3,Pantalla interactiva,U0003,Docente,2026-07-01,08:00,11:00,3,Completada,0.0
+RES00717,R008,Notebook 8,Notebook,U0075,Estudiante,2026-07-01,19:00,20:00,1,Cancelada,0.0
+RES00718,R011,Notebook 11,Notebook,U0025,,2026-07-01,17:00,18:00,1,Completada,3.0
+RES00719,R020,Proyector 5,Proyector,U0008,Docente,2026-07-01,11:00,15:00,4,Completada,0.0
+RES00720,R005,Notebook 5,Notebook,U0053,Estudiante,2026-07-01,10:00,11:00,1,Completada,0.0
+RES00721,R008,Notebook 8,Notebook,U0030,Estudiante,2026-07-01,19:00,20:00,1,Completada,0.0
+RES00722,R034,Tablet 6,Tablet,U0022,Docente,2026-07-01,14:00,15:00,1,Completada,0.0
+RES00723,R042,Parlante portátil 4,Parlante portátil,U0008,Docente,2026-07-02,16:00,17:00,1,Completada,0.0
+RES00724,R038,Tablet 10,Tablet,U0085,Estudiante,2026-07-02,10:00,12:00,2,Completada,0.0
+RES00725,R035,Tablet 7,Tablet,U0092,Administrativo,2026-07-02,09:00,11:00,2,Completada,0.0
+RES00726,R013,Notebook 13,Notebook,U0093,Administrativo,2026-07-02,11:00,13:00,2,Completada,0.0
+RES00727,R009,Notebook 9,Notebook,U0088,Administrativo,2026-07-02,17:00,20:00,3,Completada,0.0
+RES00728,R030,Tablet 2,Tablet,U0086,Administrativo,2026-07-02,09:00,11:00,2,Completada,0.0
+RES00729,R008,Notebook 8,Notebook,U0072,Estudiante,2026-07-02,15:00,16:00,1,Completada,0.0
+RES00730,R024,Pantalla interactiva 1,Pantalla interactiva,U0003,Docente,2026-07-02,15:00,16:00,1,Cancelada,0.0
+RES00731,R036,Tablet 8,Tablet,U0040,Estudiante,2026-07-02,13:00,15:00,2,Completada,0.0
+RES00732,R016,Proyector 1,Proyector,U0047,Estudiante,2026-07-02,17:00,21:00,4,Completada,0.0
+RES00733,R021,Proyector 6,Proyector,U0055,Estudiante,2026-07-02,13:00,14:00,1,Completada,0.0
+RES00734,R005,Notebook 5,Notebook,U0060,Estudiante,2026-07-02,10:00,12:00,2,Completada,0.0
+RES00735,R013,Notebook 13,Notebook,U0027,Estudiante,2026-07-03,16:00,17:00,1,Completada,0.0
+RES00736,R043,Parlante portátil 5,Parlante portátil,U0068,Estudiante,2026-07-03,15:00,16:00,1,Cancelada,0.0
+RES00737,R039,Parlante portátil 1,Parlante portátil,U0017,Docente,2026-07-03,16:00,17:00,1,Completada,0.0
+RES00738,R016,Proyector 1,Proyector,U0090,Administrativo,2026-07-03,17:00,19:00,2,Completada,0.0
+RES00739,R015,Notebook 15,Notebook,U0093,Administrativo,2026-07-03,17:00,20:00,3,Completada,0.0
+RES00740,R003,Notebook 3,Notebook,U0066,Estudiante,2026-07-03,10:00,13:00,3,Completada,0.0
+RES00741,R003,Notebook 3,Notebook,U0087,Administrativo,2026-07-03,13:00,14:00,1,Completada,0.0
+RES00742,R009,Notebook 9,Notebook,U0036,Estudiante,2026-07-03,15:00,17:00,2,Completada,0.0
+RES00743,R029,Tablet 1,Tablet,U0013,Docente,2026-07-03,09:00,10:00,1,Completada,0.0
+RES00744,R032,Tablet 4,Tablet,U0040,Estudiante,2026-07-06,18:00,19:00,1,Completada,0.0
+RES00745,R028,Pantalla interactiva 5,Pantalla interactiva,U0069,Estudiante,2026-07-06,11:00,14:00,3,Completada,0.0
+RES00746,R003,Notebook 3,Notebook,U0081,Estudiante,2026-07-06,17:00,19:00,2,Completada,0.0
+RES00747,R006,Notebook 6,Notebook,U0016,Docente,2026-07-06,12:00,16:00,4,Cancelada,0.0
+RES00748,R002,Notebook 2,Notebook,U0072,Estudiante,2026-07-06,18:00,22:00,4,Completada,2.0
+RES00749,R032,Tablet 4,Tablet,U0075,Estudiante,2026-07-06,09:00,10:00,1,Completada,0.0
+RES00750,R006,Notebook 6,Notebook,U0009,Docente,2026-07-06,19:00,20:00,1,No-show,0.0
+RES00751,R012,Notebook 12,Notebook,U0026,Estudiante,2026-07-06,19:00,22:00,3,Completada,0.0
+RES00752,R012,Notebook 12,Notebook,U0010,Docente,2026-07-06,14:00,16:00,2,Completada,0.0
+RES00753,R019,Proyector 4,Proyector,U0069,Estudiante,2026-07-06,11:00,12:00,1,Completada,0.0
+RES00754,R015,Notebook 15,Notebook,U0009,Docente,2026-07-07,17:00,19:00,2,Completada,0.0
+RES00755,R002,Notebook 2,Notebook,U0018,Docente,2026-07-07,11:00,13:00,2,Completada,0.0
+RES00756,R009,Notebook 9,Notebook,U0042,Estudiante,2026-07-07,16:00,17:00,1,Cancelada,0.0
+RES00757,R011,Notebook 11,Notebook,U0071,Estudiante,2026-07-07,19:00,20:00,1,Completada,0.0
+RES00758,R036,Tablet 8,Tablet,U0007,Docente,2026-07-07,14:00,17:00,3,Completada,0.0
+RES00759,R037,Tablet 9,Tablet,U0092,Administrativo,2026-07-07,17:00,18:00,1,Completada,0.0
+RES00760,R009,Notebook 9,Notebook,U0027,Estudiante,2026-07-07,13:00,14:00,1,Cancelada,0.0
+RES00761,R027,Pantalla interactiva 4,Pantalla interactiva,U0068,Estudiante,2026-07-07,19:00,21:00,2,Completada,0.0
+RES00762,R042,Parlante portátil 4,Parlante portátil,U0025,Docente,2026-07-08,11:00,12:00,1,Completada,0.0
+RES00763,R039,Parlante portátil 1,Parlante portátil,U0036,Estudiante,2026-07-08,12:00,13:00,1,Completada,0.0
+RES00764,R020,Proyector 5,Proyector,U0045,Estudiante,2026-07-08,13:00,17:00,4,No-show,0.0
+RES00765,R018,Proyector 3,Proyector,U0057,Estudiante,2026-07-09,11:00,13:00,2,No-show,0.0
+RES00766,R028,Pantalla interactiva 5,Pantalla interactiva,U0039,Estudiante,2026-07-09,15:00,17:00,2,No-show,0.0
+RES00767,R022,Proyector 7,Proyector,U0076,Estudiante,2026-07-09,16:00,18:00,2,Completada,0.0
+RES00768,R010,Notebook 10,Notebook,U0091,Administrativo,2026-07-09,16:00,17:00,1,Completada,0.0
+RES00769,R035,Tablet 7,Tablet,U0048,Estudiante,2026-07-09,12:00,13:00,1,Completada,0.0
+RES00770,R034,Tablet 6,Tablet,U0018,Docente,2026-07-09,08:00,09:00,1,Completada,0.0
+RES00771,R018,Proyector 3,Proyector,U0053,Estudiante,2026-07-10,08:00,10:00,2,Completada,0.0
+RES00772,R041,Parlante portátil 3,Parlante portátil,U0092,Administrativo,2026-07-10,11:00,12:00,1,Completada,0.0
+RES00773,R019,Proyector 4,Proyector,U0051,Estudiante,2026-07-10,14:00,17:00,3,Cancelada,0.0
+RES00774,R008,Notebook 8,Notebook,U0042,Estudiante,2026-07-10,17:00,19:00,2,Cancelada,0.0
+RES00775,R011,Notebook 11,Notebook,U0090,Administrativo,2026-07-13,19:00,20:00,1,Completada,0.0
+RES00776,R023,Proyector 8,Proyector,U0070,Estudiante,2026-07-13,15:00,16:00,1,Completada,0.0
+RES00777,R022,Proyector 7,Proyector,U0029,Estudiante,2026-07-13,08:00,11:00,3,Completada,0.0
+RES00778,R017,Proyector 2,Proyector,U0009,Docente,2026-07-13,10:00,13:00,3,Completada,0.0
+RES00779,R014,Notebook 14,Notebook,U0077,Estudiante,2026-07-13,09:00,11:00,2,Completada,0.0
+RES00780,R022,Proyector 7,Proyector,U0026,Estudiante,2026-07-13,10:00,12:00,2,Completada,0.0
+RES00781,R014,Notebook 14,Notebook,U0075,Estudiante,2026-07-14,09:00,11:00,2,Completada,0.0
+RES00782,R014,Notebook 14,Notebook,U0008,Docente,2026-07-14,15:00,17:00,2,No-show,0.0
+RES00783,R023,Proyector 8,Proyector,U0069,Estudiante,2026-07-14,18:00,20:00,2,Completada,0.0
+RES00784,R032,Tablet 4,Tablet,U0055,Estudiante,2026-07-14,16:00,19:00,3,Completada,0.0
+RES00785,R005,Notebook 5,Notebook,U0051,Estudiante,2026-07-14,08:00,10:00,2,Completada,1.0
+RES00786,R014,Notebook 14,Notebook,U0041,Estudiante,2026-07-14,16:00,17:00,1,Completada,0.0
+RES00787,R029,Tablet 1,Tablet,U0057,Estudiante,2026-07-14,08:00,09:00,1,Completada,0.0
+RES00788,R004,Notebook 4,Notebook,U0001,Docente,2026-07-14,10:00,11:00,1,No-show,0.0
+RES00789,R019,Proyector 4,Proyector,U0011,Docente,2026-07-14,11:00,13:00,2,Completada,0.0
+RES00790,R017,Proyector 2,Proyector,U0003,Docente,2026-07-15,15:00,16:00,1,Completada,0.0
+RES00791,R027,Pantalla interactiva 4,Pantalla interactiva,U0080,Estudiante,2026-07-15,08:00,09:00,1,Completada,0.0
+RES00792,R010,Notebook 10,Notebook,U0061,Estudiante,2026-07-15,15:00,16:00,1,Completada,0.0
+RES00793,R006,Notebook 6,Notebook,U0019,Docente,2026-07-15,14:00,16:00,2,No-show,0.0
+RES00794,R012,Notebook 12,Notebook,U0039,Estudiante,2026-07-15,13:00,16:00,3,Completada,0.0
+RES00795,R012,Notebook 12,Notebook,U0022,Docente,2026-07-15,09:00,13:00,4,Completada,0.0
+RES00796,R009,Notebook 9,Notebook,U0040,Estudiante,2026-07-15,08:00,12:00,4,Completada,4.0
+RES00797,R012,Notebook 12,Notebook,U0058,Estudiante,2026-07-16,08:00,09:00,1,Completada,0.0
+RES00798,R004,Notebook 4,Notebook,U0062,Estudiante,2026-07-16,09:00,10:00,1,Completada,0.0
+RES00799,R003,Notebook 3,Notebook,U0039,Estudiante,2026-07-16,09:00,11:00,2,Completada,0.0
+RES00800,R015,Notebook 15,Notebook,U0089,Administrativo,2026-07-16,10:00,11:00,1,Cancelada,0.0
+RES00801,R010,Notebook 10,Notebook,U0071,Estudiante,2026-07-16,18:00,20:00,2,Completada,0.0
+RES00802,R006,Notebook 6,Notebook,U0074,Estudiante,2026-07-16,13:00,14:00,1,Completada,0.0
+RES00803,R018,Proyector 3,Proyector,U0061,Estudiante,2026-07-16,11:00,12:00,1,Completada,0.0
+RES00804,R009,Notebook 9,Notebook,U0048,Estudiante,2026-07-17,18:00,19:00,1,Completada,0.0
+RES00805,R030,Tablet 2,Tablet,U0040,Estudiante,2026-07-17,17:00,18:00,1,Completada,0.0
+RES00806,R043,Parlante portátil 5,Parlante portátil,U0082,Estudiante,2026-07-17,11:00,13:00,2,Completada,0.0
+RES00807,R010,Notebook 10,Notebook,U0049,Estudiante,2026-07-17,12:00,14:00,2,Completada,0.0
+RES00808,R012,Notebook 12,Notebook,U0077,Estudiante,2026-07-17,11:00,13:00,2,Completada,0.0
+RES00809,R012,Notebook 12,Notebook,U0077,Estudiante,2026-07-17,15:00,17:00,2,Completada,0.0
+RES00810,R035,Tablet 7,Tablet,U0048,Estudiante,2026-07-17,12:00,15:00,3,Completada,0.0
+RES00811,R037,Tablet 9,Tablet,U0030,Estudiante,2026-07-17,13:00,14:00,1,Completada,0.0
+RES00812,R003,Notebook 3,Notebook,U0016,Docente,2026-07-17,15:00,19:00,4,Completada,0.0
+RES00813,R026,Pantalla interactiva 3,Pantalla interactiva,U0031,Estudiante,2026-07-19,08:00,09:00,1,Completada,0.0
+RES00814,R014,Notebook 14,Notebook,U0049,Estudiante,2026-07-19,19:00,20:00,1,Completada,0.0
+RES00815,R011,Notebook 11,Notebook,U0081,Estudiante,2026-07-20,19:00,21:00,2,Completada,3.0
+RES00816,R041,Parlante portátil 3,Parlante portátil,U0059,Estudiante,2026-07-20,18:00,20:00,2,Cancelada,0.0
+RES00817,R032,Tablet 4,Tablet,U0090,Administrativo,2026-07-20,08:00,11:00,3,Completada,0.0
+RES00818,R009,Notebook 9,Notebook,U0026,Estudiante,2026-07-20,18:00,20:00,2,Completada,0.0
+RES00819,R005,Notebook 5,Notebook,U0008,Docente,2026-07-20,19:00,21:00,2,Completada,0.0
+RES00820,R042,Parlante portátil 4,Parlante portátil,U0007,Docente,2026-07-20,09:00,10:00,1,Completada,0.0
+RES00821,R025,Pantalla interactiva 2,Pantalla interactiva,U0014,Docente,2026-07-21,18:00,22:00,4,Cancelada,0.0
+RES00822,R032,Tablet 4,Tablet,U0011,Docente,2026-07-21,18:00,20:00,2,Completada,0.0
+RES00823,R018,Proyector 3,Proyector,U0043,Estudiante,2026-07-21,13:00,14:00,1,Completada,0.0
+RES00824,R044,Parlante portátil 6,Parlante portátil,U0036,Estudiante,2026-07-21,10:00,11:00,1,Completada,0.0
+RES00825,R005,Notebook 5,Notebook,U0022,Docente,2026-07-21,11:00,12:00,1,Completada,0.0
+RES00826,R012,Notebook 12,Notebook,U0060,Estudiante,2026-07-21,11:00,14:00,3,Completada,0.0
+RES00827,R015,Notebook 15,Notebook,U0006,Docente,2026-07-21,16:00,17:00,1,Cancelada,0.0
+RES00828,R017,Proyector 2,Proyector,U0044,Estudiante,2026-07-21,17:00,19:00,2,Completada,1.0
+RES00829,R043,Parlante portátil 5,Parlante portátil,U0077,Estudiante,2026-07-22,08:00,09:00,1,Completada,0.0
+RES00830,R004,Notebook 4,Notebook,U0040,Estudiante,2026-07-22,09:00,11:00,2,Completada,0.0
+RES00831,R023,Proyector 8,Proyector,U0051,Estudiante,2026-07-22,17:00,21:00,4,Completada,0.0
+RES00832,R004,Notebook 4,Notebook,U0025,Docente,2026-07-22,17:00,18:00,1,Completada,0.0
+RES00833,R022,Proyector 7,Proyector,U0039,Estudiante,2026-07-22,14:00,17:00,3,Cancelada,0.0
+RES00834,R027,Pantalla interactiva 4,Pantalla interactiva,U0080,Estudiante,2026-07-22,10:00,12:00,2,Completada,0.0
+RES00835,R001,Notebook 1,Notebook,U0066,Estudiante,2026-07-22,19:00,22:00,3,Completada,0.0
+RES00836,R017,Proyector 2,Proyector,U0012,Docente,2026-07-22,10:00,12:00,2,Completada,0.0
+RES00837,R042,Parlante portátil 4,Parlante portátil,U0070,Estudiante,2026-07-22,16:00,18:00,2,Completada,4.0
+RES00838,R037,Tablet 9,Tablet,U0076,Estudiante,2026-07-22,18:00,20:00,2,Completada,0.0
+RES00839,R009,Notebook 9,Notebook,U0076,Estudiante,2026-07-22,10:00,13:00,3,Completada,0.0
+RES00840,R030,Tablet 2,Tablet,U0011,Docente,2026-07-22,16:00,17:00,1,Completada,3.0
+RES00841,R005,Notebook 5,Notebook,U0012,Docente,2026-07-22,15:00,17:00,30,Completada,0.0
+RES00842,R015,Notebook 15,Notebook,U0092,Administrativo,2026-07-22,13:00,15:00,2,Completada,0.0
+RES00843,R033,Tablet 5,Tablet,U0091,Administrativo,2026-07-23,17:00,18:00,1,Completada,0.0
+RES00844,R024,Pantalla interactiva 1,Pantalla interactiva,U0050,Estudiante,2026-07-23,14:00,17:00,3,Completada,0.0
+RES00845,R016,Proyector 1,Proyector,U0008,Docente,2026-07-23,14:00,16:00,2,Completada,0.0
+RES00846,R018,Proyector 3,Proyector,U0007,Docente,2026-07-23,19:00,22:00,3,Completada,1.0
+RES00847,R009,Notebook 9,Notebook,U0069,Estudiante,2026-07-23,19:00,21:00,2,Completada,0.0
+RES00848,R019,Proyector 4,Proyector,U0057,Estudiante,2026-07-23,08:00,11:00,3,Completada,0.0
+RES00849,R019,Proyector 4,Proyector,U0077,Estudiante,2026-07-23,17:00,18:00,1,Cancelada,0.0
+RES00850,R001,Notebook 1,Notebook,U0059,Estudiante,2026-07-23,09:00,11:00,2,Cancelada,0.0
+RES00851,R022,Proyector 7,Proyector,U0062,Estudiante,2026-07-23,13:00,14:00,1,Completada,0.0
+RES00852,R001,Notebook 1,Notebook,U0034,Estudiante,2026-07-23,10:00,14:00,4,Completada,0.0
+RES00853,R007,Notebook 7,Notebook,U0002,Docente,2026-07-23,13:00,15:00,2,Completada,0.0
+RES00854,R006,Notebook 6,Notebook,U0053,Estudiante,2026-07-23,18:00,19:00,1,Completada,0.0
+RES00855,R017,Proyector 2,Proyector,U0078,Estudiante,2026-07-23,14:00,16:00,2,Completada,0.0
+RES00856,R028,Pantalla interactiva 5,Pantalla interactiva,U0056,Estudiante,2026-07-23,19:00,21:00,2,Cancelada,0.0
+RES00857,R009,Notebook 9,Notebook,U0058,Estudiante,2026-07-23,18:00,22:00,4,Completada,0.0
+RES00858,R010,Notebook 10,Notebook,U0090,Administrativo,2026-07-23,10:00,12:00,2,Cancelada,0.0
+RES00859,R001,Notebook 1,Notebook,U0092,Administrativo,2026-07-23,10:00,13:00,3,Completada,0.0
+RES00860,R034,Tablet 6,Tablet,U0089,Administrativo,2026-07-24,11:00,12:00,1,Cancelada,0.0
+RES00861,R015,Notebook 15,Notebook,U0050,Estudiante,2026-07-24,13:00,15:00,2,Completada,0.0
+RES00862,R005,Notebook 5,Notebook,U0008,Docente,2026-07-24,11:00,14:00,3,Completada,0.0
+RES00863,R038,Tablet 10,Tablet,U0047,Estudiante,2026-07-24,12:00,15:00,3,Completada,0.0
+RES00864,R020,Proyector 5,Proyector,U0087,Administrativo,2026-07-24,18:00,21:00,3,Completada,0.0
+RES00865,R035,Tablet 7,Tablet,U0021,Docente,2026-07-24,08:00,11:00,3,Completada,2.0
+RES00866,R042,Parlante portátil 4,Parlante portátil,U0023,Docente,2026-07-24,13:00,16:00,3,Cancelada,0.0
+RES00867,R025,Pantalla interactiva 2,Pantalla interactiva,U0058,Estudiante,2026-07-24,19:00,22:00,4,Completada,0.0
+RES00868,R005,Notebook 5,Notebook,U0049,Estudiante,2026-07-24,11:00,13:00,2,Completada,0.0
+RES00869,R014,Notebook 14,Notebook,U0007,Docente,2026-07-24,09:00,10:00,1,Completada,0.0
+RES00870,R007,Notebook 7,Notebook,U0074,Estudiante,2026-07-24,15:00,16:00,1,Completada,0.0
+RES00871,R018,Proyector 3,Proyector,U0054,Estudiante,2026-07-24,10:00,12:00,2,Cancelada,0.0
+RES00872,R025,Pantalla interactiva 2,Pantalla interactiva,U0089,Administrativo,2026-07-24,18:00,20:00,2,Completada,0.0
+RES00873,R023,Proyector 8,Proyector,U0088,Administrativo,2026-07-24,15:00,16:00,1,No-show,0.0
+RES00874,R017,Proyector 2,Proyector,U0036,Estudiante,2026-07-27,12:00,14:00,2,Cancelada,0.0
+RES00875,R030,Tablet 2,Tablet,U0052,Estudiante,2026-07-27,16:00,18:00,2,Completada,0.0
+RES00876,R015,Notebook 15,Notebook,U0013,Docente,2026-07-27,10:00,14:00,4,Completada,0.0
+RES00877,R031,Tablet 3,Tablet,U0062,Estudiante,2026-07-27,09:00,11:00,2,Completada,0.0
+RES00878,R009,Notebook 9,Notebook,U0049,Estudiante,2026-07-27,08:00,11:00,3,Completada,0.0
+RES00879,R026,Pantalla interactiva 3,Pantalla interactiva,U0079,Estudiante,2026-07-27,10:00,11:00,1,Completada,0.0
+RES00880,R005,Notebook 5,Notebook,U0049,Estudiante,2026-07-27,13:00,16:00,3,Completada,0.0
+RES00881,R022,Proyector 7,Proyector,U0033,Estudiante,2026-07-27,08:00,09:00,1,Cancelada,0.0
+RES00882,R022,Proyector 7,Proyector,U0038,Estudiante,2026-07-27,17:00,18:00,1,Completada,0.0
+RES00883,R020,Proyector 5,Proyector,U0064,Estudiante,2026-07-27,11:00,12:00,1,Completada,0.0
+RES00884,R032,Tablet 4,Tablet,U0049,Estudiante,2026-07-27,18:00,21:00,3,Completada,0.0
+RES00885,R007,Notebook 7,Notebook,U0043,Estudiante,2026-07-27,13:00,17:00,4,Cancelada,0.0
+RES00886,R021,Proyector 6,Proyector,U0030,Estudiante,2026-07-27,10:00,11:00,1,Completada,0.0
+RES00887,R005,Notebook 5,Notebook,U0017,Docente,2026-07-27,16:00,17:00,1,Completada,0.0
+RES00888,R007,Notebook 7,Notebook,U0068,Estudiante,2026-07-28,16:00,17:00,1,Completada,0.0
+RES00889,R010,Notebook 10,Notebook,U0090,Administrativo,2026-07-28,11:00,12:00,1,Completada,0.0
+RES00890,R003,Notebook 3,Notebook,U0011,Docente,2026-07-28,18:00,20:00,2,Completada,0.0
+RES00891,R008,Notebook 8,Notebook,U0047,Estudiante,2026-07-28,08:00,10:00,2,Completada,0.0
+RES00892,R005,Notebook 5,Notebook,U0001,Docente,2026-07-28,15:00,19:00,4,Completada,0.0
+RES00893,R012,Notebook 12,Notebook,U0043,Estudiante,2026-07-28,12:00,13:00,1,Completada,0.0
+RES00894,R005,Notebook 5,Notebook,U0014,Docente,2026-07-28,17:00,20:00,3,Completada,0.0
+RES00895,R027,Pantalla interactiva 4,Pantalla interactiva,U0011,Docente,2026-07-28,14:00,15:00,1,Completada,0.0
+RES00896,R028,Pantalla interactiva 5,Pantalla interactiva,U0048,Estudiante,2026-07-28,16:00,17:00,1,Completada,0.0
+RES00897,R040,Parlante portátil 2,Parlante portátil,U0043,Estudiante,2026-07-28,18:00,19:00,1,Completada,0.0
+RES00898,R031,Tablet 3,Tablet,U0027,Estudiante,2026-07-28,10:00,11:00,1,Completada,0.0
+RES00899,R016,Proyector 1,Proyector,U0016,Docente,2026-07-28,16:00,19:00,3,No-show,0.0
+RES00900,R042,Parlante portátil 4,Parlante portátil,U0080,Estudiante,2026-07-28,14:00,17:00,3,Cancelada,0.0
+RES00901,R028,Pantalla interactiva 5,Pantalla interactiva,U0075,Estudiante,2026-07-29,17:00,19:00,2,Completada,0.0
+RES00902,R042,Parlante portátil 4,Parlante portátil,U0079,Estudiante,2026-07-29,09:00,12:00,3,Completada,0.0
+RES00903,R003,Notebook 3,Notebook,U0055,Estudiante,2026-07-29,13:00,14:00,1,Completada,0.0
+RES00904,R004,Notebook 4,Notebook,U0075,Estudiante,2026-07-29,14:00,18:00,4,Completada,0.0
+RES00905,R003,Notebook 3,Notebook,U0017,Docente,2026-07-29,19:00,20:00,1,No-show,0.0
+RES00906,R013,Notebook 13,Notebook,U0058,Estudiante,2026-07-29,10:00,12:00,2,Completada,0.0
+RES00907,R030,Tablet 2,Tablet,U0054,Estudiante,2026-07-29,11:00,12:00,1,Completada,0.0
+RES00908,R004,Notebook 4,Notebook,U0035,Estudiante,2026-07-29,17:00,18:00,1,Completada,0.0
+RES00909,R010,Notebook 10,Notebook,U0036,Estudiante,2026-07-29,14:00,17:00,3,Completada,0.0
+RES00910,R009,Notebook 9,Notebook,U0006,Docente,2026-07-29,18:00,20:00,2,Completada,0.0
+RES00911,R020,Proyector 5,Proyector,U0025,Docente,2026-07-29,09:00,11:00,2,Completada,0.0
+RES00912,R003,Notebook 3,Notebook,U0023,Docente,2026-07-29,11:00,15:00,4,Completada,0.0
+RES00913,R022,Proyector 7,Proyector,U0031,Estudiante,2026-07-29,11:00,12:00,1,Completada,0.0
+RES00914,R002,Notebook 2,Notebook,U0072,Estudiante,2026-07-29,17:00,20:00,3,Completada,0.0
+RES00915,R003,Notebook 3,Notebook,U0028,Estudiante,2026-07-29,08:00,10:00,2,Completada,0.0
+RES00916,R036,Tablet 8,Tablet,U0054,Estudiante,2026-07-29,12:00,14:00,2,Completada,0.0
+RES00917,R016,Proyector 1,Proyector,U0003,Docente,2026-07-29,19:00,21:00,2,Completada,4.0
+RES00918,R024,Pantalla interactiva 1,Pantalla interactiva,U0059,Estudiante,2026-07-29,17:00,21:00,4,Completada,0.0
+RES00919,R021,Proyector 6,Proyector,U0023,Docente,2026-07-29,11:00,12:00,1,Completada,0.0
+RES00920,R001,Notebook 1,Notebook,U0089,Administrativo,2026-07-29,19:00,22:00,4,Completada,0.0
+RES00921,R031,Tablet 3,Tablet,U0031,Estudiante,2026-07-29,15:00,16:00,1,Completada,3.0
+RES00922,R035,Tablet 7,Tablet,U0052,Estudiante,2026-07-29,17:00,19:00,2,Completada,0.0
+RES00923,R034,Tablet 6,Tablet,U0079,Estudiante,2026-07-30,09:00,10:00,1,Completada,0.0
+RES00924,R035,Tablet 7,Tablet,U0075,Estudiante,2026-07-30,08:00,09:00,1,Completada,0.0
+RES00925,R008,Notebook 8,Notebook,U0060,Estudiante,2026-07-30,11:00,13:00,2,Completada,0.0
+RES00926,R012,Notebook 12,Notebook,U0012,Docente,2026-07-30,11:00,13:00,2,Completada,0.0
+RES00927,R021,Proyector 6,Proyector,U0015,Docente,2026-07-30,17:00,18:00,1,Completada,0.0
+RES00928,R014,Notebook 14,Notebook,U0048,Estudiante,2026-07-30,19:00,20:00,1,Completada,0.0
+RES00929,R018,Proyector 3,Proyector,U0005,Docente,2026-07-30,13:00,16:00,3,Completada,0.0
+RES00930,R010,Notebook 10,Notebook,U0026,Estudiante,2026-07-30,14:00,16:00,2,Completada,0.0
+RES00931,R007,Notebook 7,Notebook,U0061,Estudiante,2026-07-30,08:00,09:00,1,No-show,0.0
+RES00932,R009,Notebook 9,Notebook,U0004,Docente,2026-07-30,15:00,17:00,2,Completada,0.0
+RES00933,R009,Notebook 9,Notebook,U0062,Estudiante,2026-07-30,15:00,17:00,2,Completada,0.0
+RES00934,R031,Tablet 3,Tablet,U0029,Estudiante,2026-07-30,16:00,17:00,1,Completada,0.0
+RES00935,R007,Notebook 7,Notebook,U0072,Estudiante,2026-07-30,16:00,18:00,2,Completada,0.0
+RES00936,R017,Proyector 2,Proyector,U0038,Estudiante,2026-07-30,08:00,12:00,4,Completada,0.0
+RES00937,R036,Tablet 8,Tablet,U0065,Estudiante,2026-07-30,15:00,17:00,2,Completada,0.0
+RES00938,R002,Notebook 2,Notebook,U0057,Estudiante,2026-07-30,14:00,15:00,1,Completada,0.0
+RES00939,R007,Notebook 7,Notebook,U0035,Estudiante,2026-07-30,13:00,15:00,2,Completada,0.0
+RES00940,R015,Notebook 15,Notebook,U0008,Docente,2026-07-30,09:00,11:00,2,Completada,0.0
+RES00941,R018,Proyector 3,Proyector,U0092,Administrativo,2026-07-31,13:00,14:00,1,Completada,0.0
+RES00942,R020,Proyector 5,Proyector,U0037,Estudiante,2026-07-31,09:00,10:00,1,Completada,0.0
+RES00943,R023,Proyector 8,Proyector,U0074,Estudiante,2026-07-31,12:00,16:00,4,Completada,1.0
+RES00944,R034,Tablet 6,Tablet,U0085,Estudiante,2026-07-31,19:00,20:00,1,Completada,0.0
+RES00945,R007,Notebook 7,Notebook,U0070,Estudiante,2026-07-31,14:00,16:00,2,Completada,0.0
+RES00946,R008,Notebook 8,Notebook,U0009,Docente,2026-07-31,18:00,19:00,1,No-show,0.0
+RES00947,R001,Notebook 1,Notebook,U0063,Estudiante,2026-07-31,09:00,13:00,4,Completada,0.0
+RES00948,R011,Notebook 11,Notebook,U0022,Docente,2026-07-31,18:00,20:00,2,Completada,0.0
+RES00949,R004,Notebook 4,Notebook,U0003,Docente,2026-07-31,18:00,20:00,2,Completada,0.0
+RES00950,R035,Tablet 7,Tablet,U0009,Docente,2026-07-31,19:00,20:00,1,Completada,0.0
+RES00951,R019,Proyector 4,Proyector,U0069,Estudiante,2026-07-31,16:00,18:00,2,Completada,0.0
+RES00952,R001,Notebook 1,Notebook,U0083,Estudiante,2026-07-31,17:00,19:00,2,Completada,0.0
+RES00953,R010,Notebook 10,Notebook,U0066,Estudiante,2026-08-02,08:00,11:00,3,Completada,0.0
+RES00954,R017,Proyector 2,Proyector,U0086,Administrativo,2026-08-03,13:00,16:00,3,Completada,0.0
+RES00955,R005,Notebook 5,Notebook,U0028,Estudiante,2026-08-03,15:00,17:00,2,Completada,3.0
+RES00956,R039,Parlante portátil 1,Parlante portátil,U0026,Estudiante,2026-08-03,15:00,16:00,1,Completada,0.0
+RES00957,R026,Pantalla interactiva 3,Pantalla interactiva,U0088,Administrativo,2026-08-03,13:00,15:00,2,Completada,4.0
+RES00958,R022,Proyector 7,Proyector,U0008,Docente,2026-08-03,10:00,11:00,1,Completada,0.0
+RES00959,R013,Notebook 13,Notebook,U0093,Administrativo,2026-08-03,10:00,11:00,1,Completada,0.0
+RES00960,R029,Tablet 1,Tablet,U0082,Estudiante,2026-08-03,18:00,19:00,1,Completada,0.0
+RES00961,R038,Tablet 10,Tablet,U0018,Docente,2026-08-03,15:00,17:00,2,Completada,0.0
+RES00962,R012,Notebook 12,Notebook,U0047,Estudiante,2026-08-03,19:00,22:00,4,No-show,0.0
+RES00963,R003,Notebook 3,Notebook,U0065,Estudiante,2026-08-03,16:00,17:00,1,Completada,0.0
+RES00964,R003,Notebook 3,Notebook,U0058,Estudiante,2026-08-03,09:00,11:00,2,Completada,0.0
+RES00965,R034,Tablet 6,Tablet,U0002,Docente,2026-08-04,19:00,20:00,1,Completada,0.0
+RES00966,R031,Tablet 3,Tablet,U0032,,2026-08-04,14:00,15:00,1,Completada,0.0
+RES00967,R041,Parlante portátil 3,Parlante portátil,U0051,Estudiante,2026-08-04,19:00,20:00,1,Completada,0.0
+RES00968,R011,Notebook 11,Notebook,U0061,Estudiante,2026-08-04,15:00,16:00,1,Completada,2.0
+RES00969,R017,Proyector 2,Proyector,U0040,Estudiante,2026-08-04,10:00,12:00,2,No-show,0.0
+RES00970,R017,Proyector 2,Proyector,U0029,Estudiante,2026-08-04,13:00,17:00,4,Completada,0.0
+RES00971,R025,Pantalla interactiva 2,Pantalla interactiva,U0013,Docente,2026-08-05,19:00,21:00,2,Completada,0.0
+RES00972,R034,Tablet 6,Tablet,U0038,Estudiante,2026-08-05,15:00,16:00,1,Cancelada,0.0
+RES00973,R009,Notebook 9,Notebook,U0062,Estudiante,2026-08-05,16:00,17:00,1,Completada,0.0
+RES00974,R019,Proyector 4,Proyector,U0062,Estudiante,2026-08-06,13:00,15:00,2,Completada,0.0
+RES00975,R006,Notebook 6,Notebook,U0059,Estudiante,2026-08-06,14:00,15:00,1,Completada,0.0
+RES00976,R036,Tablet 8,Tablet,U0001,Docente,2026-08-06,19:00,20:00,1,Cancelada,0.0
+RES00977,R011,Notebook 11,Notebook,U0080,Estudiante,2026-08-06,10:00,13:00,40,No-show,0.0
+RES00978,R036,Tablet 8,Tablet,U0050,Estudiante,2026-08-06,13:00,15:00,2,Completada,0.0
+RES00979,R022,Proyector 7,Proyector,U0067,Estudiante,2026-08-06,15:00,17:00,2,Completada,0.0
+RES00980,R009,Notebook 9,Notebook,U0039,Estudiante,2026-08-06,10:00,11:00,1,Completada,0.0
+RES00981,R031,Tablet 3,Tablet,U0003,Docente,2026-08-07,14:00,15:00,1,Completada,0.0
+RES00982,R027,Pantalla interactiva 4,Pantalla interactiva,U0058,Estudiante,2026-08-07,10:00,12:00,2,Completada,0.0
+RES00983,R044,Parlante portátil 6,Parlante portátil,U0045,Estudiante,2026-08-07,16:00,19:00,3,Completada,0.0
+RES00984,R002,Notebook 2,Notebook,U0085,Estudiante,2026-08-07,09:00,12:00,3,No-show,0.0
+RES00985,R026,Pantalla interactiva 3,Pantalla interactiva,U0050,Estudiante,2026-08-07,12:00,14:00,2,Completada,0.0
+RES00986,R007,Notebook 7,Notebook,U0056,Estudiante,2026-08-07,10:00,13:00,3,Completada,
+RES00987,R005,Notebook 5,Notebook,U0023,Docente,2026-08-07,09:00,13:00,4,Completada,0.0
+RES00988,R032,Tablet 4,Tablet,U0013,Docente,2026-08-07,12:00,13:00,1,Completada,3.0
+RES00989,R032,Tablet 4,Tablet,U0078,Estudiante,2026-08-07,17:00,19:00,2,Completada,0.0
+RES00990,R030,Tablet 2,Tablet,U0034,Estudiante,2026-08-07,12:00,14:00,2,Completada,0.0
+RES00991,R022,Proyector 7,Proyector,U0004,Docente,2026-08-10,09:00,10:00,1,Completada,0.0
+RES00992,R044,Parlante portátil 6,Parlante portátil,U0030,Estudiante,2026-08-10,10:00,12:00,2,Cancelada,0.0
+RES00993,R003,Notebook 3,Notebook,U0004,Docente,2026-08-10,13:00,15:00,2,Completada,0.0
+RES00994,R007,Notebook 7,Notebook,U0069,Estudiante,2026-08-10,11:00,15:00,4,Completada,0.0
+RES00995,R032,Tablet 4,Tablet,U0086,Administrativo,2026-08-10,08:00,12:00,4,Completada,0.0
+RES00996,R035,Tablet 7,Tablet,U0075,Estudiante,2026-08-10,16:00,19:00,3,Completada,0.0
+RES00997,R021,Proyector 6,Proyector,U0019,Docente,2026-08-10,12:00,13:00,1,Completada,0.0
+RES00998,R037,Tablet 9,Tablet,U0042,Estudiante,2026-08-10,17:00,18:00,1,Completada,0.0
+RES00999,R027,Pantalla interactiva 4,Pantalla interactiva,U0014,Docente,2026-08-10,14:00,17:00,3,Completada,0.0
+RES01000,R019,Proyector 4,Proyector,U0079,Estudiante,2026-08-11,17:00,19:00,2,Cancelada,0.0
+RES01001,R016,Proyector 1,Proyector,U0077,Estudiante,2026-08-11,17:00,20:00,3,Completada,0.0
+RES01002,R007,Notebook 7,Notebook,U0006,Docente,2026-08-11,16:00,17:00,1,Completada,0.0
+RES01003,R009,Notebook 9,Notebook,U0049,Estudiante,2026-08-11,13:00,14:00,1,Completada,0.0
+RES01004,R025,Pantalla interactiva 2,Pantalla interactiva,U0037,Estudiante,2026-08-11,11:00,12:00,1,Completada,0.0
+RES01005,R002,Notebook 2,Notebook,U0052,Estudiante,2026-08-11,11:00,13:00,2,Completada,2.0
+RES01006,R025,Pantalla interactiva 2,Pantalla interactiva,U0065,Estudiante,2026-08-11,12:00,13:00,1,Completada,0.0
+RES01007,R006,Notebook 6,Notebook,U0013,Docente,2026-08-11,18:00,20:00,2,Completada,0.0
+RES01008,R022,Proyector 7,Proyector,U0017,Docente,2026-08-11,11:00,13:00,2,Completada,2.0
+RES01009,R029,Tablet 1,Tablet,U0076,Estudiante,2026-08-11,19:00,21:00,2,Completada,0.0
+RES01010,R021,Proyector 6,Proyector,U0030,Estudiante,2026-08-12,12:00,13:00,1,Completada,0.0
+RES01011,R007,Notebook 7,Notebook,U0054,Estudiante,2026-08-12,10:00,12:00,2,Completada,0.0
+RES01012,R037,Tablet 9,Tablet,U0052,Estudiante,2026-08-12,08:00,09:00,1,Completada,
+RES01013,R028,Pantalla interactiva 5,Pantalla interactiva,U0084,Estudiante,2026-08-12,09:00,10:00,1,Completada,0.0
+RES01014,R019,Proyector 4,Proyector,U0050,Estudiante,2026-08-12,18:00,21:00,3,Completada,0.0
+RES01015,R021,Proyector 6,Proyector,U0026,Estudiante,2026-08-12,08:00,11:00,3,Completada,3.0
+RES01016,R034,Tablet 6,Tablet,U0084,Estudiante,2026-08-12,14:00,15:00,1,Completada,0.0
+RES01017,R006,Notebook 6,Notebook,U0083,Estudiante,2026-08-12,13:00,14:00,1,Completada,0.0
+RES01018,R012,Notebook 12,Notebook,U0074,Estudiante,2026-08-12,09:00,11:00,2,Completada,0.0
+RES01019,R031,Tablet 3,Tablet,U0034,Estudiante,2026-08-12,10:00,12:00,2,Completada,3.0
+RES01020,R022,Proyector 7,Proyector,U0038,Estudiante,2026-08-12,12:00,13:00,1,Completada,0.0
+RES01021,R044,Parlante portátil 6,Parlante portátil,U0035,Estudiante,2026-08-12,16:00,17:00,1,Completada,0.0
+RES01022,R006,Notebook 6,Notebook,U0044,Estudiante,2026-08-12,15:00,19:00,4,Completada,0.0
+RES01023,R014,Notebook 14,Notebook,U0061,,2026-08-12,12:00,13:00,1,Completada,0.0
+RES01024,R033,Tablet 5,Tablet,U0043,Estudiante,2026-08-12,17:00,20:00,3,Completada,0.0
+RES01025,R039,Parlante portátil 1,Parlante portátil,U0070,Estudiante,2026-08-13,15:00,16:00,1,Completada,0.0
+RES01026,R026,Pantalla interactiva 3,Pantalla interactiva,U0003,Docente,2026-08-13,17:00,19:00,2,Cancelada,0.0
+RES01027,R017,Proyector 2,Proyector,U0023,Docente,2026-08-13,16:00,17:00,1,Completada,0.0
+RES01028,R037,Tablet 9,Tablet,U0029,Estudiante,2026-08-13,08:00,09:00,1,No-show,0.0
+RES01029,R016,Proyector 1,Proyector,U0063,Estudiante,2026-08-13,16:00,17:00,1,Completada,0.0
+RES01030,R006,Notebook 6,Notebook,U0070,Estudiante,2026-08-13,18:00,20:00,2,Completada,0.0
+RES01031,R009,Notebook 9,Notebook,U0079,Estudiante,2026-08-13,14:00,17:00,3,No-show,0.0
+RES01032,R010,Notebook 10,Notebook,U0006,Docente,2026-08-13,17:00,19:00,2,Completada,0.0
+RES01033,R022,Proyector 7,Proyector,U0053,Estudiante,2026-08-14,19:00,21:00,2,Completada,0.0
+RES01034,R012,Notebook 12,Notebook,U0029,Estudiante,2026-08-14,12:00,13:00,1,Cancelada,0.0
+RES01035,R022,Proyector 7,Proyector,U0040,Estudiante,2026-08-14,19:00,22:00,4,Completada,0.0
+RES01036,R005,Notebook 5,Notebook,U0076,Estudiante,2026-08-14,10:00,11:00,1,Completada,0.0
+RES01037,R007,Notebook 7,Notebook,U0001,Docente,2026-08-14,14:00,15:00,1,Completada,0.0
+RES01038,R024,Pantalla interactiva 1,Pantalla interactiva,U0049,Estudiante,2026-08-14,17:00,19:00,2,Completada,0.0
+RES01039,R034,Tablet 6,Tablet,U0079,Estudiante,2026-08-16,16:00,17:00,1,Completada,0.0
+RES01040,R003,Notebook 3,Notebook,U0038,Estudiante,2026-08-17,08:00,12:00,4,Completada,0.0
+RES01041,R035,Tablet 7,Tablet,U0081,Estudiante,2026-08-17,17:00,20:00,3,Completada,0.0
+RES01042,R001,Notebook 1,Notebook,U0031,Estudiante,2026-08-17,12:00,13:00,1,Completada,0.0
+RES01043,R004,Notebook 4,Notebook,U0060,Estudiante,2026-08-17,11:00,13:00,2,Cancelada,0.0
+RES01044,R041,Parlante portátil 3,Parlante portátil,U0044,Estudiante,2026-08-17,08:00,12:00,4,Completada,0.0
+RES01045,R010,Notebook 10,Notebook,U0028,Estudiante,2026-08-17,11:00,13:00,2,Cancelada,0.0
+RES01046,R003,Notebook 3,Notebook,U0059,Estudiante,2026-08-17,08:00,09:00,1,Completada,4.0
+RES01047,R003,Notebook 3,Notebook,U0068,Estudiante,2026-08-18,14:00,15:00,1,Completada,2.0
+RES01048,R016,Proyector 1,Proyector,U0027,Estudiante,2026-08-18,18:00,20:00,2,No-show,0.0
+RES01049,R015,Notebook 15,Notebook,U0092,Administrativo,2026-08-18,14:00,16:00,2,Completada,0.0
+RES01050,R021,Proyector 6,Proyector,U0006,Docente,2026-08-18,11:00,13:00,2,Completada,0.0
+RES01051,R030,Tablet 2,Tablet,U0074,Estudiante,2026-08-18,19:00,20:00,1,Completada,0.0
+RES01052,R006,Notebook 6,Notebook,U0038,Estudiante,2026-08-18,16:00,17:00,1,Completada,0.0
+RES01053,R006,Notebook 6,Notebook,U0007,Docente,2026-08-18,18:00,20:00,2,Completada,0.0
+RES01054,R036,Tablet 8,Tablet,U0066,Estudiante,2026-08-18,09:00,10:00,1,Completada,0.0
+RES01055,R005,Notebook 5,Notebook,U0058,Estudiante,2026-08-18,16:00,17:00,1,Completada,0.0
+RES01056,R002,Notebook 2,Notebook,U0054,Estudiante,2026-08-18,18:00,19:00,1,Completada,0.0
+RES01057,R002,Notebook 2,Notebook,U0019,Docente,2026-08-18,14:00,15:00,1,Completada,
+RES01058,R007,Notebook 7,Notebook,U0074,Estudiante,2026-08-19,18:00,21:00,3,Completada,0.0
+RES01059,R002,Notebook 2,Notebook,U0052,,2026-08-19,14:00,15:00,1,Completada,0.0
+RES01060,R009,Notebook 9,Notebook,U0088,Administrativo,2026-08-19,08:00,12:00,4,Completada,0.0
+RES01061,R031,Tablet 3,Tablet,U0067,Estudiante,2026-08-19,17:00,18:00,1,Completada,0.0
+RES01062,R020,Proyector 5,Proyector,U0062,Estudiante,2026-08-19,09:00,10:00,1,Completada,0.0
+RES01063,R036,Tablet 8,Tablet,U0093,Administrativo,2026-08-19,19:00,20:00,1,Completada,0.0
+RES01064,R013,Notebook 13,Notebook,U0024,Docente,2026-08-19,14:00,15:00,1,Completada,0.0
+RES01065,R012,Notebook 12,Notebook,U0022,Docente,2026-08-19,10:00,12:00,2,Completada,0.0
+RES01066,R019,Proyector 4,Proyector,U0081,Estudiante,2026-08-19,10:00,11:00,1,Completada,4.0
+RES01067,R001,Notebook 1,Notebook,U0090,Administrativo,2026-08-20,11:00,12:00,1,Cancelada,0.0
+RES01068,R011,Notebook 11,Notebook,U0032,Estudiante,2026-08-20,16:00,17:00,1,Completada,0.0
+RES01069,R015,Notebook 15,Notebook,U0048,Estudiante,2026-08-20,18:00,20:00,2,Completada,1.0
+RES01070,R033,Tablet 5,Tablet,U0055,Estudiante,2026-08-20,18:00,22:00,4,Completada,0.0
+RES01071,R039,Parlante portátil 1,Parlante portátil,U0081,Estudiante,2026-08-20,11:00,12:00,1,Completada,0.0
+RES01072,R031,Tablet 3,Tablet,U0076,Estudiante,2026-08-20,14:00,15:00,1,Cancelada,0.0
+RES01073,R025,Pantalla interactiva 2,Pantalla interactiva,U0077,Estudiante,2026-08-20,16:00,17:00,1,Completada,0.0
+RES01074,R018,Proyector 3,Proyector,U0018,Docente,2026-08-20,13:00,14:00,1,Completada,0.0
+RES01075,R039,Parlante portátil 1,Parlante portátil,U0051,Estudiante,2026-08-20,12:00,16:00,4,Completada,0.0
+RES01076,R004,Notebook 4,Notebook,U0023,Docente,2026-08-21,15:00,17:00,2,Completada,
+RES01077,R040,Parlante portátil 2,Parlante portátil,U0013,Docente,2026-08-21,12:00,13:00,1,Completada,0.0
+RES01078,R036,Tablet 8,Tablet,U0003,Docente,2026-08-21,18:00,19:00,1,Completada,0.0
+RES01079,R012,Notebook 12,Notebook,U0059,Estudiante,2026-08-21,18:00,22:00,4,Completada,0.0
+RES01080,R024,Pantalla interactiva 1,Pantalla interactiva,U0059,Estudiante,2026-08-21,18:00,19:00,1,Completada,0.0
+RES01081,R016,Proyector 1,Proyector,U0092,Administrativo,2026-08-21,10:00,13:00,3,Completada,0.0
+RES01082,R008,Notebook 8,Notebook,U0036,Estudiante,2026-08-21,18:00,20:00,2,Completada,0.0
+RES01083,R032,Tablet 4,Tablet,U0059,Estudiante,2026-08-21,13:00,14:00,1,Completada,0.0
+RES01084,R039,Parlante portátil 1,Parlante portátil,U0086,Administrativo,2026-08-21,12:00,13:00,1,Completada,0.0
+RES01085,R012,Notebook 12,Notebook,U0044,Estudiante,2026-08-22,15:00,16:00,1,Completada,0.0
+RES01086,R002,Notebook 2,Notebook,U0042,Estudiante,2026-08-23,09:00,10:00,1,Completada,0.0
+RES01087,R008,Notebook 8,Notebook,U0022,Docente,2026-08-24,19:00,20:00,1,Completada,0.0
+RES01088,R016,Proyector 1,Proyector,U0001,Docente,2026-08-24,16:00,17:00,1,Completada,0.0
+RES01089,R006,Notebook 6,Notebook,U0031,Estudiante,2026-08-24,14:00,15:00,1,Completada,0.0
+RES01090,R004,Notebook 4,Notebook,U0010,Docente,2026-08-24,14:00,15:00,1,Completada,1.0
+RES01091,R031,Tablet 3,Tablet,U0082,Estudiante,2026-08-24,08:00,12:00,4,Completada,0.0
+RES01092,R002,Notebook 2,Notebook,U0058,Estudiante,2026-08-24,14:00,18:00,4,Completada,0.0
+RES01093,R033,Tablet 5,Tablet,U0032,Estudiante,2026-08-24,11:00,12:00,1,Completada,0.0
+RES01094,R015,Notebook 15,Notebook,U0050,,2026-08-24,10:00,12:00,2,Completada,0.0
+RES01095,R024,Pantalla interactiva 1,Pantalla interactiva,U0017,Docente,2026-08-24,08:00,11:00,3,Completada,2.0
+RES01096,R001,Notebook 1,Notebook,U0091,Administrativo,2026-08-24,16:00,20:00,4,Completada,0.0
+RES01097,R022,Proyector 7,Proyector,U0092,Administrativo,2026-08-24,18:00,19:00,1,Completada,0.0
+RES01098,R032,Tablet 4,Tablet,U0011,Docente,2026-08-24,17:00,18:00,1,Completada,0.0
+RES01099,R009,Notebook 9,Notebook,U0034,Estudiante,2026-08-24,14:00,17:00,3,Completada,0.0
+RES01100,R002,Notebook 2,Notebook,U0028,Estudiante,2026-08-24,11:00,14:00,3,Completada,0.0
+RES01101,R014,Notebook 14,Notebook,U0027,Estudiante,2026-08-24,19:00,21:00,2,Completada,0.0
+RES01102,R019,Proyector 4,Proyector,U0002,Docente,2026-08-25,08:00,12:00,4,Completada,0.0
+RES01103,R021,Proyector 6,Proyector,U0020,Docente,2026-08-25,18:00,20:00,2,Completada,0.0
+RES01104,R005,Notebook 5,Notebook,U0067,Estudiante,2026-08-25,10:00,11:00,1,No-show,0.0
+RES01105,R027,Pantalla interactiva 4,Pantalla interactiva,U0015,Docente,2026-08-25,18:00,19:00,1,Completada,0.0
+RES01106,R009,Notebook 9,Notebook,U0091,Administrativo,2026-08-25,13:00,15:00,40,Cancelada,0.0
+RES01107,R038,Tablet 10,Tablet,U0074,Estudiante,2026-08-25,15:00,17:00,2,Completada,0.0
+RES01108,R027,Pantalla interactiva 4,Pantalla interactiva,U0024,Docente,2026-08-25,19:00,22:00,3,Completada,0.0
+RES01109,R010,Notebook 10,Notebook,U0062,Estudiante,2026-08-25,09:00,12:00,3,Completada,0.0
+RES01110,R003,Notebook 3,Notebook,U0030,Estudiante,2026-08-25,19:00,21:00,2,Completada,0.0
+RES01111,R010,Notebook 10,Notebook,U0071,Estudiante,2026-08-25,14:00,16:00,2,Completada,0.0
+RES01112,R003,Notebook 3,Notebook,U0011,Docente,2026-08-25,09:00,10:00,1,No-show,0.0
+RES01113,R039,Parlante portátil 1,Parlante portátil,U0008,Docente,2026-08-25,17:00,20:00,3,Completada,0.0
+RES01114,R031,Tablet 3,Tablet,U0003,Docente,2026-08-25,15:00,18:00,3,Completada,0.0
+RES01115,R044,Parlante portátil 6,Parlante portátil,U0016,Docente,2026-08-25,10:00,11:00,1,Completada,0.0
+RES01116,R015,Notebook 15,Notebook,U0033,Estudiante,2026-08-25,11:00,12:00,1,Completada,4.0
+RES01117,R034,Tablet 6,Tablet,U0023,Docente,2026-08-25,12:00,14:00,2,Completada,0.0
+RES01118,R012,Notebook 12,Notebook,U0071,Estudiante,2026-08-25,14:00,15:00,1,Completada,1.0
+RES01119,R012,Notebook 12,Notebook,U0012,Docente,2026-08-25,12:00,16:00,4,Cancelada,0.0
+RES01120,R038,Tablet 10,Tablet,U0054,Estudiante,2026-08-26,11:00,13:00,2,Cancelada,0.0
+RES01121,R002,Notebook 2,Notebook,U0002,Docente,2026-08-26,14:00,15:00,1,Completada,0.0
+RES01122,R026,Pantalla interactiva 3,Pantalla interactiva,U0030,Estudiante,2026-08-26,17:00,20:00,3,Cancelada,0.0
+RES01123,R015,Notebook 15,Notebook,U0042,Estudiante,2026-08-26,09:00,11:00,2,Completada,0.0
+RES01124,R011,Notebook 11,Notebook,U0043,Estudiante,2026-08-26,09:00,13:00,4,Completada,0.0
+RES01125,R003,Notebook 3,Notebook,U0039,Estudiante,2026-08-26,13:00,14:00,1,Completada,0.0
+RES01126,R011,Notebook 11,Notebook,U0057,Estudiante,2026-08-26,14:00,17:00,3,Completada,0.0
+RES01127,R007,Notebook 7,Notebook,U0040,,2026-08-26,13:00,14:00,1,Completada,0.0
+RES01128,R019,Proyector 4,Proyector,U0024,Docente,2026-08-26,11:00,12:00,1,Completada,0.0
+RES01129,R010,Notebook 10,Notebook,U0047,Estudiante,2026-08-26,16:00,19:00,3,No-show,0.0
+RES01130,R007,Notebook 7,Notebook,U0055,,2026-08-26,08:00,09:00,1,Completada,0.0
+RES01131,R026,Pantalla interactiva 3,Pantalla interactiva,U0087,Administrativo,2026-08-27,13:00,15:00,2,Completada,0.0
+RES01132,R004,Notebook 4,Notebook,U0089,Administrativo,2026-08-27,18:00,20:00,2,Cancelada,0.0
+RES01133,R005,Notebook 5,Notebook,U0064,,2026-08-27,13:00,15:00,2,Completada,0.0
+RES01134,R044,Parlante portátil 6,Parlante portátil,U0092,Administrativo,2026-08-27,12:00,14:00,2,Completada,0.0
+RES01135,R042,Parlante portátil 4,Parlante portátil,U0083,Estudiante,2026-08-27,19:00,20:00,1,Completada,0.0
+RES01136,R011,Notebook 11,Notebook,U0022,Docente,2026-08-27,13:00,14:00,1,Completada,0.0
+RES01137,R020,Proyector 5,Proyector,U0035,Estudiante,2026-08-27,13:00,14:00,1,Completada,0.0
+RES01138,R004,Notebook 4,Notebook,U0067,Estudiante,2026-08-27,10:00,12:00,2,Cancelada,0.0
+RES01139,R005,Notebook 5,Notebook,U0026,Estudiante,2026-08-27,13:00,14:00,1,Completada,0.0
+RES01140,R007,Notebook 7,Notebook,U0039,Estudiante,2026-08-27,14:00,16:00,2,Completada,0.0
+RES01141,R017,Proyector 2,Proyector,U0093,Administrativo,2026-08-27,10:00,11:00,1,Completada,3.0
+RES01142,R027,Pantalla interactiva 4,Pantalla interactiva,U0001,Docente,2026-08-27,17:00,20:00,3,Completada,0.0
+RES01143,R012,Notebook 12,Notebook,U0025,Docente,2026-08-28,12:00,16:00,4,Completada,0.0
+RES01144,R026,Pantalla interactiva 3,Pantalla interactiva,U0009,Docente,2026-08-28,18:00,20:00,2,Completada,4.0
+RES01145,R021,Proyector 6,Proyector,U0001,,2026-08-28,12:00,14:00,2,Completada,0.0
+RES01146,R015,Notebook 15,Notebook,U0012,Docente,2026-08-28,09:00,12:00,3,Completada,1.0
+RES01147,R021,Proyector 6,Proyector,U0049,Estudiante,2026-08-28,08:00,09:00,1,Completada,0.0
+RES01148,R031,Tablet 3,Tablet,U0007,Docente,2026-08-28,19:00,20:00,1,Completada,0.0
+RES01149,R021,Proyector 6,Proyector,U0042,Estudiante,2026-08-28,09:00,11:00,2,Cancelada,0.0
+RES01150,R004,Notebook 4,Notebook,U0017,Docente,2026-08-28,10:00,11:00,1,No-show,0.0
+RES01151,R037,Tablet 9,Tablet,U0067,Estudiante,2026-08-28,14:00,15:00,1,No-show,0.0
+RES01152,R024,Pantalla interactiva 1,Pantalla interactiva,U0052,Estudiante,2026-08-28,11:00,13:00,2,Cancelada,0.0
+RES01153,R030,Tablet 2,Tablet,U0047,Estudiante,2026-08-28,14:00,16:00,2,Completada,0.0
+RES01154,R001,Notebook 1,Notebook,U0071,Estudiante,2026-08-28,14:00,16:00,2,Completada,0.0
+RES01155,R023,Proyector 8,Proyector,U0082,Estudiante,2026-08-28,15:00,17:00,2,Completada,1.0
+RES01156,R001,Notebook 1,Notebook,U0020,Docente,2026-08-31,13:00,14:00,1,Completada,0.0
+RES01157,R011,Notebook 11,Notebook,U0042,Estudiante,2026-08-31,15:00,19:00,4,Completada,
+RES01158,R009,Notebook 9,Notebook,U0060,Estudiante,2026-08-31,19:00,22:00,3,Completada,0.0
+RES01159,R037,Tablet 9,Tablet,U0020,Docente,2026-08-31,12:00,14:00,2,Completada,1.0
+RES01160,R021,Proyector 6,Proyector,U0088,Administrativo,2026-08-31,17:00,21:00,4,Completada,0.0
+RES01161,R012,Notebook 12,Notebook,U0055,Estudiante,2026-08-31,11:00,12:00,1,Completada,0.0
+RES01162,R006,Notebook 6,Notebook,U0041,Estudiante,2026-08-31,14:00,15:00,1,Completada,4.0
+RES01163,R022,Proyector 7,Proyector,U0022,Docente,2026-08-31,11:00,14:00,3,Completada,0.0
+RES01164,R025,Pantalla interactiva 2,Pantalla interactiva,U0005,Docente,2026-08-31,13:00,15:00,2,Completada,0.0
+RES01165,R018,Proyector 3,Proyector,U0093,Administrativo,2026-08-31,10:00,12:00,2,Completada,0.0
+RES01166,R023,Proyector 8,Proyector,U0056,Estudiante,2026-08-31,14:00,15:00,1,Completada,0.0
+RES01167,R032,Tablet 4,Tablet,U0025,Docente,2026-08-31,16:00,18:00,2,Completada,0.0
+RES01168,R009,Notebook 9,Notebook,U0085,Estudiante,2026-08-31,14:00,15:00,1,Completada,0.0
+RES01169,R024,Pantalla interactiva 1,Pantalla interactiva,U0008,Docente,2026-08-31,19:00,20:00,1,Completada,0.0
+RES01170,R026,Pantalla interactiva 3,Pantalla interactiva,U0011,Docente,2026-09-01,12:00,13:00,1,Completada,0.0
+RES01171,R009,Notebook 9,Notebook,U0056,Estudiante,2026-09-01,13:00,14:00,1,Completada,0.0
+RES01172,R010,Notebook 10,Notebook,U0002,Docente,2026-09-01,13:00,14:00,1,Completada,0.0
+RES01173,R040,Parlante portátil 2,Parlante portátil,U0082,Estudiante,2026-09-01,13:00,16:00,3,Completada,0.0
+RES01174,R023,Proyector 8,Proyector,U0069,Estudiante,2026-09-01,09:00,12:00,3,Completada,0.0
+RES01175,R028,Pantalla interactiva 5,Pantalla interactiva,U0090,Administrativo,2026-09-01,09:00,11:00,2,Completada,4.0
+RES01176,R014,Notebook 14,Notebook,U0078,Estudiante,2026-09-01,14:00,16:00,2,Cancelada,0.0
+RES01177,R011,Notebook 11,Notebook,U0046,Estudiante,2026-09-01,11:00,12:00,1,Completada,0.0
+RES01178,R030,Tablet 2,Tablet,U0069,Estudiante,2026-09-01,18:00,19:00,1,Completada,0.0
+RES01179,R033,Tablet 5,Tablet,U0037,Estudiante,2026-09-02,09:00,11:00,2,Completada,0.0
+RES01180,R017,Proyector 2,Proyector,U0017,Docente,2026-09-02,16:00,19:00,3,Completada,0.0
+RES01181,R017,Proyector 2,Proyector,U0005,Docente,2026-09-02,18:00,19:00,1,No-show,0.0
+RES01182,R007,Notebook 7,Notebook,U0055,Estudiante,2026-09-02,11:00,12:00,1,Completada,0.0
+RES01183,R008,Notebook 8,Notebook,U0055,Estudiante,2026-09-02,10:00,12:00,2,Completada,0.0
+RES01184,R034,Tablet 6,Tablet,U0087,Administrativo,2026-09-02,19:00,22:00,3,Completada,0.0
+RES01185,R026,Pantalla interactiva 3,Pantalla interactiva,U0084,Estudiante,2026-09-02,14:00,15:00,1,Completada,0.0
+RES01186,R002,Notebook 2,Notebook,U0071,Estudiante,2026-09-02,09:00,11:00,2,Cancelada,0.0
+RES01187,R019,Proyector 4,Proyector,U0003,Docente,2026-09-02,16:00,17:00,1,Completada,0.0
+RES01188,R003,Notebook 3,Notebook,U0076,Estudiante,2026-09-02,17:00,19:00,2,Completada,0.0
+RES01189,R025,Pantalla interactiva 2,Pantalla interactiva,U0083,Estudiante,2026-09-02,09:00,10:00,1,Completada,0.0
+RES01190,R003,Notebook 3,Notebook,U0081,Estudiante,2026-09-03,11:00,12:00,1,Completada,0.0
+RES01191,R028,Pantalla interactiva 5,Pantalla interactiva,U0071,Estudiante,2026-09-03,16:00,19:00,3,Completada,0.0
+RES01192,R028,Pantalla interactiva 5,Pantalla interactiva,U0041,Estudiante,2026-09-03,15:00,16:00,1,Completada,0.0
+RES01193,R018,Proyector 3,Proyector,U0009,Docente,2026-09-03,09:00,10:00,1,Cancelada,0.0
+RES01194,R028,Pantalla interactiva 5,Pantalla interactiva,U0016,Docente,2026-09-03,12:00,14:00,2,No-show,0.0
+RES01195,R007,Notebook 7,Notebook,U0039,Estudiante,2026-09-03,08:00,10:00,2,Completada,0.0
+RES01196,R014,Notebook 14,Notebook,U0087,Administrativo,2026-09-03,13:00,15:00,2,Completada,0.0
+RES01197,R008,Notebook 8,Notebook,U0065,Estudiante,2026-09-03,17:00,19:00,2,Completada,0.0
+RES01198,R006,Notebook 6,Notebook,U0014,Docente,2026-09-03,15:00,16:00,1,Cancelada,0.0
+RES01199,R010,Notebook 10,Notebook,U0078,Estudiante,2026-09-03,10:00,11:00,1,Completada,0.0
+RES01200,R035,Tablet 7,Tablet,U0032,Estudiante,2026-09-04,08:00,09:00,1,Completada,0.0
+RES01201,R036,Tablet 8,Tablet,U0073,Estudiante,2026-09-04,12:00,14:00,2,Completada,0.0
+RES01202,R016,Proyector 1,Proyector,U0072,Estudiante,2026-09-04,16:00,18:00,2,Completada,0.0
+RES01203,R013,Notebook 13,Notebook,U0083,Estudiante,2026-09-04,18:00,19:00,1,Completada,0.0
+RES01204,R004,Notebook 4,Notebook,U0058,Estudiante,2026-09-04,09:00,10:00,1,Completada,0.0
+RES01205,R002,Notebook 2,Notebook,U0088,Administrativo,2026-09-07,18:00,21:00,3,Completada,0.0
+RES01206,R040,Parlante portátil 2,Parlante portátil,U0059,Estudiante,2026-09-07,15:00,16:00,1,Completada,0.0
+RES01207,R026,Pantalla interactiva 3,Pantalla interactiva,U0033,Estudiante,2026-09-07,15:00,16:00,1,Completada,0.0
+RES01208,R016,Proyector 1,Proyector,U0072,Estudiante,2026-09-07,14:00,17:00,3,Completada,3.0
+RES01209,R008,Notebook 8,Notebook,U0051,Estudiante,2026-09-08,18:00,20:00,2,Completada,0.0
+RES01210,R031,Tablet 3,Tablet,U0074,Estudiante,2026-09-08,14:00,18:00,4,Cancelada,0.0
+RES01211,R038,Tablet 10,Tablet,U0056,Estudiante,2026-09-08,14:00,16:00,2,Completada,0.0
+RES01212,R024,Pantalla interactiva 1,Pantalla interactiva,U0079,Estudiante,2026-09-08,18:00,19:00,1,Completada,0.0
+RES01213,R013,Notebook 13,Notebook,U0055,Estudiante,2026-09-08,14:00,15:00,1,Cancelada,0.0
+RES01214,R038,Tablet 10,Tablet,U0052,Estudiante,2026-09-08,08:00,09:00,1,Completada,0.0
+RES01215,R008,Notebook 8,Notebook,U0026,Estudiante,2026-09-08,10:00,13:00,3,Completada,0.0
+RES01216,R006,Notebook 6,Notebook,U0048,Estudiante,2026-09-08,10:00,13:00,3,Completada,0.0
+RES01217,R008,Notebook 8,Notebook,U0054,Estudiante,2026-09-08,10:00,11:00,1,Completada,0.0
+RES01218,R007,Notebook 7,Notebook,U0010,Docente,2026-09-08,11:00,12:00,1,Cancelada,0.0
+RES01219,R008,Notebook 8,Notebook,U0062,Estudiante,2026-09-09,16:00,18:00,2,Completada,0.0
+RES01220,R019,Proyector 4,Proyector,U0005,Docente,2026-09-09,14:00,15:00,1,Completada,
+RES01221,R006,Notebook 6,Notebook,U0042,,2026-09-09,10:00,12:00,2,Completada,0.0
+RES01222,R032,Tablet 4,Tablet,U0015,Docente,2026-09-09,19:00,20:00,1,Completada,0.0
+RES01223,R040,Parlante portátil 2,Parlante portátil,U0054,Estudiante,2026-09-09,12:00,14:00,2,Completada,0.0
+RES01224,R016,Proyector 1,Proyector,U0061,Estudiante,2026-09-09,12:00,13:00,1,Completada,0.0
+RES01225,R037,Tablet 9,Tablet,U0084,Estudiante,2026-09-09,09:00,11:00,2,Completada,0.0
+RES01226,R005,Notebook 5,Notebook,U0014,Docente,2026-09-09,12:00,13:00,1,Completada,0.0
+RES01227,R020,Proyector 5,Proyector,U0023,Docente,2026-09-10,16:00,18:00,2,Cancelada,0.0
+RES01228,R010,Notebook 10,Notebook,U0030,Estudiante,2026-09-10,08:00,10:00,2,Completada,0.0
+RES01229,R038,Tablet 10,Tablet,U0049,Estudiante,2026-09-10,14:00,17:00,3,Completada,0.0
+RES01230,R008,Notebook 8,Notebook,U0018,Docente,2026-09-10,14:00,17:00,3,No-show,0.0
+RES01231,R036,Tablet 8,Tablet,U0008,Docente,2026-09-10,08:00,12:00,4,Completada,0.0
+RES01232,R037,Tablet 9,Tablet,U0093,Administrativo,2026-09-10,09:00,10:00,1,Completada,0.0
+RES01233,R011,Notebook 11,Notebook,U0088,Administrativo,2026-09-10,14:00,15:00,1,Completada,0.0
+RES01234,R015,Notebook 15,Notebook,U0066,Estudiante,2026-09-10,11:00,12:00,1,Completada,0.0
+RES01235,R027,Pantalla interactiva 4,Pantalla interactiva,U0029,Estudiante,2026-09-10,17:00,21:00,4,Completada,0.0
+RES01236,R004,Notebook 4,Notebook,U0075,Estudiante,2026-09-10,19:00,20:00,1,Completada,0.0
+RES01237,R018,Proyector 3,Proyector,U0012,Docente,2026-09-10,19:00,20:00,1,Completada,0.0
+RES01238,R034,Tablet 6,Tablet,U0037,Estudiante,2026-09-10,14:00,17:00,3,Completada,0.0
+RES01239,R034,Tablet 6,Tablet,U0083,Estudiante,2026-09-10,14:00,18:00,4,Completada,0.0
+RES01240,R007,Notebook 7,Notebook,U0015,Docente,2026-09-10,11:00,14:00,3,Completada,0.0
+RES01241,R038,Tablet 10,Tablet,U0013,Docente,2026-09-10,17:00,19:00,2,Completada,0.0
+RES01242,R005,Notebook 5,Notebook,U0054,Estudiante,2026-09-10,11:00,12:00,1,Completada,2.0
+RES01243,R020,Proyector 5,Proyector,U0029,Estudiante,2026-09-11,11:00,12:00,1,Completada,0.0
+RES01244,R034,Tablet 6,Tablet,U0070,Estudiante,2026-09-11,16:00,17:00,1,Completada,4.0
+RES01245,R007,Notebook 7,Notebook,U0058,Estudiante,2026-09-11,10:00,11:00,1,Completada,0.0
+RES01246,R007,Notebook 7,Notebook,U0065,Estudiante,2026-09-11,10:00,12:00,2,Completada,1.0
+RES01247,R012,Notebook 12,Notebook,U0084,Estudiante,2026-09-11,16:00,17:00,1,Cancelada,0.0
+RES01248,R007,Notebook 7,Notebook,U0019,Docente,2026-09-11,11:00,13:00,2,Cancelada,0.0
+RES01249,R036,Tablet 8,Tablet,U0071,Estudiante,2026-09-11,08:00,10:00,2,Completada,0.0
+RES01250,R029,Tablet 1,Tablet,U0085,Estudiante,2026-09-11,16:00,18:00,2,Cancelada,0.0
+RES01251,R009,Notebook 9,Notebook,U0066,Estudiante,2026-09-11,09:00,13:00,4,Completada,0.0
+RES01252,R043,Parlante portátil 5,Parlante portátil,U0060,Estudiante,2026-09-11,16:00,18:00,2,Completada,0.0
+RES01253,R008,Notebook 8,Notebook,U0012,Docente,2026-09-11,17:00,18:00,1,Completada,0.0
+RES01254,R027,Pantalla interactiva 4,Pantalla interactiva,U0086,Administrativo,2026-09-14,10:00,11:00,1,Completada,0.0
+RES01255,R008,Notebook 8,Notebook,U0014,Docente,2026-09-14,12:00,13:00,1,Completada,0.0
+RES01256,R006,Notebook 6,Notebook,U0013,Docente,2026-09-14,13:00,15:00,2,Completada,0.0
+RES01257,R005,Notebook 5,Notebook,U0047,Estudiante,2026-09-14,09:00,10:00,1,Completada,0.0
+RES01258,R014,Notebook 14,Notebook,U0043,Estudiante,2026-09-14,19:00,22:00,4,Completada,0.0
+RES01259,R007,Notebook 7,Notebook,U0030,Estudiante,2026-09-14,17:00,19:00,2,Completada,0.0
+RES01260,R022,Proyector 7,Proyector,U0010,,2026-09-14,12:00,13:00,1,Completada,0.0
+RES01261,R028,Pantalla interactiva 5,Pantalla interactiva,U0085,Estudiante,2026-09-14,09:00,10:00,1,Completada,0.0
+RES01262,R009,Notebook 9,Notebook,U0016,Docente,2026-09-15,12:00,15:00,3,Completada,0.0
+RES01263,R041,Parlante portátil 3,Parlante portátil,U0034,Estudiante,2026-09-15,11:00,13:00,2,Completada,0.0
+RES01264,R027,Pantalla interactiva 4,Pantalla interactiva,U0039,Estudiante,2026-09-15,14:00,16:00,2,Completada,0.0
+RES01265,R020,Proyector 5,Proyector,U0012,Docente,2026-09-15,10:00,13:00,3,Completada,3.0
+RES01266,R040,Parlante portátil 2,Parlante portátil,U0054,Estudiante,2026-09-15,11:00,14:00,3,Cancelada,0.0
+RES01267,R034,Tablet 6,Tablet,U0092,Administrativo,2026-09-15,09:00,13:00,4,Cancelada,0.0
+RES01268,R036,Tablet 8,Tablet,U0048,Estudiante,2026-09-15,13:00,16:00,3,Cancelada,0.0
+RES01269,R001,Notebook 1,Notebook,U0051,Estudiante,2026-09-16,10:00,12:00,2,Completada,0.0
+RES01270,R018,Proyector 3,Proyector,U0060,Estudiante,2026-09-16,17:00,18:00,1,Completada,0.0
+RES01271,R016,Proyector 1,Proyector,U0033,Estudiante,2026-09-16,12:00,15:00,3,Completada,0.0
+RES01272,R025,Pantalla interactiva 2,Pantalla interactiva,U0011,Docente,2026-09-16,16:00,17:00,1,Completada,0.0
+RES01273,R019,Proyector 4,Proyector,U0041,Estudiante,2026-09-16,16:00,18:00,2,Completada,0.0
+RES01274,R013,Notebook 13,Notebook,U0072,Estudiante,2026-09-16,14:00,15:00,1,Completada,0.0
+RES01275,R029,Tablet 1,Tablet,U0069,Estudiante,2026-09-16,15:00,16:00,1,Completada,0.0
+RES01276,R010,Notebook 10,Notebook,U0039,Estudiante,2026-09-16,11:00,12:00,1,Completada,0.0
+RES01277,R012,Notebook 12,Notebook,U0009,Docente,2026-09-16,16:00,17:00,1,Completada,0.0
+RES01278,R009,Notebook 9,Notebook,U0025,Docente,2026-09-16,12:00,13:00,1,Completada,0.0
+RES01279,R007,Notebook 7,Notebook,U0056,Estudiante,2026-09-16,17:00,20:00,3,Completada,0.0
+RES01280,R020,Proyector 5,Proyector,U0054,Estudiante,2026-09-17,15:00,18:00,3,Completada,0.0
+RES01281,R021,Proyector 6,Proyector,U0047,Estudiante,2026-09-17,11:00,12:00,1,Completada,4.0
+RES01282,R020,Proyector 5,Proyector,U0010,Docente,2026-09-17,15:00,17:00,2,Completada,4.0
+RES01283,R011,Notebook 11,Notebook,U0033,Estudiante,2026-09-17,16:00,18:00,2,Completada,0.0
+RES01284,R013,Notebook 13,Notebook,U0048,Estudiante,2026-09-17,16:00,20:00,4,Completada,0.0
+RES01285,R030,Tablet 2,Tablet,U0058,Estudiante,2026-09-17,15:00,19:00,4,Cancelada,0.0
+RES01286,R005,Notebook 5,Notebook,U0092,Administrativo,2026-09-17,15:00,17:00,2,Completada,0.0
+RES01287,R038,Tablet 10,Tablet,U0002,Docente,2026-09-17,11:00,13:00,2,Completada,0.0
+RES01288,R022,Proyector 7,Proyector,U0025,Docente,2026-09-17,17:00,21:00,4,Cancelada,0.0
+RES01289,R026,Pantalla interactiva 3,Pantalla interactiva,U0025,Docente,2026-09-18,11:00,13:00,2,Completada,0.0
+RES01290,R023,Proyector 8,Proyector,U0003,Docente,2026-09-18,11:00,12:00,1,Completada,0.0
+RES01291,R001,Notebook 1,Notebook,U0028,Estudiante,2026-09-18,19:00,20:00,1,Completada,0.0
+RES01292,R011,Notebook 11,Notebook,U0070,Estudiante,2026-09-18,10:00,11:00,1,Completada,0.0
+RES01293,R031,Tablet 3,Tablet,U0061,Estudiante,2026-09-18,10:00,11:00,1,No-show,0.0
+RES01294,R018,Proyector 3,Proyector,U0069,Estudiante,2026-09-18,14:00,16:00,2,Completada,0.0
+RES01295,R005,Notebook 5,Notebook,U0026,Estudiante,2026-09-18,11:00,12:00,1,Completada,2.0
+RES01296,R009,Notebook 9,Notebook,U0093,Administrativo,2026-09-18,14:00,15:00,1,Completada,0.0
+RES01297,R024,Pantalla interactiva 1,Pantalla interactiva,U0057,Estudiante,2026-09-18,16:00,18:00,2,Completada,0.0
+RES01298,R030,Tablet 2,Tablet,U0021,Docente,2026-09-18,09:00,10:00,1,Completada,0.0
+RES01299,R026,Pantalla interactiva 3,Pantalla interactiva,U0089,Administrativo,2026-09-19,09:00,10:00,1,Completada,0.0
+RES01300,R010,Notebook 10,Notebook,U0038,Estudiante,2026-09-21,19:00,21:00,2,No-show,0.0
+RES01301,R008,Notebook 8,Notebook,U0039,Estudiante,2026-09-21,19:00,22:00,3,Cancelada,0.0
+RES01302,R010,Notebook 10,Notebook,U0028,Estudiante,2026-09-21,09:00,10:00,1,Completada,0.0
+RES01303,R022,Proyector 7,Proyector,U0044,Estudiante,2026-09-21,15:00,16:00,1,Completada,0.0
+RES01304,R004,Notebook 4,Notebook,U0038,Estudiante,2026-09-21,14:00,15:00,1,No-show,0.0
+RES01305,R019,Proyector 4,Proyector,U0070,Estudiante,2026-09-21,17:00,18:00,1,Completada,0.0
+RES01306,R006,Notebook 6,Notebook,U0038,Estudiante,2026-09-22,11:00,12:00,1,Cancelada,0.0
+RES01307,R012,Notebook 12,Notebook,U0044,Estudiante,2026-09-22,19:00,20:00,1,Completada,0.0
+RES01308,R024,Pantalla interactiva 1,Pantalla interactiva,U0054,Estudiante,2026-09-22,08:00,10:00,2,Completada,0.0
+RES01309,R011,Notebook 11,Notebook,U0093,Administrativo,2026-09-22,08:00,12:00,4,Completada,0.0
+RES01310,R036,Tablet 8,Tablet,U0030,Estudiante,2026-09-22,08:00,09:00,1,Completada,0.0
+RES01311,R007,Notebook 7,Notebook,U0013,Docente,2026-09-22,15:00,16:00,1,Completada,0.0
+RES01312,R044,Parlante portátil 6,Parlante portátil,U0056,Estudiante,2026-09-22,11:00,14:00,3,Completada,0.0
+RES01313,R014,Notebook 14,Notebook,U0006,Docente,2026-09-22,08:00,10:00,2,Completada,0.0
+RES01314,R035,Tablet 7,Tablet,U0068,Estudiante,2026-09-22,15:00,19:00,4,Completada,0.0
+RES01315,R010,Notebook 10,Notebook,U0004,Docente,2026-09-22,08:00,09:00,1,Completada,0.0
+RES01316,R001,Notebook 1,Notebook,U0058,Estudiante,2026-09-22,14:00,18:00,4,Completada,3.0
+RES01317,R011,Notebook 11,Notebook,U0005,Docente,2026-09-22,12:00,13:00,1,Cancelada,0.0
+RES01318,R010,Notebook 10,Notebook,U0091,Administrativo,2026-09-22,12:00,16:00,4,Cancelada,0.0
+RES01319,R006,Notebook 6,Notebook,U0090,Administrativo,2026-09-22,17:00,18:00,1,Completada,0.0
+RES01320,R016,Proyector 1,Proyector,U0063,Estudiante,2026-09-22,09:00,11:00,2,Completada,0.0
+RES01321,R021,Proyector 6,Proyector,U0010,Docente,2026-09-22,13:00,14:00,1,No-show,0.0
+RES01322,R025,Pantalla interactiva 2,Pantalla interactiva,U0073,Estudiante,2026-09-22,18:00,19:00,1,Completada,0.0
+RES01323,R037,Tablet 9,Tablet,U0024,Docente,2026-09-22,18:00,20:00,2,Completada,0.0
+RES01324,R025,Pantalla interactiva 2,Pantalla interactiva,U0021,Docente,2026-09-23,10:00,11:00,1,Completada,0.0
+RES01325,R020,Proyector 5,Proyector,U0093,Administrativo,2026-09-23,09:00,10:00,1,Completada,0.0
+RES01326,R018,Proyector 3,Proyector,U0038,Estudiante,2026-09-23,15:00,16:00,1,Completada,0.0
+RES01327,R031,Tablet 3,Tablet,U0024,Docente,2026-09-23,15:00,16:00,1,Completada,0.0
+RES01328,R023,Proyector 8,Proyector,U0023,Docente,2026-09-23,10:00,11:00,1,Completada,0.0
+RES01329,R020,Proyector 5,Proyector,U0071,Estudiante,2026-09-23,13:00,14:00,1,Cancelada,0.0
+RES01330,R017,Proyector 2,Proyector,U0008,Docente,2026-09-23,16:00,17:00,1,Completada,0.0
+RES01331,R028,Pantalla interactiva 5,Pantalla interactiva,U0059,Estudiante,2026-09-23,18:00,19:00,1,Cancelada,0.0
+RES01332,R041,Parlante portátil 3,Parlante portátil,U0054,Estudiante,2026-09-23,17:00,19:00,2,Completada,0.0
+RES01333,R003,Notebook 3,Notebook,U0090,Administrativo,2026-09-23,12:00,13:00,1,Completada,0.0
+RES01334,R021,Proyector 6,Proyector,U0018,Docente,2026-09-23,17:00,18:00,1,No-show,0.0
+RES01335,R044,Parlante portátil 6,Parlante portátil,U0092,Administrativo,2026-09-23,15:00,17:00,2,Completada,0.0
+RES01336,R005,Notebook 5,Notebook,U0046,Estudiante,2026-09-23,14:00,15:00,1,No-show,0.0
+RES01337,R024,Pantalla interactiva 1,Pantalla interactiva,U0037,Estudiante,2026-09-23,16:00,18:00,2,Completada,0.0
+RES01338,R021,Proyector 6,Proyector,U0008,Docente,2026-09-23,15:00,16:00,1,Completada,0.0
+RES01339,R006,Notebook 6,Notebook,U0026,Estudiante,2026-09-23,10:00,13:00,3,Completada,0.0
+RES01340,R034,Tablet 6,Tablet,U0066,Estudiante,2026-09-23,15:00,17:00,2,Completada,0.0
+RES01341,R014,Notebook 14,Notebook,U0033,Estudiante,2026-09-23,11:00,12:00,1,Completada,0.0
+RES01342,R017,Proyector 2,Proyector,U0023,Docente,2026-09-23,12:00,13:00,1,Completada,0.0
+RES01343,R005,Notebook 5,Notebook,U0008,Docente,2026-09-24,16:00,19:00,3,Completada,0.0
+RES01344,R030,Tablet 2,Tablet,U0019,Docente,2026-09-24,14:00,18:00,4,Completada,0.0
+RES01345,R018,Proyector 3,Proyector,U0078,Estudiante,2026-09-24,16:00,18:00,2,Completada,0.0
+RES01346,R015,Notebook 15,Notebook,U0001,Docente,2026-09-24,17:00,19:00,2,Completada,0.0
+RES01347,R012,Notebook 12,Notebook,U0051,Estudiante,2026-09-24,10:00,11:00,1,Completada,0.0
+RES01348,R017,Proyector 2,Proyector,U0050,Estudiante,2026-09-24,14:00,15:00,1,Completada,0.0
+RES01349,R023,Proyector 8,Proyector,U0033,Estudiante,2026-09-24,14:00,16:00,2,Completada,0.0
+RES01350,R013,Notebook 13,Notebook,U0078,,2026-09-24,08:00,09:00,1,Completada,0.0
+RES01351,R011,Notebook 11,Notebook,U0037,Estudiante,2026-09-24,19:00,20:00,1,Cancelada,0.0
+RES01352,R042,Parlante portátil 4,Parlante portátil,U0036,Estudiante,2026-09-24,14:00,18:00,4,Completada,0.0
+RES01353,R007,Notebook 7,Notebook,U0030,Estudiante,2026-09-25,14:00,16:00,2,Completada,0.0
+RES01354,R016,Proyector 1,Proyector,U0058,Estudiante,2026-09-25,13:00,14:00,1,Completada,0.0
+RES01355,R023,Proyector 8,Proyector,U0019,Docente,2026-09-25,18:00,19:00,1,Cancelada,0.0
+RES01356,R009,Notebook 9,Notebook,U0055,Estudiante,2026-09-25,10:00,12:00,2,Completada,0.0
+RES01357,R028,Pantalla interactiva 5,Pantalla interactiva,U0085,Estudiante,2026-09-25,11:00,13:00,2,Completada,2.0
+RES01358,R008,Notebook 8,Notebook,U0030,Estudiante,2026-09-25,18:00,20:00,2,Completada,3.0
+RES01359,R007,Notebook 7,Notebook,U0092,Administrativo,2026-09-25,15:00,16:00,1,Completada,0.0
+RES01360,R004,Notebook 4,Notebook,U0038,Estudiante,2026-09-28,11:00,13:00,2,Completada,0.0
+RES01361,R030,Tablet 2,Tablet,U0074,Estudiante,2026-09-28,10:00,13:00,3,Completada,0.0
+RES01362,R002,Notebook 2,Notebook,U0013,Docente,2026-09-28,12:00,14:00,2,Completada,0.0
+RES01363,R011,Notebook 11,Notebook,U0081,Estudiante,2026-09-28,17:00,18:00,1,Completada,0.0
+RES01364,R020,Proyector 5,Proyector,U0081,Estudiante,2026-09-28,08:00,09:00,1,Completada,0.0
+RES01365,R031,Tablet 3,Tablet,U0006,Docente,2026-09-28,12:00,13:00,1,Cancelada,0.0
+RES01366,R031,Tablet 3,Tablet,U0027,Estudiante,2026-09-28,11:00,14:00,3,Completada,0.0
+RES01367,R035,Tablet 7,Tablet,U0022,Docente,2026-09-28,16:00,17:00,1,Completada,0.0
+RES01368,R009,Notebook 9,Notebook,U0059,Estudiante,2026-09-28,13:00,14:00,1,Completada,0.0
+RES01369,R010,Notebook 10,Notebook,U0091,Administrativo,2026-09-28,15:00,17:00,2,Cancelada,0.0
+RES01370,R003,Notebook 3,Notebook,U0079,Estudiante,2026-09-28,18:00,20:00,2,Cancelada,0.0
+RES01371,R015,Notebook 15,Notebook,U0003,Docente,2026-09-28,16:00,18:00,2,Completada,0.0
+RES01372,R037,Tablet 9,Tablet,U0007,Docente,2026-09-28,12:00,13:00,1,Completada,0.0
+RES01373,R008,Notebook 8,Notebook,U0035,Estudiante,2026-09-28,12:00,15:00,3,Completada,0.0
+RES01374,R016,Proyector 1,Proyector,U0071,Estudiante,2026-09-28,12:00,14:00,2,Completada,4.0
+RES01375,R037,Tablet 9,Tablet,U0074,Estudiante,2026-09-28,08:00,09:00,1,Completada,0.0
+RES01376,R023,Proyector 8,Proyector,U0068,Estudiante,2026-09-29,10:00,13:00,3,Completada,0.0
+RES01377,R019,Proyector 4,Proyector,U0041,Estudiante,2026-09-29,14:00,15:00,1,Cancelada,0.0
+RES01378,R003,Notebook 3,Notebook,U0088,Administrativo,2026-09-29,16:00,17:00,1,Cancelada,0.0
+RES01379,R009,Notebook 9,Notebook,U0060,Estudiante,2026-09-29,18:00,19:00,1,Completada,0.0
+RES01380,R016,Proyector 1,Proyector,U0090,Administrativo,2026-09-29,15:00,16:00,1,Cancelada,0.0
+RES01381,R025,Pantalla interactiva 2,Pantalla interactiva,U0040,Estudiante,2026-09-29,14:00,17:00,3,Completada,0.0
+RES01382,R024,Pantalla interactiva 1,Pantalla interactiva,U0026,Estudiante,2026-09-29,14:00,16:00,2,No-show,0.0
+RES01383,R040,Parlante portátil 2,Parlante portátil,U0071,Estudiante,2026-09-29,17:00,19:00,2,Completada,0.0
+RES01384,R028,Pantalla interactiva 5,Pantalla interactiva,U0089,Administrativo,2026-09-29,14:00,18:00,4,Completada,0.0
+RES01385,R018,Proyector 3,Proyector,U0063,Estudiante,2026-09-29,17:00,20:00,3,Completada,3.0
+RES01386,R003,Notebook 3,Notebook,U0053,Estudiante,2026-09-29,18:00,21:00,3,Cancelada,0.0
+RES01387,R040,Parlante portátil 2,Parlante portátil,U0001,Docente,2026-09-29,17:00,18:00,1,Cancelada,0.0
+RES01388,R023,Proyector 8,Proyector,U0039,Estudiante,2026-09-29,15:00,16:00,1,Completada,0.0
+RES01389,R003,Notebook 3,Notebook,U0090,Administrativo,2026-09-29,09:00,12:00,3,Completada,0.0
+RES01390,R016,Proyector 1,Proyector,U0092,Administrativo,2026-09-29,16:00,18:00,2,Completada,0.0
+RES01391,R006,Notebook 6,Notebook,U0073,Estudiante,2026-09-30,08:00,11:00,3,Cancelada,0.0
+RES01392,R008,Notebook 8,Notebook,U0078,,2026-09-30,15:00,17:00,2,Completada,0.0
+RES01393,R009,Notebook 9,Notebook,U0035,Estudiante,2026-09-30,19:00,22:00,4,No-show,0.0
+RES01394,R027,Pantalla interactiva 4,Pantalla interactiva,U0043,Estudiante,2026-09-30,19:00,20:00,1,Completada,0.0
+RES01395,R005,Notebook 5,Notebook,U0050,Estudiante,2026-09-30,11:00,12:00,1,Completada,0.0
+RES01396,R006,Notebook 6,Notebook,U0074,Estudiante,2026-09-30,17:00,19:00,2,Completada,3.0
+RES01397,R026,Pantalla interactiva 3,Pantalla interactiva,U0027,Estudiante,2026-09-30,08:00,12:00,4,Completada,0.0
+RES01398,R033,Tablet 5,Tablet,U0033,Estudiante,2026-09-30,17:00,18:00,1,Completada,0.0
+RES01399,R017,Proyector 2,Proyector,U0087,Administrativo,2026-09-30,13:00,14:00,1,Completada,0.0
+RES01400,R009,Notebook 9,Notebook,U0045,Estudiante,2026-09-30,09:00,10:00,1,Completada,0.0
+RES01401,R039,Parlante portátil 1,Parlante portátil,U0083,Estudiante,2026-09-30,18:00,19:00,1,Completada,
+RES01402,R018,Proyector 3,Proyector,U0044,Estudiante,2026-09-30,12:00,13:00,1,No-show,0.0
+RES01403,R005,Notebook 5,Notebook,U0054,Estudiante,2026-09-30,16:00,20:00,4,Completada,0.0
+RES00681,R013,Notebook 13,Notebook,U0016,Docente,2026-06-26,09:00,10:00,1,Completada,1.0
+RES01376,R023,Proyector 8,Proyector,U0068,Estudiante,2026-09-29,10:00,13:00,3,Completada,0.0
+RES01247,R012,Notebook 12,Notebook,U0084,Estudiante,2026-09-11,16:00,17:00,1,Cancelada,0.0
+RES01105,R027,Pantalla interactiva 4,Pantalla interactiva,U0015,Docente,2026-08-25,18:00,19:00,1,Completada,0.0
+RES00195,R012,Notebook 12,Notebook,U0038,Estudiante,2026-04-28,12:00,15:00,3,Completada,0.0
+RES00917,R016,Proyector 1,Proyector,U0003,Docente,2026-07-29,19:00,21:00,2,Completada,4.0
+RES00621,R028,Pantalla interactiva 5,Pantalla interactiva,U0067,Estudiante,2026-06-22,19:00,22:00,3,Completada,0.0
+RES00410,R033,Tablet 5,Tablet,U0056,Estudiante,2026-05-26,10:00,12:00,2,Cancelada,0.0
+RES00655,R007,Notebook 7,Notebook,U0048,Estudiante,2026-06-24,10:00,11:00,1,Completada,0.0
+RES01128,R019,Proyector 4,Proyector,U0024,Docente,2026-08-26,11:00,12:00,1,Completada,0.0
