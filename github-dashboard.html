@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard GitHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --paper: #F6F3EC;
+    --card: #FFFDF8;
+    --ink: #1E1B18;
+    --muted: #6B645A;
+    --line: #E2DCCF;
+    --teal: #0F5E5A;
+    --ochre: #C8871E;
+    --red: #A63D2F;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #161412;
+      --card: #201D1A;
+      --ink: #F1ECE2;
+      --muted: #A39A8C;
+      --line: #35302A;
+      --teal: #5FB8B1;
+      --ochre: #E0A845;
+      --red: #E07A68;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  main { max-width: 1100px; margin: 0 auto; padding: 32px 20px 56px; }
+  header { display: flex; flex-wrap: wrap; gap: 16px; align-items: end; justify-content: space-between; margin-bottom: 28px; }
+  h1 {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 700;
+    font-size: clamp(28px, 4vw, 40px);
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .subtitle { color: var(--muted); margin: 4px 0 0; }
+  form { display: flex; gap: 8px; flex-wrap: wrap; }
+  input {
+    font: inherit;
+    padding: 9px 12px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--card);
+    color: var(--ink);
+    min-width: 260px;
+  }
+  button {
+    font: inherit;
+    font-weight: 600;
+    padding: 9px 16px;
+    border: none;
+    border-radius: 6px;
+    background: var(--teal);
+    color: #fff;
+    cursor: pointer;
+  }
+  button:focus-visible, input:focus-visible { outline: 2px solid var(--ochre); outline-offset: 2px; }
+  .status { min-height: 22px; color: var(--muted); margin-bottom: 16px; }
+  .status.error { color: var(--red); }
+  .grid-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .stat {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .stat .value { font-family: "Fraunces", Georgia, serif; font-size: 30px; font-weight: 500; }
+  .stat .label { color: var(--muted); font-size: 13px; }
+  .panels { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
+  @media (max-width: 760px) { .panels { grid-template-columns: 1fr; } }
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 18px;
+    min-width: 0;
+  }
+  .panel h2 { font-size: 15px; font-weight: 600; margin: 0 0 12px; }
+  .chart-box { position: relative; height: 260px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 8px 4px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 500; font-size: 13px; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .commit { padding: 8px 0; border-bottom: 1px solid var(--line); }
+  .commit:last-child { border-bottom: none; }
+  .commit .msg { font-weight: 500; }
+  .commit .meta { color: var(--muted); font-size: 13px; }
+  .full { grid-column: 1 / -1; }
+  .panels .full { grid-column: auto; }
+  .wide { grid-column: 1 / -1; }
+  .layout { display: grid; gap: 16px; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 760px) { .row2 { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div>
+      <h1>Dashboard GitHub</h1>
+      <p class="subtitle">Actividad y métricas de un repositorio público</p>
+    </div>
+    <form id="repo-form">
+      <input id="repo" type="text" placeholder="usuario/repositorio" aria-label="Repositorio" required>
+      <button type="submit">Cargar</button>
+    </form>
+  </header>
+
+  <div id="status" class="status" role="status"></div>
+
+  <section class="grid-stats" aria-label="Resumen">
+    <div class="stat"><div class="value" id="s-stars">–</div><div class="label">Estrellas</div></div>
+    <div class="stat"><div class="value" id="s-forks">–</div><div class="label">Forks</div></div>
+    <div class="stat"><div class="value" id="s-issues">–</div><div class="label">Issues abiertos</div></div>
+    <div class="stat"><div class="value" id="s-prs">–</div><div class="label">PRs fusionados</div></div>
+    <div class="stat"><div class="value" id="s-updated">–</div><div class="label">Último push</div></div>
+  </section>
+
+  <div class="layout">
+    <section class="panel" aria-label="Commits por semana">
+      <h2>Commits por semana (últimas 12 semanas)</h2>
+      <div class="chart-box"><canvas id="chart-commits"></canvas></div>
+    </section>
+
+    <div class="row2">
+      <section class="panel" aria-label="Lenguajes">
+        <h2>Lenguajes</h2>
+        <div class="chart-box"><canvas id="chart-langs"></canvas></div>
+      </section>
+      <section class="panel" aria-label="Issues y PRs">
+        <h2>Issues y PRs</h2>
+        <div class="chart-box"><canvas id="chart-issues"></canvas></div>
+      </section>
+    </div>
+
+    <div class="row2">
+      <section class="panel" aria-label="Colaboradores">
+        <h2>Colaboradores</h2>
+        <table>
+          <thead><tr><th>Usuario</th><th class="num">Commits</th></tr></thead>
+          <tbody id="contrib-body"><tr><td colspan="2">Sin datos</td></tr></tbody>
+        </table>
+      </section>
+      <section class="panel" aria-label="Últimos commits">
+        <h2>Últimos commits</h2>
+        <div id="recent-commits">Sin datos</div>
+      </section>
+    </div>
+  </div>
+</main>
+
+<script>
+const API = "https://api.github.com";
+const charts = {};
+const $ = (id) => document.getElementById(id);
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function fmt(n) { return Number(n).toLocaleString("es-AR"); }
+
+function setStatus(msg, isError = false) {
+  const el = $("status");
+  el.textContent = msg;
+  el.classList.toggle("error", isError);
+}
+
+async function gh(path) {
+  const res = await fetch(API + path, { headers: { Accept: "application/vnd.github+json" } });
+  if (res.status === 404) throw new Error("Repositorio no encontrado o privado.");
+  if (res.status === 403) throw new Error("Límite de la API de GitHub alcanzado. Probá más tarde.");
+  if (!res.ok) throw new Error("Error de GitHub: " + res.status);
+  return res.json();
+}
+
+function weekStart(date) {
+  const d = new Date(date);
+  const day = (d.getUTCDay() + 6) % 7; // lunes = 0
+  d.setUTCHours(0, 0, 0, 0);
+  d.setUTCDate(d.getUTCDate() - day);
+  return d.toISOString().slice(0, 10);
+}
+
+function lastWeeks(n) {
+  const keys = [];
+  const today = new Date();
+  for (let i = n - 1; i >= 0; i--) {
+    const d = new Date(today);
+    d.setUTCDate(d.getUTCDate() - i * 7);
+    keys.push(weekStart(d));
+  }
+  return keys;
+}
+
+function drawChart(id, config) {
+  if (charts[id]) charts[id].destroy();
+  charts[id] = new Chart($(id), config);
+}
+
+function relTime(iso) {
+  const days = Math.floor((Date.now() - new Date(iso)) / 86400000);
+  if (days === 0) return "hoy";
+  if (days === 1) return "hace 1 día";
+  if (days < 30) return `hace ${days} días`;
+  return new Date(iso).toLocaleDateString("es-AR");
+}
+
+async function loadRepo(repo) {
+  setStatus("Cargando " + repo + "…");
+  const [info, commits, issues, pulls, langs, contribs] = await Promise.all([
+    gh(`/repos/${repo}`),
+    gh(`/repos/${repo}/commits?per_page=100`),
+    gh(`/repos/${repo}/issues?state=all&per_page=100`),
+    gh(`/repos/${repo}/pulls?state=all&per_page=100`),
+    gh(`/repos/${repo}/languages`),
+    gh(`/repos/${repo}/contributors?per_page=10`).catch(() => []),
+  ]);
+
+  // Resumen
+  $("s-stars").textContent = fmt(info.stargazers_count);
+  $("s-forks").textContent = fmt(info.forks_count);
+  const realIssues = issues.filter((i) => !i.pull_request);
+  $("s-issues").textContent = fmt(realIssues.filter((i) => i.state === "open").length);
+  const merged = pulls.filter((p) => p.merged_at).length;
+  $("s-prs").textContent = fmt(merged);
+  $("s-updated").textContent = relTime(info.pushed_at);
+
+  // Commits por semana
+  const weeks = lastWeeks(12);
+  const counts = Object.fromEntries(weeks.map((w) => [w, 0]));
+  commits.forEach((c) => {
+    const w = weekStart(c.commit.author.date);
+    if (w in counts) counts[w]++;
+  });
+  drawChart("chart-commits", {
+    type: "bar",
+    data: {
+      labels: weeks.map((w) => w.slice(5)),
+      datasets: [{ label: "Commits", data: weeks.map((w) => counts[w]), backgroundColor: getComputedStyle(document.documentElement).getPropertyValue("--teal"), borderRadius: 4 }],
+    },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } },
+  });
+
+  // Lenguajes
+  const langEntries = Object.entries(langs).sort((a, b) => b[1] - a[1]);
+  const palette = ["#0F5E5A", "#C8871E", "#A63D2F", "#6B645A", "#5FB8B1", "#E0A845"];
+  drawChart("chart-langs", {
+    type: "doughnut",
+    data: {
+      labels: langEntries.map((e) => e[0]),
+      datasets: [{ data: langEntries.map((e) => e[1]), backgroundColor: palette }],
+    },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: "bottom" } } },
+  });
+
+  // Issues y PRs
+  const issuesOpen = realIssues.filter((i) => i.state === "open").length;
+  const issuesClosed = realIssues.length - issuesOpen;
+  const prsOpen = pulls.filter((p) => p.state === "open").length;
+  const prsMerged = merged;
+  const prsClosed = pulls.length - prsOpen - prsMerged;
+  drawChart("chart-issues", {
+    type: "bar",
+    data: {
+      labels: ["Issues", "PRs"],
+      datasets: [
+        { label: "Abiertos", data: [issuesOpen, prsOpen], backgroundColor: "#C8871E" },
+        { label: "Cerrados / fusionados", data: [issuesClosed, prsMerged + prsClosed], backgroundColor: "#0F5E5A" },
+      ],
+    },
+    options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } },
+  });
+
+  // Colaboradores
+  const rows = contribs.map((c) =>
+    `<tr><td><a href="${esc(c.html_url)}" target="_blank" rel="noopener">${esc(c.login)}</a></td><td class="num">${fmt(c.contributions)}</td></tr>`
+  ).join("");
+  $("contrib-body").innerHTML = rows || `<tr><td colspan="2">Sin datos</td></tr>`;
+
+  // Últimos commits
+  $("recent-commits").innerHTML = commits.slice(0, 6).map((c) => {
+    const msg = c.commit.message.split("\n")[0];
+    const who = c.author?.login || c.commit.author.name;
+    return `<div class="commit"><div class="msg">${esc(msg)}</div>
+      <div class="meta">${esc(who)} · ${relTime(c.commit.author.date)}</div></div>`;
+  }).join("") || "Sin commits";
+
+  setStatus(`Datos de ${info.full_name} actualizados el ${new Date().toLocaleString("es-AR")}.`);
+}
+
+$("repo-form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const repo = $("repo").value.trim().replace(/^https?:\/\/github\.com\//, "").replace(/\/$/, "");
+  if (!/^[\w.-]+\/[\w.-]+$/.test(repo)) {
+    setStatus("Escribí el formato usuario/repositorio.", true);
+    return;
+  }
+  history.replaceState(null, "", "?repo=" + encodeURIComponent(repo));
+  try {
+    await loadRepo(repo);
+  } catch (err) {
+    setStatus(err.message, true);
+  }
+});
+
+// Permite abrir directamente: ?repo=usuario/repositorio
+const params = new URLSearchParams(location.search);
+if (params.get("repo")) {
+  $("repo").value = params.get("repo");
+  $("repo-form").requestSubmit();
+}
+</script>
+</body>
+</html>
